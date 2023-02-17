@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'hds-iconlibrary-social-16px';
+  src: url("./hds-iconlibrary-social-16px.eot?b84cce9e0d4cbead0dbc2caa90514a3a#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-social-16px.woff2?b84cce9e0d4cbead0dbc2caa90514a3a") format("woff2"),
+url("./hds-iconlibrary-social-16px.woff?b84cce9e0d4cbead0dbc2caa90514a3a") format("woff");
+}
+
+i[class^='hds-iconlibrary-social-16px']::before {
+  font-family: hds-iconlibrary-social-16px, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal !important;
+  line-height: 1;
+  text-transform: none;
+}
+
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-camera_solid_16px::before {
+  content: '\f101';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-chat_outline_16px::before {
+  content: '\f102';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-chat_solid_16px::before {
+  content: '\f103';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-edit-image_solid_16px::before {
+  content: '\f104';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-heart_solid_16px::before {
+  content: '\f105';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-image_solid_16px::before {
+  content: '\f106';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-live_solid_16px::before {
+  content: '\f107';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-mail_solid_16px::before {
+  content: '\f108';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-masking_solid_16px::before {
+  content: '\f109';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-star_solid_16px::before {
+  content: '\f10a';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-star-empty_solid_16px::before {
+  content: '\f10b';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-tag-hearted_solid_16px::before {
+  content: '\f10c';
+}
+i[class^='hds-iconlibrary-social-16px'].hds-icon-social-telephone_solid_16px::before {
+  content: '\f10d';
+}

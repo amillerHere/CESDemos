@@ -1,0 +1,61 @@
+{
+    "pages": [
+        "Geometric_Shapes.png"
+    ],
+    "chars": [
+        {
+            "id": 9676,
+            "index": 302,
+            "char": "◌",
+            "width": 21,
+            "height": 21,
+            "xoffset": -1,
+            "yoffset": 17,
+            "xadvance": 18,
+            "chnl": 15,
+            "x": 0,
+            "y": 0,
+            "page": 0
+        }
+    ],
+    "info": {
+        "face": "NotoSansGurmukhi-Regular-unhinted",
+        "size": 32,
+        "bold": 0,
+        "italic": 0,
+        "charset": [
+            "◌"
+        ],
+        "unicode": 1,
+        "stretchH": 100,
+        "smooth": 1,
+        "aa": 1,
+        "padding": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "spacing": [
+            0,
+            0
+        ]
+    },
+    "common": {
+        "lineHeight": 42,
+        "base": 33,
+        "scaleW": 21,
+        "scaleH": 21,
+        "pages": 1,
+        "packed": 0,
+        "alphaChnl": 0,
+        "redChnl": 0,
+        "greenChnl": 0,
+        "blueChnl": 0
+    },
+    "distanceField": {
+        "fieldType": "msdf",
+        "distanceRange": 8
+    },
+    "kernings": []
+}

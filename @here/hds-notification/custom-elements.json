@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-notification.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "Notification",
+          "slots": [
+            {
+              "description": "Main content for the notification",
+              "name": "default"
+            }
+          ],
+          "members": [
+            {
+              "kind": "field",
+              "name": "open",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "open",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "notificationTitle",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "attribute": "notification-title",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "variant",
+              "type": {
+                "text": "NotificationVariant"
+              },
+              "default": "'information'",
+              "attribute": "variant",
+              "description": "'information' | 'confirmation' | 'warning' | 'error'"
+            },
+            {
+              "kind": "field",
+              "name": "duration",
+              "type": {
+                "text": "number"
+              },
+              "default": "3",
+              "attribute": "duration"
+            },
+            {
+              "kind": "field",
+              "name": "icon",
+              "type": {
+                "text": "string | undefined"
+              },
+              "default": "undefined",
+              "attribute": "icon"
+            },
+            {
+              "kind": "field",
+              "name": "iconCategory",
+              "type": {
+                "text": "IconCategory"
+              },
+              "default": "'core-ui'",
+              "attribute": "icon-category",
+              "description": "'core-ui' | 'data' | 'devices-sensors' | 'discovery-sharing' | 'map-view' | 'misc' | 'navigation-image' | 'poi' | 'social' | 'stats' | 'tools' | 'travel-transport-tracking' | 'weather'"
+            },
+            {
+              "kind": "field",
+              "name": "iconStyle",
+              "type": {
+                "text": "IconStyle"
+              },
+              "default": "'outline'",
+              "attribute": "icon-style",
+              "description": "'solid' | 'outline'"
+            },
+            {
+              "kind": "field",
+              "name": "keepNode",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "keep-node"
+            },
+            {
+              "kind": "field",
+              "name": "inline",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "inline",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "hideClose",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "hide-close",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "actionText",
+              "attribute": "action-text"
+            },
+            {
+              "kind": "field",
+              "name": "closeAriaLabel",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Close'",
+              "attribute": "close-aria-label"
+            },
+            {
+              "kind": "field",
+              "name": "_timeoutId",
+              "type": {
+                "text": "NodeJS.Timeout | null"
+              },
+              "privacy": "private",
+              "default": "null"
+            },
+            {
+              "kind": "method",
+              "name": "close"
+            },
+            {
+              "kind": "method",
+              "name": "clearTimeout",
+              "privacy": "private"
+            },
+            {
+              "kind": "method",
+              "name": "getIconName",
+              "privacy": "private"
+            },
+            {
+              "kind": "method",
+              "name": "_handleClickAction",
+              "privacy": "private"
+            }
+          ],
+          "events": [
+            {
+              "name": "change",
+              "type": {
+                "text": "CustomEvent<{open: boolean}>"
+              },
+              "description": "Fired when the notification changes the state: open / close `NotificationChangePayload`"
+            },
+            {
+              "name": "action",
+              "type": {
+                "text": "CustomEvent"
+              },
+              "description": "Fired when the action button has been clicked"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "open",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "open"
+            },
+            {
+              "name": "notification-title",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "fieldName": "notificationTitle"
+            },
+            {
+              "name": "variant",
+              "type": {
+                "text": "NotificationVariant"
+              },
+              "default": "'information'",
+              "fieldName": "variant"
+            },
+            {
+              "name": "duration",
+              "type": {
+                "text": "number"
+              },
+              "default": "3",
+              "fieldName": "duration"
+            },
+            {
+              "name": "icon",
+              "type": {
+                "text": "string | undefined"
+              },
+              "default": "undefined",
+              "resolveInitializer": {
+                "module": "src/hds-notification.ts"
+              },
+              "fieldName": "icon"
+            },
+            {
+              "name": "icon-category",
+              "type": {
+                "text": "IconCategory"
+              },
+              "default": "'core-ui'",
+              "fieldName": "iconCategory"
+            },
+            {
+              "name": "icon-style",
+              "type": {
+                "text": "IconStyle"
+              },
+              "default": "'outline'",
+              "fieldName": "iconStyle"
+            },
+            {
+              "name": "keep-node",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "keepNode"
+            },
+            {
+              "name": "inline",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "inline"
+            },
+            {
+              "name": "hide-close",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "hideClose"
+            },
+            {
+              "name": "action-text",
+              "fieldName": "actionText"
+            },
+            {
+              "name": "close-aria-label",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Close'",
+              "fieldName": "closeAriaLabel"
+            }
+          ],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "hds-notification",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "Notification",
+          "declaration": {
+            "name": "Notification",
+            "module": "src/hds-notification.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-notification",
+          "declaration": {
+            "name": "Notification",
+            "module": "src/hds-notification.ts"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-toast-container.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "ToastContainer",
+          "members": [
+            {
+              "kind": "field",
+              "name": "position",
+              "type": {
+                "text": "NotificationPosition"
+              },
+              "default": "'bottom-right'",
+              "attribute": "position",
+              "reflects": true,
+              "description": "'top-right' | 'top-left' | 'bottom-right' | 'bottom-left'"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "position",
+              "type": {
+                "text": "NotificationPosition"
+              },
+              "default": "'bottom-right'",
+              "fieldName": "position"
+            }
+          ],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "hds-toast-container",
+          "customElement": true
+        },
+        {
+          "kind": "function",
+          "name": "toast",
+          "parameters": [
+            {
+              "name": "{\n  title = '',\n  body = '',\n  bodyTemplateElementId = '',\n  variant = 'information',\n  duration = 3,\n  position = 'bottom-right',\n  icon,\n  iconStyle = 'solid',\n  iconCategory = 'core-ui',\n  onChange,\n  onAction,\n}",
+              "type": {
+                "text": "ToastProps"
+              }
+            }
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "ToastContainer",
+          "declaration": {
+            "name": "ToastContainer",
+            "module": "src/hds-toast-container.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-toast-container",
+          "declaration": {
+            "name": "ToastContainer",
+            "module": "src/hds-toast-container.ts"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "toast",
+          "declaration": {
+            "name": "toast",
+            "module": "src/hds-toast-container.ts"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/index.ts",
+      "declarations": [],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "*",
+          "declaration": {
+            "name": "*",
+            "package": "./hds-toast-container.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "*",
+          "declaration": {
+            "name": "*",
+            "package": "./hds-notification.js"
+          }
+        }
+      ]
+    }
+  ]
+}

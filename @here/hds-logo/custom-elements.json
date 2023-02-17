@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-logo.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "Logo",
+          "members": [
+            {
+              "kind": "field",
+              "name": "onDark",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "on-dark"
+            },
+            {
+              "kind": "field",
+              "name": "monochrome",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "monochrome"
+            },
+            {
+              "kind": "field",
+              "name": "size",
+              "type": {
+                "text": "LogoSize"
+              },
+              "default": "'extra-small'",
+              "attribute": "size",
+              "description": "'extra-small' | 'small' | 'medium' | 'large' | 'extra-large'"
+            },
+            {
+              "kind": "field",
+              "name": "padding",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "padding"
+            },
+            {
+              "kind": "field",
+              "name": "background",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "background"
+            },
+            {
+              "kind": "method",
+              "name": "drawLogo",
+              "static": true,
+              "description": "Returns the SVG code for the HERE logo",
+              "parameters": [
+                {
+                  "description": "Color value for the letters",
+                  "name": "color"
+                },
+                {
+                  "description": "Color value for he symbol",
+                  "name": "symbolColor"
+                }
+              ],
+              "return": {
+                "type": {
+                  "text": "SVGTemplateResult"
+                }
+              }
+            }
+          ],
+          "attributes": [
+            {
+              "name": "on-dark",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "onDark"
+            },
+            {
+              "name": "monochrome",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "monochrome"
+            },
+            {
+              "name": "size",
+              "type": {
+                "text": "LogoSize"
+              },
+              "default": "'extra-small'",
+              "fieldName": "size"
+            },
+            {
+              "name": "padding",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "padding"
+            },
+            {
+              "name": "background",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "background"
+            }
+          ],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "hds-logo",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "Logo",
+          "declaration": {
+            "name": "Logo",
+            "module": "src/hds-logo.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-logo",
+          "declaration": {
+            "name": "Logo",
+            "module": "src/hds-logo.ts"
+          }
+        }
+      ]
+    }
+  ]
+}

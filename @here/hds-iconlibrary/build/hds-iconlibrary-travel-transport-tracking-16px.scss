@@ -1,0 +1,454 @@
+$hds-iconlibrary-travel-transport-tracking-16px-font: 'hds-iconlibrary-travel-transport-tracking-16px';
+
+@define-mixin hds-iconlibrary-travel-transport-tracking-16px-font {
+  @font-face {
+    font-family: $hds-iconlibrary-travel-transport-tracking-16px-font;
+    src: url("./hds-iconlibrary-travel-transport-tracking-16px.eot?8d964b6cdc4184e69d92d7b4dd5dd6a9#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-travel-transport-tracking-16px.woff2?8d964b6cdc4184e69d92d7b4dd5dd6a9") format("woff2"),
+url("./hds-iconlibrary-travel-transport-tracking-16px.woff?8d964b6cdc4184e69d92d7b4dd5dd6a9") format("woff");
+  }
+}
+
+
+@define-mixin hds-iconlibrary-travel-transport-tracking-16px {
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'] {
+    font-family: hds-iconlibrary-travel-transport-tracking-16px, serif !important;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal !important;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  $hds-iconlibrary-travel-transport-tracking-16px-map: (
+    'accident-car_solid_16px': '\f101',
+    'airport_solid_16px': '\f102',
+    'arrival-airport_solid_16px': '\f103',
+    'attention_solid_16px': '\f104',
+    'auto-caravan_solid_16px': '\f105',
+    'auto-trailer_solid_16px': '\f106',
+    'bicycle_solid_16px': '\f107',
+    'boat-trailer_solid_16px': '\f108',
+    'bumps_solid_16px': '\f109',
+    'bus_solid_16px': '\f10a',
+    'bus-rapid_solid_16px': '\f10b',
+    'cable-way_solid_16px': '\f10c',
+    'car-rental_solid_16px': '\f10d',
+    'caravan_solid_16px': '\f10e',
+    'closure_solid_16px': '\f10f',
+    'departure-airport_solid_16px': '\f110',
+    'destination_solid_16px': '\f111',
+    'directions_solid_16px': '\f112',
+    'disabled-vehicle_solid_16px': '\f113',
+    'driving_solid_16px': '\f114',
+    'driving-off_solid_16px': '\f115',
+    'dynamic-routing_solid_16px': '\f116',
+    'ferry_solid_16px': '\f117',
+    'ferry-off_solid_16px': '\f118',
+    'flight-monitor_solid_16px': '\f119',
+    'full-container-load_solid_16px': '\f11a',
+    'full-truck-load_solid_16px': '\f11b',
+    'geofence_solid_16px': '\f11c',
+    'heavy-machinery_solid_16px': '\f11d',
+    'highways_solid_16px': '\f11e',
+    'inclined_solid_16px': '\f11f',
+    'journey_solid_16px': '\f120',
+    'lane-restriction_solid_16px': '\f121',
+    'less-container-load_solid_16px': '\f122',
+    'less-truck-load_solid_16px': '\f123',
+    'light-rail_solid_16px': '\f124',
+    'mass-transit_solid_16px': '\f125',
+    'metro_solid_16px': '\f126',
+    'monorail_solid_16px': '\f127',
+    'motorcycle_solid_16px': '\f128',
+    'motorhome_solid_16px': '\f129',
+    'motorscooter_solid_16px': '\f12a',
+    'multimodal_solid_16px': '\f12b',
+    'navigation_solid_16px': '\f12c',
+    'no-container-load_solid_16px': '\f12d',
+    'no-truck-load_solid_16px': '\f12e',
+    'planned-tour_solid_16px': '\f12f',
+    'rail-highspeed_solid_16px': '\f130',
+    'rail-highspeed-off_solid_16px': '\f131',
+    'rail-intercity_solid_16px': '\f132',
+    'rail-local_solid_16px': '\f133',
+    'rail-regional_solid_16px': '\f134',
+    'ride-hailing_solid_16px': '\f135',
+    'rideshare_solid_16px': '\f136',
+    'road-closure_solid_16px': '\f137',
+    'road-hazard_solid_16px': '\f138',
+    'road-tolls_solid_16px': '\f139',
+    'road-tolls-off_solid_16px': '\f13a',
+    'road-unpaved_solid_16px': '\f13b',
+    'road-unpaved-off_solid_16px': '\f13c',
+    'roadworks_solid_16px': '\f13d',
+    'route_solid_16px': '\f13e',
+    'scooter_solid_16px': '\f13f',
+    'security-camera_solid_16px': '\f140',
+    'semi-trailer_solid_16px': '\f141',
+    'service-desk_solid_16px': '\f142',
+    'shipment_solid_16px': '\f143',
+    'speed-camera_solid_16px': '\f144',
+    'speed-limit_solid_16px': '\f145',
+    'speedalert_solid_16px': '\f146',
+    'speedalert-off_solid_16px': '\f147',
+    'taxi_solid_16px': '\f148',
+    'taxi-off_solid_16px': '\f149',
+    'ticket_solid_16px': '\f14a',
+    'tour_solid_16px': '\f14b',
+    'tracker_solid_16px': '\f14c',
+    'traffic_solid_16px': '\f14d',
+    'traffic-off_solid_16px': '\f14e',
+    'trailer_solid_16px': '\f14f',
+    'train_solid_16px': '\f150',
+    'tram_solid_16px': '\f151',
+    'truck_solid_16px': '\f152',
+    'wait-pedestrian_solid_16px': '\f153',
+    'walking_solid_16px': '\f154',
+    'walking-off_solid_16px': '\f155',
+  );
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-accident-car_solid_16px {
+    content: '\f101';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-airport_solid_16px {
+    content: '\f102';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-arrival-airport_solid_16px {
+    content: '\f103';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-attention_solid_16px {
+    content: '\f104';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-auto-caravan_solid_16px {
+    content: '\f105';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-auto-trailer_solid_16px {
+    content: '\f106';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-bicycle_solid_16px {
+    content: '\f107';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-boat-trailer_solid_16px {
+    content: '\f108';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-bumps_solid_16px {
+    content: '\f109';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-bus_solid_16px {
+    content: '\f10a';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-bus-rapid_solid_16px {
+    content: '\f10b';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-cable-way_solid_16px {
+    content: '\f10c';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-car-rental_solid_16px {
+    content: '\f10d';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-caravan_solid_16px {
+    content: '\f10e';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-closure_solid_16px {
+    content: '\f10f';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-departure-airport_solid_16px {
+    content: '\f110';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-destination_solid_16px {
+    content: '\f111';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-directions_solid_16px {
+    content: '\f112';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-disabled-vehicle_solid_16px {
+    content: '\f113';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-driving_solid_16px {
+    content: '\f114';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-driving-off_solid_16px {
+    content: '\f115';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-dynamic-routing_solid_16px {
+    content: '\f116';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-ferry_solid_16px {
+    content: '\f117';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-ferry-off_solid_16px {
+    content: '\f118';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-flight-monitor_solid_16px {
+    content: '\f119';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-full-container-load_solid_16px {
+    content: '\f11a';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-full-truck-load_solid_16px {
+    content: '\f11b';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-geofence_solid_16px {
+    content: '\f11c';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-heavy-machinery_solid_16px {
+    content: '\f11d';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-highways_solid_16px {
+    content: '\f11e';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-inclined_solid_16px {
+    content: '\f11f';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-journey_solid_16px {
+    content: '\f120';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-lane-restriction_solid_16px {
+    content: '\f121';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-less-container-load_solid_16px {
+    content: '\f122';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-less-truck-load_solid_16px {
+    content: '\f123';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-light-rail_solid_16px {
+    content: '\f124';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-mass-transit_solid_16px {
+    content: '\f125';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-metro_solid_16px {
+    content: '\f126';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-monorail_solid_16px {
+    content: '\f127';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-motorcycle_solid_16px {
+    content: '\f128';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-motorhome_solid_16px {
+    content: '\f129';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-motorscooter_solid_16px {
+    content: '\f12a';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-multimodal_solid_16px {
+    content: '\f12b';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-navigation_solid_16px {
+    content: '\f12c';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-no-container-load_solid_16px {
+    content: '\f12d';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-no-truck-load_solid_16px {
+    content: '\f12e';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-planned-tour_solid_16px {
+    content: '\f12f';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rail-highspeed_solid_16px {
+    content: '\f130';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rail-highspeed-off_solid_16px {
+    content: '\f131';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rail-intercity_solid_16px {
+    content: '\f132';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rail-local_solid_16px {
+    content: '\f133';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rail-regional_solid_16px {
+    content: '\f134';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-ride-hailing_solid_16px {
+    content: '\f135';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-rideshare_solid_16px {
+    content: '\f136';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-closure_solid_16px {
+    content: '\f137';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-hazard_solid_16px {
+    content: '\f138';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-tolls_solid_16px {
+    content: '\f139';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-tolls-off_solid_16px {
+    content: '\f13a';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-unpaved_solid_16px {
+    content: '\f13b';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-road-unpaved-off_solid_16px {
+    content: '\f13c';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-roadworks_solid_16px {
+    content: '\f13d';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-route_solid_16px {
+    content: '\f13e';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-scooter_solid_16px {
+    content: '\f13f';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-security-camera_solid_16px {
+    content: '\f140';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-semi-trailer_solid_16px {
+    content: '\f141';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-service-desk_solid_16px {
+    content: '\f142';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-shipment_solid_16px {
+    content: '\f143';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-speed-camera_solid_16px {
+    content: '\f144';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-speed-limit_solid_16px {
+    content: '\f145';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-speedalert_solid_16px {
+    content: '\f146';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-speedalert-off_solid_16px {
+    content: '\f147';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-taxi_solid_16px {
+    content: '\f148';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-taxi-off_solid_16px {
+    content: '\f149';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-ticket_solid_16px {
+    content: '\f14a';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-tour_solid_16px {
+    content: '\f14b';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-tracker_solid_16px {
+    content: '\f14c';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-traffic_solid_16px {
+    content: '\f14d';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-traffic-off_solid_16px {
+    content: '\f14e';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-trailer_solid_16px {
+    content: '\f14f';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-train_solid_16px {
+    content: '\f150';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-tram_solid_16px {
+    content: '\f151';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-truck_solid_16px {
+    content: '\f152';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-wait-pedestrian_solid_16px {
+    content: '\f153';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-walking_solid_16px {
+    content: '\f154';
+  }
+
+  i[class^='hds-iconlibrary-travel-transport-tracking-16px'].hds-icon-travel-transport-tracking-walking-off_solid_16px {
+    content: '\f155';
+  }
+
+}
+

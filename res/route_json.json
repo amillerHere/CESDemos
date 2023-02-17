@@ -1,0 +1,469 @@
+{
+  "notices": [
+    {
+      "title": "The provided parameter 'xnlp=CL_JSMv3.1.35.3' is unknown.",
+      "code": "unknownParameter",
+      "severity": "info"
+    }
+  ],
+  "routes": [
+    {
+      "id": "ea970b34-97e5-42d0-ab1b-222f15c83094",
+      "sections": [
+        {
+          "id": "bbf9d766-ad6a-427d-933b-4e999763199f",
+          "type": "vehicle",
+          "departure": {
+            "time": "2022-11-25T05:05:11-07:00",
+            "place": {
+              "type": "place",
+              "location": {
+                "lat": 39.7438726,
+                "lng": -104.9978087
+              },
+              "originalLocation": {
+                "lat": 39.7438622,
+                "lng": -104.997823
+              }
+            }
+          },
+          "arrival": {
+            "time": "2022-11-25T05:37:34-07:00",
+            "place": {
+              "type": "place",
+              "location": {
+                "lat": 39.848652,
+                "lng": -104.67269
+              },
+              "originalLocation": {
+                "lat": 39.848652,
+                "lng": -104.6727063
+              }
+            }
+          },
+          "polyline": "BGi445rCh7xooGlKuM7B7BvR_TzKjNnB7B7BvC7L7Q7BvC_J7LrJzKjDrJA3I8BjIwCnGsEvH0FvCkI3D4I3DsY_J0PrEgPjD0ejD0Z7BgUnBsJTgP7BoGnBsEnBoL_EoGrEwH_E4N_J0FrE4NvM0K7L0KzPoGzKsiBz3BoL_OoL7LgK3IgUrOgP7LwWnQwC7BsTnQkNvMgKjNkI_J4D_E0K3NkNvRoLzPwWze8VzesEzFoGjI8G_J0KrJgFrEoLrJsE3DsYjS8V_T4I_JgKnLoGzKwC3D4I3NsJvRwHzP0FnLkDnG8BjDkI3SsErJ0KzU0FzK4I3SgKvH0F3DkI7B8GAsJkDsOgF4IAoQnBoLTgFU4IoB0FwCoBUkNgKwMwM4N0P0FoGsJ0K4IgKwM4IgPsJsTwb8BwCkIoL0U4ckI8L8VgeoQ0Z0oBw-BgFwH0jB84Bkc4rB8a8kB4S8VgF0F0FoGkIwHgKgKoQgPoV4Swb8V0Z4SsYwR4DkD0jBgZgUgPsOoL0KsJ0K0KsO0PgPgU8L0UgKgUkI4SsOkcoG0PoG8QgFkN4DsJ0Z8iCoQopBwCoGsOkmBsE0KkI0UsE4IwC8LsEoVsEwM0FgP0K4X8BgFgKsT4D0F0FgKoL0PwMoQ0P0PkSsT8VsT8VkSkN4IsEkDsT4NsiBsTkcgPkX4IkhB0KkckIofkI0jB4DwbwCwgBU84BUsxBA4NUgUoB0KoB0KwCkIwCsJgF8L0F0K8GgK4IkIsJsJwMwHoL0F8LsEkNkDoQoB8QAgPT0eAwbT0PAkDA85DT8pBA0PnBwlBrEg8BjDwlBvCwlBnBsnBT4NT8VA0oBA0FoBoVoB0KwC0UUkXUgZUwMUgKAkITsTsEs2BwCkrB8BgjBoBkSoBsnBgFsjDoB0P8BkcUoakDwvBwHs3DU0P4D4pCwC0tB8B0Z4Dk6BkD84BUkXoBkXUkSA0PUg_CTgoBT4hBT4hBTgoBT4cAgPA0ZAokBA0jBA8QToVAgjBA4XAkrBA0FA8LAo9BoB09DU0PAkrBAokBA8aAsOoBs7BoBwgBA8LTsTTwbvCw0BjD8iC3DsgCvCsxBnB4XnBgU7B8fnBkhB7BwlBTsdT4rBUo5DT4wBAoLAkhBUw5BUopBT8kBvCssBTwH7BkS3Dge7BwMvCwR7Lo9BjI0tBzF8azU4nD7VstDrO0wCjDwWnGgyBvCwgBnBgZnB0ZA8QT8nCAgtBU86FT4_BA4rBAgUAo4BUgoBAsdAkXA8aA0tBUk4CoBsoDU4rBoB8tEUwgBAsTwC4iDUsdA8kBTssBTsdnBoxC7B8zBT4NT4SvCg3BjD8zBzFs0C7BkcnG8nCvCkcjIolDnLgiE7GoxCzKksDrE4wBjDwlB_EssBnBwMnBwMjDgjBvCgZnGgmC3DouB3DouBzP4tFrEkwBvC0Z7GgwC3D4rB_Jo0DvC4X3DouBvCwb_O4oFnB0PnBsO7BgZTsJT4ITsJjD0jB7BkhBjD4hB7BkX3DssB7B4X_EkwBjDgenGoxCrE03B7BsTjD0yB3D41B_Eg3BvHgwCnGslC3DkmB3D4mBrEkwBvCsnBjD8pBvHs0C_E84B7G4pCTgKrE0yB3Dg3BjI0kDrJsoDnB4NjD0Z3D0yBzFghC3DokBjDkhBvCkhBvCoa7BgZvCwbvCwb7BwWnB0P7BgUT0KnBkN7B0ZjD8pBjDsxBjDsnBjD8fvCsd_JstD3D0oBjIg_C3I4iDrOg0F7LwuE_E03BzFs7BrJkiD_E84BnB8LrE41B3D0tBvCof7B0UvHw8C_E08B7G0hC_EoQ7BsOvC0U7BsJrEkSzFgU3IsdjD0KnGkSnG0UvHsdrEsTjD8QzF0ejNwtCnQw8C7GokBzFwbvHwbrJge_J0ZnQkmB_Yo4B_JoajI0ZzFkX3DsTjDkc7BoVA8QA0PUkNoBsT8B4NkD4XgFoVoGsYwHkXoG8QoGoQkIkSwHgP8GkNoGoLsJsOoL0PsO4SkNgPgK4IoG0F8LsJ4I8GoLwH4IgF8L8G8QwHgPoGwM4D4NkD0UwCgZ8BopBAgKAsTAopBU0UU0tBUgwCUsnBUkXA4pCU0mCUsdA4XAk4CoBwqBU4hBAsnBUkNU4DAgKU4rB4DkckD0e0F8zBsJ4mBsJ0KwC4DoBgoB8LsdgKoQ8GkmB0PsqH8gD4wBsToV0FkXwHopB4NsEoBwlB4IgU4DwMwC0tB8GopB0F0jBkDozB8B4pCU8LAoQA4XAw0BToaA0UAkDAoqITsdA8xCAo8EAo8EAs4FT4wBA4pCUgeoBsY8BwqBgFkSkDoasE8VgFsdkI4rB4N4rBoQokBoQ4csO0ZsOoVwMkIgF4NkIsOsJ0ZkS0Z4S0ZgU8LgK4hBge4XkX4cgesOgPkNoQ8V8a8G4I8V4cgKsO8LwRgP0UgPkXgKoQsTkhB4SsiBwRsiB8LgZsJ0UgKkXkIsTsOokBoGkSwM0jBoLokBgKokBkI0egKopBwC0KoGofsEoagFkc0F4mBwC8V4DsiBwCsdwCwgB8BwlBUokBAkXAgFA0FAgeA89BT4wBT8xCTs-CAsTnBo2CA4cvC8oEAopBnBg_CAwbTk2DT4iDT4qET4pCAgKAwRA87CnBgmCT08BTolDnB4kHTgzDAkhBT8iCAoLTgyBAkXnB0ZjDw0BToG3D4hB3DoavCoVrJs0CrE0yBjDk1BTsnBnB44CTgpDT0yBAgjBT0eA8aAsTUkc8BsdgFgoBgK8nCsEgjBgFw0B8BoaA8aA4wBTwqBnB8jETsyDA0enBkhGnBgtGAwWnBkgEnBosCTstDA4SA4STg8BT8nCT87CA0mCA0ZA0KAsJTk7DAw5BA41BnB4iDTssBTkmBnBghCAgtB7Bg5FAoVAgZAkmBnB88EAk6BAk1BUoVwCsT4DwRsEgPoGsTwHkSgKgUkI4N8L8Q0KkNgK0KsJ4IwMsJsJ8G8G4DgKgF8LgFkN4DkNwCkN8BgKU0tBoB8kBoB4XAkXUslCoB8kBT8zB4DwWoBoLoB4I8BkIwC4I4DkIsE0F4DgF4DoG0F4IkIkIsJwRwWgegoB4NwRwb8kB0oB03B0ZgjBssBw-BsJkNsOwR4I4I4IwHkI0FsJsE4NgFwRsE0ewC4SwCkNU8VAkXAsTnBoLnBoL3DsOzFsOjIkSvMwW_TwHrJ0KzP0KzUkI3SwHvW4DnQkDrT8BrYUzPU_T8BzPoB3XoBnVA7LUrOArnBA7QTrJnB7G7B7GvCnGzF_J_E7GnGnGnG_EjD7BrEvCnGvCjInB7GT_JAjNAjhBA3_BnBrHA",
+          "spans": [
+            {
+              "offset": 0,
+              "functionalClass": 5,
+              "topologySegmentId": "-here:cm:segment:807457779"
+            },
+            {
+              "offset": 1,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:415500219"
+            },
+            {
+              "offset": 2,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:807476113"
+            },
+            {
+              "offset": 4,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:807449197"
+            },
+            {
+              "offset": 5,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:401002849"
+            },
+            {
+              "offset": 7,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:738983103"
+            },
+            {
+              "offset": 10,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:738981889"
+            },
+            {
+              "offset": 15,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:738982711"
+            },
+            {
+              "offset": 22,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:418149692"
+            },
+            {
+              "offset": 23,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:399742404"
+            },
+            {
+              "offset": 27,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:419245270"
+            },
+            {
+              "offset": 28,
+              "functionalClass": 4,
+              "topologySegmentId": "-here:cm:segment:457767266"
+            },
+            {
+              "offset": 34,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:460751164"
+            },
+            {
+              "offset": 38,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:811393496"
+            },
+            {
+              "offset": 40,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:811401980"
+            },
+            {
+              "offset": 41,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:811413133"
+            },
+            {
+              "offset": 42,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:413195141"
+            },
+            {
+              "offset": 43,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:458054511"
+            },
+            {
+              "offset": 47,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:413605824"
+            },
+            {
+              "offset": 50,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:425502572"
+            },
+            {
+              "offset": 51,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:427521468"
+            },
+            {
+              "offset": 52,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:451013816"
+            },
+            {
+              "offset": 63,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:826600987"
+            },
+            {
+              "offset": 79,
+              "functionalClass": 4,
+              "topologySegmentId": "+here:cm:segment:425127024"
+            },
+            {
+              "offset": 100,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:462702718"
+            },
+            {
+              "offset": 106,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456405650"
+            },
+            {
+              "offset": 110,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456178957"
+            },
+            {
+              "offset": 120,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:457455757"
+            },
+            {
+              "offset": 133,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:479114519"
+            },
+            {
+              "offset": 145,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:457100741"
+            },
+            {
+              "offset": 158,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456778244"
+            },
+            {
+              "offset": 179,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456799869"
+            },
+            {
+              "offset": 194,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:457547705"
+            },
+            {
+              "offset": 199,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:453777813"
+            },
+            {
+              "offset": 210,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:457090534"
+            },
+            {
+              "offset": 216,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:461434318"
+            },
+            {
+              "offset": 221,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:845064566"
+            },
+            {
+              "offset": 232,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:859852087"
+            },
+            {
+              "offset": 248,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:859852088"
+            },
+            {
+              "offset": 262,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:859832303"
+            },
+            {
+              "offset": 278,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:825776016"
+            },
+            {
+              "offset": 292,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:843123228"
+            },
+            {
+              "offset": 305,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:843125125"
+            },
+            {
+              "offset": 315,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:462181149"
+            },
+            {
+              "offset": 323,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:457175796"
+            },
+            {
+              "offset": 332,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:449293703"
+            },
+            {
+              "offset": 344,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456860331"
+            },
+            {
+              "offset": 350,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:456867063"
+            },
+            {
+              "offset": 366,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:453796859"
+            },
+            {
+              "offset": 372,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:456342280"
+            },
+            {
+              "offset": 384,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:458055077"
+            },
+            {
+              "offset": 394,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:456043803"
+            },
+            {
+              "offset": 412,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:457992633"
+            },
+            {
+              "offset": 424,
+              "functionalClass": 1,
+              "topologySegmentId": "+here:cm:segment:458130438"
+            },
+            {
+              "offset": 430,
+              "functionalClass": 1,
+              "topologySegmentId": "-here:cm:segment:479076019"
+            },
+            {
+              "offset": 434,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:456412043"
+            },
+            {
+              "offset": 500,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:425493440"
+            },
+            {
+              "offset": 502,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:463082080"
+            },
+            {
+              "offset": 506,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:457303045"
+            },
+            {
+              "offset": 524,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:824989090"
+            },
+            {
+              "offset": 528,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:456874665"
+            },
+            {
+              "offset": 544,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:423381875"
+            },
+            {
+              "offset": 548,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:396919143"
+            },
+            {
+              "offset": 553,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:829797475"
+            },
+            {
+              "offset": 568,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:829801552"
+            },
+            {
+              "offset": 581,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:414751801"
+            },
+            {
+              "offset": 617,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:397639354"
+            },
+            {
+              "offset": 618,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:461127421"
+            },
+            {
+              "offset": 624,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:397912197"
+            },
+            {
+              "offset": 625,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:478677833"
+            },
+            {
+              "offset": 640,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:449576054"
+            },
+            {
+              "offset": 648,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:419039475"
+            },
+            {
+              "offset": 652,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:453796101"
+            },
+            {
+              "offset": 661,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:456574215"
+            },
+            {
+              "offset": 678,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:414955773"
+            },
+            {
+              "offset": 682,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:478720050"
+            },
+            {
+              "offset": 695,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:453785039"
+            },
+            {
+              "offset": 727,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:478749524"
+            },
+            {
+              "offset": 732,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:456778092"
+            },
+            {
+              "offset": 744,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:458001572"
+            },
+            {
+              "offset": 760,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:479105815"
+            },
+            {
+              "offset": 771,
+              "functionalClass": 3,
+              "topologySegmentId": "+here:cm:segment:478843085"
+            },
+            {
+              "offset": 781,
+              "functionalClass": 3,
+              "topologySegmentId": "-here:cm:segment:455885034"
+            }
+          ],
+          "transport": {
+            "mode": "car"
+          }
+        }
+      ]
+    }
+  ]
+}

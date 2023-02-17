@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-navbar-side.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "NavBarSide",
+          "slots": [
+            {
+              "description": "Content for the logo image",
+              "name": "logo"
+            },
+            {
+              "description": "Content for the title in the header section",
+              "name": "title"
+            },
+            {
+              "description": "Main content for the `hds-vertical-navigation` structure",
+              "name": "main"
+            },
+            {
+              "description": "Content for the `hds-vertical-navigation` structure in the footer section",
+              "name": "footer"
+            }
+          ],
+          "members": [
+            {
+              "kind": "field",
+              "name": "hideHeader",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false"
+            },
+            {
+              "kind": "field",
+              "name": "navbarSideExpanded",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "true",
+              "attribute": "expanded",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "hideToggle",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "hide-toggle"
+            },
+            {
+              "kind": "field",
+              "name": "toggleText",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Hide Menu'",
+              "attribute": "toggle-text"
+            },
+            {
+              "kind": "field",
+              "name": "slotLogoEl",
+              "type": {
+                "text": "HTMLSlotElement"
+              },
+              "privacy": "protected"
+            },
+            {
+              "kind": "field",
+              "name": "slotTitleEl",
+              "type": {
+                "text": "HTMLSlotElement"
+              },
+              "privacy": "protected"
+            },
+            {
+              "kind": "field",
+              "name": "slotMainEl",
+              "type": {
+                "text": "HTMLSlotElement"
+              },
+              "privacy": "protected"
+            },
+            {
+              "kind": "field",
+              "name": "slotFooterEl",
+              "type": {
+                "text": "HTMLSlotElement"
+              },
+              "privacy": "protected"
+            },
+            {
+              "kind": "method",
+              "name": "renderToggleButton",
+              "privacy": "protected"
+            },
+            {
+              "kind": "method",
+              "name": "_handleNavItemClick",
+              "privacy": "protected",
+              "parameters": [
+                {
+                  "name": "e",
+                  "type": {
+                    "text": "Event"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "_toggleNavbar",
+              "privacy": "protected",
+              "parameters": [
+                {
+                  "name": "e",
+                  "type": {
+                    "text": "Event"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "renderNavbarSide",
+              "privacy": "protected"
+            },
+            {
+              "kind": "method",
+              "name": "_setNavMode",
+              "privacy": "private",
+              "parameters": [
+                {
+                  "name": "slotMainContent"
+                },
+                {
+                  "name": "slotFooterContent"
+                },
+                {
+                  "name": "navMode"
+                }
+              ]
+            }
+          ],
+          "events": [
+            {
+              "name": "change",
+              "type": {
+                "text": "CustomEvent<{expanded: boolean}>"
+              },
+              "description": "Fired when sidebar state changes: expanded / collapsed `NavbarSideChangePayload`"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "expanded",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "true",
+              "fieldName": "navbarSideExpanded"
+            },
+            {
+              "name": "hide-toggle",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "hideToggle"
+            },
+            {
+              "name": "toggle-text",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Hide Menu'",
+              "fieldName": "toggleText"
+            }
+          ],
+          "superclass": {
+            "name": "Panel",
+            "package": "@here/hds-panel"
+          },
+          "tagName": "hds-navbar-side",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "NavBarSide",
+          "declaration": {
+            "name": "NavBarSide",
+            "module": "src/hds-navbar-side.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-navbar-side",
+          "declaration": {
+            "name": "NavBarSide",
+            "module": "src/hds-navbar-side.ts"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-navbar-top.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "NavBarTop",
+          "slots": [
+            {
+              "description": "Content for the logo image",
+              "name": "logo"
+            },
+            {
+              "description": "Content for the title",
+              "name": "page-title"
+            },
+            {
+              "description": "Content to create the menu structure in the navbar top using `hds-tab-bar` component",
+              "name": "tabs-menu"
+            },
+            {
+              "description": "Content to implement actionable items on the right hand side of the navbar top",
+              "name": "right-tray"
+            },
+            {
+              "description": "Content to implement the profile details menu in the navbar top for login and profile menu controls with `hds-profile-menu` element",
+              "name": "profile-menu"
+            }
+          ],
+          "members": [],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "hds-navbar-top",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "NavBarTop",
+          "declaration": {
+            "name": "NavBarTop",
+            "module": "src/hds-navbar-top.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-navbar-top",
+          "declaration": {
+            "name": "NavBarTop",
+            "module": "src/hds-navbar-top.ts"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/hds-profile-menu.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "",
+          "name": "ProfileMenu",
+          "slots": [
+            {
+              "description": "Content for the `hds-list-item` elements for the menu",
+              "name": "default"
+            }
+          ],
+          "members": [
+            {
+              "kind": "field",
+              "name": "profileName",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "attribute": "profile-name"
+            },
+            {
+              "kind": "field",
+              "name": "profileEmail",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "attribute": "profile-email"
+            },
+            {
+              "kind": "field",
+              "name": "avatarImageUrl",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "attribute": "avatar-image-url"
+            },
+            {
+              "kind": "field",
+              "name": "open",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "attribute": "open",
+              "reflects": true
+            },
+            {
+              "kind": "field",
+              "name": "_handleDocumentClickRef",
+              "privacy": "private"
+            },
+            {
+              "kind": "method",
+              "name": "renderAvatar",
+              "privacy": "protected",
+              "parameters": [
+                {
+                  "name": "size"
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "_handleDocumentClick",
+              "privacy": "private"
+            },
+            {
+              "kind": "method",
+              "name": "_handleClick",
+              "privacy": "private",
+              "parameters": [
+                {
+                  "name": "e",
+                  "type": {
+                    "text": "Event"
+                  }
+                }
+              ]
+            }
+          ],
+          "events": [
+            {
+              "name": "change",
+              "type": {
+                "text": "CustomEvent<{open: boolean}>"
+              },
+              "description": "Fired when the menu state has changed: open / close `ProfileMenuChangePayload`"
+            }
+          ],
+          "attributes": [
+            {
+              "name": "profile-name",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "fieldName": "profileName"
+            },
+            {
+              "name": "profile-email",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "fieldName": "profileEmail"
+            },
+            {
+              "name": "avatar-image-url",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "fieldName": "avatarImageUrl"
+            },
+            {
+              "name": "open",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "fieldName": "open"
+            }
+          ],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "hds-profile-menu",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "ProfileMenu",
+          "declaration": {
+            "name": "ProfileMenu",
+            "module": "src/hds-profile-menu.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "hds-profile-menu",
+          "declaration": {
+            "name": "ProfileMenu",
+            "module": "src/hds-profile-menu.ts"
+          }
+        }
+      ]
+    },
+    {
+      "kind": "javascript-module",
+      "path": "src/index.ts",
+      "declarations": [],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "NavBarTop",
+          "declaration": {
+            "name": "NavBarTop",
+            "module": "./hds-navbar-top.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "NavBarSide",
+          "declaration": {
+            "name": "NavBarSide",
+            "module": "./hds-navbar-side.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "NavbarSideChangePayload",
+          "declaration": {
+            "name": "NavbarSideChangePayload",
+            "module": "./hds-navbar-side.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "ProfileMenu",
+          "declaration": {
+            "name": "ProfileMenu",
+            "module": "./hds-profile-menu.js"
+          }
+        },
+        {
+          "kind": "js",
+          "name": "ProfileMenuChangePayload",
+          "declaration": {
+            "name": "ProfileMenuChangePayload",
+            "module": "./hds-profile-menu.js"
+          }
+        }
+      ]
+    }
+  ]
+}

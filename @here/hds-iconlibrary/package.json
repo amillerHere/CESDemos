@@ -1,0 +1,44 @@
+{
+  "name": "@here/hds-iconlibrary",
+  "version": "2022.10.14",
+  "description": "IconLibrary component from HERE Design System",
+  "license": "SEE LICENSE IN LICENSE",
+  "main": "build/hds-iconlibrary.js",
+  "module": "build/hds-iconlibrary.js",
+  "types": "build/hds-iconlibrary.d.ts",
+  "type": "module",
+  "author": {
+    "name": "HERE Global B.V. and its affiliate(s)",
+    "url": "https://here.com"
+  },
+  "scripts": {
+    "build": "tsc --build && cp src/*.*css build && cp src/*.woff* build && cp src/*.eot build"
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.in.here.com/artifactory/api/npm/hds/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds.git",
+    "directory": "packages/hds-iconlibrary"
+  },
+  "bugs": {
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds/-/issues"
+  },
+  "keywords": [
+    "HERE",
+    "HERE Technologies"
+  ],
+  "files": [
+    "build",
+    "LICENSE",
+    "README.md",
+    "../../HERE_NOTICE"
+  ],
+  "dependencies": {
+    "@here/hds-base": "2022.10.14",
+    "lit": "^2.0.2",
+    "tslib": "^2.4.0"
+  },
+  "gitHead": "4ac0b3c257a75bd616d6a1609b4643f70f22415b"
+}

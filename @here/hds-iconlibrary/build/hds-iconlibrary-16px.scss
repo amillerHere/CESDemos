@@ -1,0 +1,3149 @@
+$hds-iconlibrary-16px-font: 'hds-iconlibrary-16px';
+
+@define-mixin hds-iconlibrary-16px-font {
+  @font-face {
+    font-family: $hds-iconlibrary-16px-font;
+    src: url("./hds-iconlibrary-16px.eot?5a1ef61313dde6708b5b8a3ade06fd7f#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-16px.woff2?5a1ef61313dde6708b5b8a3ade06fd7f") format("woff2"),
+url("./hds-iconlibrary-16px.woff?5a1ef61313dde6708b5b8a3ade06fd7f") format("woff");
+  }
+}
+
+
+@define-mixin hds-iconlibrary-16px {
+  i[class^='hds-iconlibrary-16px'] {
+    font-family: hds-iconlibrary-16px, serif !important;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal !important;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  $hds-iconlibrary-16px-map: (
+    'core-ui-add_solid_16px': '\f101',
+    'core-ui-alert_solid_16px': '\f102',
+    'core-ui-arrow-down_solid_16px': '\f103',
+    'core-ui-arrow-down-left_solid_16px': '\f104',
+    'core-ui-arrow-down-right_solid_16px': '\f105',
+    'core-ui-arrow-left_solid_16px': '\f106',
+    'core-ui-arrow-right_solid_16px': '\f107',
+    'core-ui-arrow-up_solid_16px': '\f108',
+    'core-ui-arrow-up-left_solid_16px': '\f109',
+    'core-ui-arrow-up-right_solid_16px': '\f10a',
+    'core-ui-attention_solid_16px': '\f10b',
+    'core-ui-battery-charging_solid_16px': '\f10c',
+    'core-ui-battery-empty_solid_16px': '\f10d',
+    'core-ui-battery-full_solid_16px': '\f10e',
+    'core-ui-battery-half_solid_16px': '\f10f',
+    'core-ui-battery-low_solid_16px': '\f110',
+    'core-ui-bluetooth_solid_16px': '\f111',
+    'core-ui-bluetooth-off_solid_16px': '\f112',
+    'core-ui-bookmark_solid_16px': '\f113',
+    'core-ui-bookmark-add_solid_16px': '\f114',
+    'core-ui-checkmark_solid_16px': '\f115',
+    'core-ui-chevron-down_solid_16px': '\f116',
+    'core-ui-chevron-left_solid_16px': '\f117',
+    'core-ui-chevron-left-double_solid_16px': '\f118',
+    'core-ui-chevron-right_solid_16px': '\f119',
+    'core-ui-chevron-right-double_solid_16px': '\f11a',
+    'core-ui-chevron-up_solid_16px': '\f11b',
+    'core-ui-chevron-up-down_solid_16px': '\f11c',
+    'core-ui-clear_solid_16px': '\f11d',
+    'core-ui-collapse_solid_16px': '\f11e',
+    'core-ui-comment_solid_16px': '\f11f',
+    'core-ui-confirm_solid_16px': '\f120',
+    'core-ui-cross_solid_16px': '\f121',
+    'core-ui-delete_solid_16px': '\f122',
+    'core-ui-details_solid_16px': '\f123',
+    'core-ui-drag-list_solid_16px': '\f124',
+    'core-ui-edit_solid_16px': '\f125',
+    'core-ui-edited_solid_16px': '\f126',
+    'core-ui-expand_solid_16px': '\f127',
+    'core-ui-external-link_solid_16px': '\f128',
+    'core-ui-fallback-item_solid_16px': '\f129',
+    'core-ui-folder-closed_solid_16px': '\f12a',
+    'core-ui-folder-open_solid_16px': '\f12b',
+    'core-ui-gps_solid_16px': '\f12c',
+    'core-ui-help_solid_16px': '\f12d',
+    'core-ui-HERE-logo_solid_16px': '\f12e',
+    'core-ui-hide_solid_16px': '\f12f',
+    'core-ui-hide-menu_solid_16px': '\f130',
+    'core-ui-history_solid_16px': '\f131',
+    'core-ui-inbox-attention_solid_16px': '\f132',
+    'core-ui-information_solid_16px': '\f133',
+    'core-ui-invalid_solid_16px': '\f134',
+    'core-ui-loading_solid_16px': '\f135',
+    'core-ui-location-off_solid_16px': '\f136',
+    'core-ui-lock_solid_16px': '\f137',
+    'core-ui-lock-break_solid_16px': '\f138',
+    'core-ui-menu_solid_16px': '\f139',
+    'core-ui-microphone_solid_16px': '\f13a',
+    'core-ui-microphone-off_solid_16px': '\f13b',
+    'core-ui-minus_solid_16px': '\f13c',
+    'core-ui-notifications_solid_16px': '\f13d',
+    'core-ui-overflow-hori-center_solid_16px': '\f13e',
+    'core-ui-overflow-vert-center_solid_16px': '\f13f',
+    'core-ui-overflow-vert-right_solid_16px': '\f140',
+    'core-ui-plus_solid_16px': '\f141',
+    'core-ui-profile_solid_16px': '\f142',
+    'core-ui-question-mark_solid_16px': '\f143',
+    'core-ui-redo_solid_16px': '\f144',
+    'core-ui-refresh_solid_16px': '\f145',
+    'core-ui-report_solid_16px': '\f146',
+    'core-ui-reset_solid_16px': '\f147',
+    'core-ui-save_solid_16px': '\f148',
+    'core-ui-search_solid_16px': '\f149',
+    'core-ui-settings_solid_16px': '\f14a',
+    'core-ui-show_solid_16px': '\f14b',
+    'core-ui-show-menu_solid_16px': '\f14c',
+    'core-ui-sign-in_solid_16px': '\f14d',
+    'core-ui-sign-out_solid_16px': '\f14e',
+    'core-ui-slash_solid_16px': '\f14f',
+    'core-ui-submit_solid_16px': '\f150',
+    'core-ui-substract_solid_16px': '\f151',
+    'core-ui-switch-horizontal_solid_16px': '\f152',
+    'core-ui-switch-vertical_solid_16px': '\f153',
+    'core-ui-tag_solid_16px': '\f154',
+    'core-ui-time_solid_16px': '\f155',
+    'core-ui-undo_solid_16px': '\f156',
+    'core-ui-unlock_solid_16px': '\f157',
+    'core-ui-volume-alert_solid_16px': '\f158',
+    'core-ui-volume-high_solid_16px': '\f159',
+    'core-ui-volume-low_solid_16px': '\f15a',
+    'core-ui-volume-medium_solid_16px': '\f15b',
+    'core-ui-volume-off_solid_16px': '\f15c',
+    'core-ui-wifi-low_solid_16px': '\f15d',
+    'core-ui-wifi-medium_solid_16px': '\f15e',
+    'core-ui-wifi-off_solid_16px': '\f15f',
+    'core-ui-wifi-strong_solid_16px': '\f160',
+    'data-app_solid_16px': '\f161',
+    'data-catalog_solid_16px': '\f162',
+    'data-database_solid_16px': '\f163',
+    'data-index_solid_16px': '\f164',
+    'data-inspect_solid_16px': '\f165',
+    'data-interactive_solid_16px': '\f166',
+    'data-layers_solid_16px': '\f167',
+    'data-marketplace_solid_16px': '\f168',
+    'data-pipeline_solid_16px': '\f169',
+    'data-rest_solid_16px': '\f16a',
+    'data-review_solid_16px': '\f16b',
+    'data-services_solid_16px': '\f16c',
+    'data-stream_solid_16px': '\f16d',
+    'data-template_solid_16px': '\f16e',
+    'data-versioned_solid_16px': '\f16f',
+    'data-volatile_solid_16px': '\f170',
+    'devices-sensors-barcode-reader_solid_16px': '\f171',
+    'devices-sensors-camera_solid_16px': '\f172',
+    'devices-sensors-computer-chip_solid_16px': '\f173',
+    'devices-sensors-device-connected_solid_16px': '\f174',
+    'devices-sensors-device-group-connected_solid_16px': '\f175',
+    'devices-sensors-device-group-filter_solid_16px': '\f176',
+    'devices-sensors-device-group-smart-filter_solid_16px': '\f177',
+    'devices-sensors-hdtv_solid_16px': '\f178',
+    'devices-sensors-keyboard_solid_16px': '\f179',
+    'devices-sensors-logic_solid_16px': '\f17a',
+    'devices-sensors-monitor_solid_16px': '\f17b',
+    'devices-sensors-paired-mode_solid_16px': '\f17c',
+    'devices-sensors-printer_solid_16px': '\f17d',
+    'devices-sensors-projector_solid_16px': '\f17e',
+    'devices-sensors-scanner_solid_16px': '\f17f',
+    'devices-sensors-sensor-airpressure_solid_16px': '\f180',
+    'devices-sensors-sensor-humidity_solid_16px': '\f181',
+    'devices-sensors-sensor-shock_solid_16px': '\f182',
+    'devices-sensors-sensor-temperature_solid_16px': '\f183',
+    'devices-sensors-smartphone_solid_16px': '\f184',
+    'devices-sensors-software_solid_16px': '\f185',
+    'devices-sensors-speaker_solid_16px': '\f186',
+    'devices-sensors-tablet_solid_16px': '\f187',
+    'devices-sensors-whiteboard_solid_16px': '\f188',
+    'discovery-sharing-archive_solid_16px': '\f189',
+    'discovery-sharing-calendar_solid_16px': '\f18a',
+    'discovery-sharing-calendar-add_solid_16px': '\f18b',
+    'discovery-sharing-copy_solid_16px': '\f18c',
+    'discovery-sharing-details_solid_16px': '\f18d',
+    'discovery-sharing-distribute_solid_16px': '\f18e',
+    'discovery-sharing-download_solid_16px': '\f18f',
+    'discovery-sharing-download-cloud_solid_16px': '\f190',
+    'discovery-sharing-filter-off_solid_16px': '\f191',
+    'discovery-sharing-filter-on_solid_16px': '\f192',
+    'discovery-sharing-grid-typeA_solid_16px': '\f193',
+    'discovery-sharing-grid-typeB_solid_16px': '\f194',
+    'discovery-sharing-grid-typeC_solid_16px': '\f195',
+    'discovery-sharing-grid-typeD_solid_16px': '\f196',
+    'discovery-sharing-group_solid_16px': '\f197',
+    'discovery-sharing-group-filter_solid_16px': '\f198',
+    'discovery-sharing-group-smart-filter_solid_16px': '\f199',
+    'discovery-sharing-hide_solid_16px': '\f19a',
+    'discovery-sharing-link_solid_16px': '\f19b',
+    'discovery-sharing-list-typeA_solid_16px': '\f19c',
+    'discovery-sharing-list-typeB_solid_16px': '\f19d',
+    'discovery-sharing-maps-download_solid_16px': '\f19e',
+    'discovery-sharing-maps-update_solid_16px': '\f19f',
+    'discovery-sharing-no-content_solid_16px': '\f1a0',
+    'discovery-sharing-not-in-sync_solid_16px': '\f1a1',
+    'discovery-sharing-share-Android_solid_16px': '\f1a2',
+    'discovery-sharing-share-iOS_solid_16px': '\f1a3',
+    'discovery-sharing-show_solid_16px': '\f1a4',
+    'discovery-sharing-unlink_solid_16px': '\f1a5',
+    'discovery-sharing-upload_solid_16px': '\f1a6',
+    'discovery-sharing-upload-cloud_solid_16px': '\f1a7',
+    'map-view-2D_solid_16px': '\f1a8',
+    'map-view-3D_solid_16px': '\f1a9',
+    'map-view-camera-frustum_solid_16px': '\f1aa',
+    'map-view-camera-orbit_solid_16px': '\f1ab',
+    'map-view-camera-topdown_solid_16px': '\f1ac',
+    'map-view-camera-view_solid_16px': '\f1ad',
+    'map-view-compass_solid_16px': '\f1ae',
+    'map-view-current-location_solid_16px': '\f1af',
+    'map-view-current-location-off_solid_16px': '\f1b0',
+    'map-view-dashboard_solid_16px': '\f1b1',
+    'map-view-distance_solid_16px': '\f1b2',
+    'map-view-east_solid_16px': '\f1b3',
+    'map-view-east-character_solid_16px': '\f1b4',
+    'map-view-flip-horizontal_solid_16px': '\f1b5',
+    'map-view-flip-vertical_solid_16px': '\f1b6',
+    'map-view-keyframe_solid_16px': '\f1b7',
+    'map-view-layers_solid_16px': '\f1b8',
+    'map-view-legend_solid_16px': '\f1b9',
+    'map-view-map-marker_solid_16px': '\f1ba',
+    'map-view-map-view_solid_16px': '\f1bb',
+    'map-view-marker_solid_16px': '\f1bc',
+    'map-view-maximize_solid_16px': '\f1bd',
+    'map-view-minimize_solid_16px': '\f1be',
+    'map-view-minus-rectangle_solid_16px': '\f1bf',
+    'map-view-north_solid_16px': '\f1c0',
+    'map-view-north-character_solid_16px': '\f1c1',
+    'map-view-north-east-character_solid_16px': '\f1c2',
+    'map-view-north-up_solid_16px': '\f1c3',
+    'map-view-north-west-character_solid_16px': '\f1c4',
+    'map-view-not-tilted_solid_16px': '\f1c5',
+    'map-view-pan-view_solid_16px': '\f1c6',
+    'map-view-pip_solid_16px': '\f1c7',
+    'map-view-place_solid_16px': '\f1c8',
+    'map-view-plus-rectangle_solid_16px': '\f1c9',
+    'map-view-pop-out_solid_16px': '\f1ca',
+    'map-view-projection-globe_solid_16px': '\f1cb',
+    'map-view-projection-mercator_solid_16px': '\f1cc',
+    'map-view-resize_solid_16px': '\f1cd',
+    'map-view-select-section_solid_16px': '\f1ce',
+    'map-view-single-screen_solid_16px': '\f1cf',
+    'map-view-south_solid_16px': '\f1d0',
+    'map-view-south-character_solid_16px': '\f1d1',
+    'map-view-south-east-character_solid_16px': '\f1d2',
+    'map-view-south-west-character_solid_16px': '\f1d3',
+    'map-view-split-triple-v_solid_16px': '\f1d4',
+    'map-view-splitscreen-h_solid_16px': '\f1d5',
+    'map-view-splitscreen-v_solid_16px': '\f1d6',
+    'map-view-statistics_solid_16px': '\f1d7',
+    'map-view-tilted_solid_16px': '\f1d8',
+    'map-view-value-decrease_solid_16px': '\f1d9',
+    'map-view-value-decrease-high_solid_16px': '\f1da',
+    'map-view-value-increase_solid_16px': '\f1db',
+    'map-view-value-increase-high_solid_16px': '\f1dc',
+    'map-view-view-all_solid_16px': '\f1dd',
+    'map-view-view-center_solid_16px': '\f1de',
+    'map-view-west_solid_16px': '\f1df',
+    'map-view-west-character_solid_16px': '\f1e0',
+    'map-view-workspaces_solid_16px': '\f1e1',
+    'misc-add-address-number_solid_16px': '\f1e2',
+    'misc-address-number_solid_16px': '\f1e3',
+    'misc-building-home_solid_16px': '\f1e4',
+    'misc-building-off_solid_16px': '\f1e5',
+    'misc-building-office_solid_16px': '\f1e6',
+    'misc-calculator_solid_16px': '\f1e7',
+    'misc-car-rig_solid_16px': '\f1e8',
+    'misc-car-wifi-off_solid_16px': '\f1e9',
+    'misc-car-wifi-on_solid_16px': '\f1ea',
+    'misc-cart_solid_16px': '\f1eb',
+    'misc-charging_solid_16px': '\f1ec',
+    'misc-code_solid_16px': '\f1ed',
+    'misc-credit-card_solid_16px': '\f1ee',
+    'misc-dataset_solid_16px': '\f1ef',
+    'misc-DOC-File_solid_16px': '\f1f0',
+    'misc-elevator_solid_16px': '\f1f1',
+    'misc-environment_solid_16px': '\f1f2',
+    'misc-EPS-File_solid_16px': '\f1f3',
+    'misc-escalator_solid_16px': '\f1f4',
+    'misc-escalator-down_solid_16px': '\f1f5',
+    'misc-escalator-up_solid_16px': '\f1f6',
+    'misc-expert_solid_16px': '\f1f7',
+    'misc-file_solid_16px': '\f1f8',
+    'misc-flashlight_solid_16px': '\f1f9',
+    'misc-GIF-File_solid_16px': '\f1fa',
+    'misc-global_solid_16px': '\f1fb',
+    'misc-handshake_solid_16px': '\f1fc',
+    'misc-hard-drive_solid_16px': '\f1fd',
+    'misc-headphones_solid_16px': '\f1fe',
+    'misc-HTML-File_solid_16px': '\f1ff',
+    'misc-inbox_solid_16px': '\f200',
+    'misc-inbox-attention_solid_16px': '\f201',
+    'misc-JPG-File_solid_16px': '\f202',
+    'misc-JSON-File_solid_16px': '\f203',
+    'misc-key_solid_16px': '\f204',
+    'misc-kitchen_solid_16px': '\f205',
+    'misc-laboratory_solid_16px': '\f206',
+    'misc-lightning-bolt_solid_16px': '\f207',
+    'misc-meeting-point_solid_16px': '\f208',
+    'misc-MP3-File_solid_16px': '\f209',
+    'misc-neighbourhood_solid_16px': '\f20a',
+    'misc-pacemaker_solid_16px': '\f20b',
+    'misc-PDF-File_solid_16px': '\f20c',
+    'misc-people_solid_16px': '\f20d',
+    'misc-plug-type-a_solid_16px': '\f20e',
+    'misc-plug-type-b-nema-14-50_solid_16px': '\f20f',
+    'misc-plug-type-b-nema-5-15_solid_16px': '\f210',
+    'misc-plug-type-c_solid_16px': '\f211',
+    'misc-plug-type-chademo_solid_16px': '\f212',
+    'misc-plug-type-e_solid_16px': '\f213',
+    'misc-plug-type-f_solid_16px': '\f214',
+    'misc-plug-type-g_solid_16px': '\f215',
+    'misc-plug-type-I_solid_16px': '\f216',
+    'misc-plug-type-industrial_solid_16px': '\f217',
+    'misc-plug-type-j_solid_16px': '\f218',
+    'misc-plug-type-j1772_solid_16px': '\f219',
+    'misc-plug-type-j1772-combo_solid_16px': '\f21a',
+    'misc-plug-type-marechal_solid_16px': '\f21b',
+    'misc-plug-type-mennekes_solid_16px': '\f21c',
+    'misc-plug-type-mennekes-combo_solid_16px': '\f21d',
+    'misc-plug-type-tesla_solid_16px': '\f21e',
+    'misc-PNG-File_solid_16px': '\f21f',
+    'misc-poop_solid_16px': '\f220',
+    'misc-project_solid_16px': '\f221',
+    'misc-projects_solid_16px': '\f222',
+    'misc-reusable_solid_16px': '\f223',
+    'misc-service_solid_16px': '\f224',
+    'misc-stairs_solid_16px': '\f225',
+    'misc-stopwatch_solid_16px': '\f226',
+    'misc-suitcase_solid_16px': '\f227',
+    'misc-SVG-File_solid_16px': '\f228',
+    'misc-terrain_solid_16px': '\f229',
+    'misc-ticket-barrier_solid_16px': '\f22a',
+    'misc-TIFF-File_solid_16px': '\f22b',
+    'misc-trophy_solid_16px': '\f22c',
+    'misc-TXT-File_solid_16px': '\f22d',
+    'misc-voice-command_solid_16px': '\f22e',
+    'misc-WAV-File_solid_16px': '\f22f',
+    'misc-wheelchair_solid_16px': '\f230',
+    'misc-ZIP_solid_16px': '\f231',
+    'navigation-image-brightness-off_solid_16px': '\f232',
+    'navigation-image-brightness-on_solid_16px': '\f233',
+    'navigation-image-color-full_solid_16px': '\f234',
+    'navigation-image-color-invert-A_solid_16px': '\f235',
+    'navigation-image-color-invert-B_solid_16px': '\f236',
+    'navigation-image-color-override_solid_16px': '\f237',
+    'navigation-image-color-tone_solid_16px': '\f238',
+    'navigation-image-contrast_solid_16px': '\f239',
+    'navigation-image-first_solid_16px': '\f23a',
+    'navigation-image-last_solid_16px': '\f23b',
+    'navigation-image-next_solid_16px': '\f23c',
+    'navigation-image-opacity-off_solid_16px': '\f23d',
+    'navigation-image-opacity-on_solid_16px': '\f23e',
+    'navigation-image-pause_solid_16px': '\f23f',
+    'navigation-image-play_solid_16px': '\f240',
+    'navigation-image-previous_solid_16px': '\f241',
+    'navigation-image-skip_solid_16px': '\f242',
+    'navigation-image-stop_solid_16px': '\f243',
+    'poi-accommodation_solid_16px': '\f244',
+    'poi-airport_solid_16px': '\f245',
+    'poi-airport-cargo_solid_16px': '\f246',
+    'poi-airport-gate_solid_16px': '\f247',
+    'poi-amusement-park_solid_16px': '\f248',
+    'poi-aquarium_solid_16px': '\f249',
+    'poi-art-gallery_solid_16px': '\f24a',
+    'poi-atm_solid_16px': '\f24b',
+    'poi-attraction_solid_16px': '\f24c',
+    'poi-bank_solid_16px': '\f24d',
+    'poi-beach_solid_16px': '\f24e',
+    'poi-bookstore_solid_16px': '\f24f',
+    'poi-bowling_solid_16px': '\f250',
+    'poi-bridge_solid_16px': '\f251',
+    'poi-bus_solid_16px': '\f252',
+    'poi-business_solid_16px': '\f253',
+    'poi-business-post-jpn_solid_16px': '\f254',
+    'poi-cable-way_solid_16px': '\f255',
+    'poi-camping_solid_16px': '\f256',
+    'poi-car-charging_solid_16px': '\f257',
+    'poi-car-dealership_solid_16px': '\f258',
+    'poi-car-rental_solid_16px': '\f259',
+    'poi-car-repair_solid_16px': '\f25a',
+    'poi-car-wash_solid_16px': '\f25b',
+    'poi-cargo-center_solid_16px': '\f25c',
+    'poi-casino_solid_16px': '\f25d',
+    'poi-cemetry_solid_16px': '\f25e',
+    'poi-cinema_solid_16px': '\f25f',
+    'poi-cocktail_solid_16px': '\f260',
+    'poi-coffee_solid_16px': '\f261',
+    'poi-currency-yen_solid_16px': '\f262',
+    'poi-education_solid_16px': '\f263',
+    'poi-elevator_solid_16px': '\f264',
+    'poi-emergency-firedepartment-jpn_solid_16px': '\f265',
+    'poi-emergency-hospital-jpn_solid_16px': '\f266',
+    'poi-emergency-police-jpn_solid_16px': '\f267',
+    'poi-emergency-policebox-jpn_solid_16px': '\f268',
+    'poi-enter-venue_solid_16px': '\f269',
+    'poi-entrance_solid_16px': '\f26a',
+    'poi-escalator_solid_16px': '\f26b',
+    'poi-exhibition-center_solid_16px': '\f26c',
+    'poi-facilities_solid_16px': '\f26d',
+    'poi-facilities-cityhall-jpn_solid_16px': '\f26e',
+    'poi-facilities-education-higher-jpn_solid_16px': '\f26f',
+    'poi-facilities-education-school-jpn_solid_16px': '\f270',
+    'poi-facilities-office-prefectural-jpn_solid_16px': '\f271',
+    'poi-facilities-office-townvillage-jpn_solid_16px': '\f272',
+    'poi-facilities-office-ward-jpn_solid_16px': '\f273',
+    'poi-fast-food_solid_16px': '\f274',
+    'poi-ferry_solid_16px': '\f275',
+    'poi-fire-department_solid_16px': '\f276',
+    'poi-first-aid_solid_16px': '\f277',
+    'poi-fitness_solid_16px': '\f278',
+    'poi-frontier-crossing_solid_16px': '\f279',
+    'poi-game-arcade_solid_16px': '\f27a',
+    'poi-golf-course_solid_16px': '\f27b',
+    'poi-harbor_solid_16px': '\f27c',
+    'poi-hospital_solid_16px': '\f27d',
+    'poi-hot-spring-jpn_solid_16px': '\f27e',
+    'poi-hotel_solid_16px': '\f27f',
+    'poi-inclined_solid_16px': '\f280',
+    'poi-industrial-complex_solid_16px': '\f281',
+    'poi-karaoke_solid_16px': '\f282',
+    'poi-laundry_solid_16px': '\f283',
+    'poi-library_solid_16px': '\f284',
+    'poi-loading-dock_solid_16px': '\f285',
+    'poi-loading-zone_solid_16px': '\f286',
+    'poi-metro_solid_16px': '\f287',
+    'poi-monorail_solid_16px': '\f288',
+    'poi-mountain_solid_16px': '\f289',
+    'poi-mountain-pass_solid_16px': '\f28a',
+    'poi-museum_solid_16px': '\f28b',
+    'poi-nature_solid_16px': '\f28c',
+    'poi-nature-overlook_solid_16px': '\f28d',
+    'poi-night-club_solid_16px': '\f28e',
+    'poi-park-and-ride_solid_16px': '\f28f',
+    'poi-parking_solid_16px': '\f290',
+    'poi-parking-bicycle_solid_16px': '\f291',
+    'poi-parking-garage_solid_16px': '\f292',
+    'poi-petrol-station_solid_16px': '\f293',
+    'poi-pharmacy_solid_16px': '\f294',
+    'poi-picnic-area_solid_16px': '\f295',
+    'poi-Platform_solid_16px': '\f296',
+    'poi-playground_solid_16px': '\f297',
+    'poi-point_solid_16px': '\f298',
+    'poi-police_solid_16px': '\f299',
+    'poi-pool_solid_16px': '\f29a',
+    'poi-post_solid_16px': '\f29b',
+    'poi-pub_solid_16px': '\f29c',
+    'poi-public-toilet_solid_16px': '\f29d',
+    'poi-public-transport_solid_16px': '\f29e',
+    'poi-rail-light_solid_16px': '\f29f',
+    'poi-rail-regional_solid_16px': '\f2a0',
+    'poi-rail-yard_solid_16px': '\f2a1',
+    'poi-ramp_solid_16px': '\f2a2',
+    'poi-religious-place_solid_16px': '\f2a3',
+    'poi-religious-shinto-jpn_solid_16px': '\f2a4',
+    'poi-religious-temple-buddhist-jpn_solid_16px': '\f2a5',
+    'poi-restaurant_solid_16px': '\f2a6',
+    'poi-seaport-harbor_solid_16px': '\f2a7',
+    'poi-shopping_solid_16px': '\f2a8',
+    'poi-ski-run_solid_16px': '\f2a9',
+    'poi-skywalk_solid_16px': '\f2aa',
+    'poi-stadium_solid_16px': '\f2ab',
+    'poi-stairs_solid_16px': '\f2ac',
+    'poi-swimming_solid_16px': '\f2ad',
+    'poi-taxi_solid_16px': '\f2ae',
+    'poi-theater_solid_16px': '\f2af',
+    'poi-toll-booth_solid_16px': '\f2b0',
+    'poi-tourist-information_solid_16px': '\f2b1',
+    'poi-train_solid_16px': '\f2b2',
+    'poi-transport-shinkansen-jpn_solid_16px': '\f2b3',
+    'poi-travel-agent-ticketing_solid_16px': '\f2b4',
+    'poi-truck-dealership_solid_16px': '\f2b5',
+    'poi-truck-parking_solid_16px': '\f2b6',
+    'poi-truck-repair_solid_16px': '\f2b7',
+    'poi-truck-stop-plaza_solid_16px': '\f2b8',
+    'poi-truck-wash_solid_16px': '\f2b9',
+    'poi-underpath_solid_16px': '\f2ba',
+    'poi-waterfall_solid_16px': '\f2bb',
+    'poi-weigh-station_solid_16px': '\f2bc',
+    'poi-zoo_solid_16px': '\f2bd',
+    'social-camera_solid_16px': '\f2be',
+    'social-chat_outline_16px': '\f2bf',
+    'social-chat_solid_16px': '\f2c0',
+    'social-edit-image_solid_16px': '\f2c1',
+    'social-heart_solid_16px': '\f2c2',
+    'social-image_solid_16px': '\f2c3',
+    'social-live_solid_16px': '\f2c4',
+    'social-mail_solid_16px': '\f2c5',
+    'social-masking_solid_16px': '\f2c6',
+    'social-star_solid_16px': '\f2c7',
+    'social-star-empty_solid_16px': '\f2c8',
+    'social-tag-hearted_solid_16px': '\f2c9',
+    'social-telephone_solid_16px': '\f2ca',
+    'stats-activity_solid_16px': '\f2cb',
+    'stats-bar-chart_solid_16px': '\f2cc',
+    'stats-dashboard_solid_16px': '\f2cd',
+    'stats-east_solid_16px': '\f2ce',
+    'stats-marker_solid_16px': '\f2cf',
+    'stats-north-east_solid_16px': '\f2d0',
+    'stats-north-west_solid_16px': '\f2d1',
+    'stats-pie-chart_solid_16px': '\f2d2',
+    'stats-south-east_solid_16px': '\f2d3',
+    'stats-south-west_solid_16px': '\f2d4',
+    'stats-statistics_solid_16px': '\f2d5',
+    'stats-value_solid_16px': '\f2d6',
+    'stats-value-decrease_solid_16px': '\f2d7',
+    'stats-value-decrease-high_solid_16px': '\f2d8',
+    'stats-value-increase_solid_16px': '\f2d9',
+    'stats-value-increase-high_solid_16px': '\f2da',
+    'stats-west_solid_16px': '\f2db',
+    'tools-add-cam_solid_16px': '\f2dc',
+    'tools-add-map-marker_solid_16px': '\f2dd',
+    'tools-add-place_solid_16px': '\f2de',
+    'tools-add-road_solid_16px': '\f2df',
+    'tools-add-road-sign_solid_16px': '\f2e0',
+    'tools-add-shape_solid_16px': '\f2e1',
+    'tools-center-line_solid_16px': '\f2e2',
+    'tools-color-palette_solid_16px': '\f2e3',
+    'tools-compass-b_solid_16px': '\f2e4',
+    'tools-connector_solid_16px': '\f2e5',
+    'tools-cursor-arrow_solid_16px': '\f2e6',
+    'tools-cursor-pointer_solid_16px': '\f2e7',
+    'tools-cursor-selector_solid_16px': '\f2e8',
+    'tools-disconnected_solid_16px': '\f2e9',
+    'tools-edit-curves_solid_16px': '\f2ea',
+    'tools-finetune_solid_16px': '\f2eb',
+    'tools-font_solid_16px': '\f2ec',
+    'tools-guides_solid_16px': '\f2ed',
+    'tools-join-bevel_solid_16px': '\f2ee',
+    'tools-join-miter_solid_16px': '\f2ef',
+    'tools-join-round_solid_16px': '\f2f0',
+    'tools-line-dashed_solid_16px': '\f2f1',
+    'tools-line-solid_solid_16px': '\f2f2',
+    'tools-line-various_solid_16px': '\f2f3',
+    'tools-map-planner_solid_16px': '\f2f4',
+    'tools-merge_solid_16px': '\f2f5',
+    'tools-numbers_solid_16px': '\f2f6',
+    'tools-outline_solid_16px': '\f2f7',
+    'tools-outline-plus_solid_16px': '\f2f8',
+    'tools-path_solid_16px': '\f2f9',
+    'tools-picker_solid_16px': '\f2fa',
+    'tools-polygon_solid_16px': '\f2fb',
+    'tools-polyline_solid_16px': '\f2fc',
+    'tools-road_solid_16px': '\f2fd',
+    'tools-selector-freeform_solid_16px': '\f2fe',
+    'tools-selector-pointer_solid_16px': '\f2ff',
+    'tools-selector-polygon_solid_16px': '\f300',
+    'tools-shape_solid_16px': '\f301',
+    'tools-skip-point_solid_16px': '\f302',
+    'tools-split-object_solid_16px': '\f303',
+    'tools-text_solid_16px': '\f304',
+    'tools-tie-point_solid_16px': '\f305',
+    'tools-tuner_solid_16px': '\f306',
+    'tools-vector-point_solid_16px': '\f307',
+    'tools-wrench_solid_16px': '\f308',
+    'travel-transport-tracking-accident-car_solid_16px': '\f309',
+    'travel-transport-tracking-airport_solid_16px': '\f30a',
+    'travel-transport-tracking-arrival-airport_solid_16px': '\f30b',
+    'travel-transport-tracking-attention_solid_16px': '\f30c',
+    'travel-transport-tracking-auto-caravan_solid_16px': '\f30d',
+    'travel-transport-tracking-auto-trailer_solid_16px': '\f30e',
+    'travel-transport-tracking-bicycle_solid_16px': '\f30f',
+    'travel-transport-tracking-boat-trailer_solid_16px': '\f310',
+    'travel-transport-tracking-bumps_solid_16px': '\f311',
+    'travel-transport-tracking-bus_solid_16px': '\f312',
+    'travel-transport-tracking-bus-rapid_solid_16px': '\f313',
+    'travel-transport-tracking-cable-way_solid_16px': '\f314',
+    'travel-transport-tracking-car-rental_solid_16px': '\f315',
+    'travel-transport-tracking-caravan_solid_16px': '\f316',
+    'travel-transport-tracking-closure_solid_16px': '\f317',
+    'travel-transport-tracking-departure-airport_solid_16px': '\f318',
+    'travel-transport-tracking-destination_solid_16px': '\f319',
+    'travel-transport-tracking-directions_solid_16px': '\f31a',
+    'travel-transport-tracking-disabled-vehicle_solid_16px': '\f31b',
+    'travel-transport-tracking-driving_solid_16px': '\f31c',
+    'travel-transport-tracking-driving-off_solid_16px': '\f31d',
+    'travel-transport-tracking-dynamic-routing_solid_16px': '\f31e',
+    'travel-transport-tracking-ferry_solid_16px': '\f31f',
+    'travel-transport-tracking-ferry-off_solid_16px': '\f320',
+    'travel-transport-tracking-flight-monitor_solid_16px': '\f321',
+    'travel-transport-tracking-full-container-load_solid_16px': '\f322',
+    'travel-transport-tracking-full-truck-load_solid_16px': '\f323',
+    'travel-transport-tracking-geofence_solid_16px': '\f324',
+    'travel-transport-tracking-heavy-machinery_solid_16px': '\f325',
+    'travel-transport-tracking-highways_solid_16px': '\f326',
+    'travel-transport-tracking-inclined_solid_16px': '\f327',
+    'travel-transport-tracking-journey_solid_16px': '\f328',
+    'travel-transport-tracking-lane-restriction_solid_16px': '\f329',
+    'travel-transport-tracking-less-container-load_solid_16px': '\f32a',
+    'travel-transport-tracking-less-truck-load_solid_16px': '\f32b',
+    'travel-transport-tracking-light-rail_solid_16px': '\f32c',
+    'travel-transport-tracking-mass-transit_solid_16px': '\f32d',
+    'travel-transport-tracking-metro_solid_16px': '\f32e',
+    'travel-transport-tracking-monorail_solid_16px': '\f32f',
+    'travel-transport-tracking-motorcycle_solid_16px': '\f330',
+    'travel-transport-tracking-motorhome_solid_16px': '\f331',
+    'travel-transport-tracking-motorscooter_solid_16px': '\f332',
+    'travel-transport-tracking-multimodal_solid_16px': '\f333',
+    'travel-transport-tracking-navigation_solid_16px': '\f334',
+    'travel-transport-tracking-no-container-load_solid_16px': '\f335',
+    'travel-transport-tracking-no-truck-load_solid_16px': '\f336',
+    'travel-transport-tracking-planned-tour_solid_16px': '\f337',
+    'travel-transport-tracking-rail-highspeed_solid_16px': '\f338',
+    'travel-transport-tracking-rail-highspeed-off_solid_16px': '\f339',
+    'travel-transport-tracking-rail-intercity_solid_16px': '\f33a',
+    'travel-transport-tracking-rail-local_solid_16px': '\f33b',
+    'travel-transport-tracking-rail-regional_solid_16px': '\f33c',
+    'travel-transport-tracking-ride-hailing_solid_16px': '\f33d',
+    'travel-transport-tracking-rideshare_solid_16px': '\f33e',
+    'travel-transport-tracking-road-closure_solid_16px': '\f33f',
+    'travel-transport-tracking-road-hazard_solid_16px': '\f340',
+    'travel-transport-tracking-road-tolls_solid_16px': '\f341',
+    'travel-transport-tracking-road-tolls-off_solid_16px': '\f342',
+    'travel-transport-tracking-road-unpaved_solid_16px': '\f343',
+    'travel-transport-tracking-road-unpaved-off_solid_16px': '\f344',
+    'travel-transport-tracking-roadworks_solid_16px': '\f345',
+    'travel-transport-tracking-route_solid_16px': '\f346',
+    'travel-transport-tracking-scooter_solid_16px': '\f347',
+    'travel-transport-tracking-security-camera_solid_16px': '\f348',
+    'travel-transport-tracking-semi-trailer_solid_16px': '\f349',
+    'travel-transport-tracking-service-desk_solid_16px': '\f34a',
+    'travel-transport-tracking-shipment_solid_16px': '\f34b',
+    'travel-transport-tracking-speed-camera_solid_16px': '\f34c',
+    'travel-transport-tracking-speed-limit_solid_16px': '\f34d',
+    'travel-transport-tracking-speedalert_solid_16px': '\f34e',
+    'travel-transport-tracking-speedalert-off_solid_16px': '\f34f',
+    'travel-transport-tracking-taxi_solid_16px': '\f350',
+    'travel-transport-tracking-taxi-off_solid_16px': '\f351',
+    'travel-transport-tracking-ticket_solid_16px': '\f352',
+    'travel-transport-tracking-tour_solid_16px': '\f353',
+    'travel-transport-tracking-tracker_solid_16px': '\f354',
+    'travel-transport-tracking-traffic_solid_16px': '\f355',
+    'travel-transport-tracking-traffic-off_solid_16px': '\f356',
+    'travel-transport-tracking-trailer_solid_16px': '\f357',
+    'travel-transport-tracking-train_solid_16px': '\f358',
+    'travel-transport-tracking-tram_solid_16px': '\f359',
+    'travel-transport-tracking-truck_solid_16px': '\f35a',
+    'travel-transport-tracking-wait-pedestrian_solid_16px': '\f35b',
+    'travel-transport-tracking-walking_solid_16px': '\f35c',
+    'travel-transport-tracking-walking-off_solid_16px': '\f35d',
+    'weather-clear-night_solid_16px': '\f35e',
+    'weather-cloudy-day_solid_16px': '\f35f',
+    'weather-cloudy-night_solid_16px': '\f360',
+    'weather-flood_solid_16px': '\f361',
+    'weather-fog_solid_16px': '\f362',
+    'weather-hurricane_solid_16px': '\f363',
+    'weather-overcast_solid_16px': '\f364',
+    'weather-rain_solid_16px': '\f365',
+    'weather-rain-freezing_solid_16px': '\f366',
+    'weather-rain-snow_solid_16px': '\f367',
+    'weather-shower-day_solid_16px': '\f368',
+    'weather-shower-night_solid_16px': '\f369',
+    'weather-smog_solid_16px': '\f36a',
+    'weather-snowfall_solid_16px': '\f36b',
+    'weather-storm_solid_16px': '\f36c',
+    'weather-stormy-day_solid_16px': '\f36d',
+    'weather-stormy-night_solid_16px': '\f36e',
+    'weather-weather-clear-day_solid_16px': '\f36f',
+    'weather-windy_solid_16px': '\f370',
+  );
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-add_solid_16px {
+    content: '\f101';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-alert_solid_16px {
+    content: '\f102';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-down_solid_16px {
+    content: '\f103';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-down-left_solid_16px {
+    content: '\f104';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-down-right_solid_16px {
+    content: '\f105';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-left_solid_16px {
+    content: '\f106';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-right_solid_16px {
+    content: '\f107';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-up_solid_16px {
+    content: '\f108';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-up-left_solid_16px {
+    content: '\f109';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-arrow-up-right_solid_16px {
+    content: '\f10a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-attention_solid_16px {
+    content: '\f10b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-battery-charging_solid_16px {
+    content: '\f10c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-battery-empty_solid_16px {
+    content: '\f10d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-battery-full_solid_16px {
+    content: '\f10e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-battery-half_solid_16px {
+    content: '\f10f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-battery-low_solid_16px {
+    content: '\f110';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-bluetooth_solid_16px {
+    content: '\f111';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-bluetooth-off_solid_16px {
+    content: '\f112';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-bookmark_solid_16px {
+    content: '\f113';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-bookmark-add_solid_16px {
+    content: '\f114';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-checkmark_solid_16px {
+    content: '\f115';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-down_solid_16px {
+    content: '\f116';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-left_solid_16px {
+    content: '\f117';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-left-double_solid_16px {
+    content: '\f118';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-right_solid_16px {
+    content: '\f119';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-right-double_solid_16px {
+    content: '\f11a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-up_solid_16px {
+    content: '\f11b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-chevron-up-down_solid_16px {
+    content: '\f11c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-clear_solid_16px {
+    content: '\f11d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-collapse_solid_16px {
+    content: '\f11e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-comment_solid_16px {
+    content: '\f11f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-confirm_solid_16px {
+    content: '\f120';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-cross_solid_16px {
+    content: '\f121';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-delete_solid_16px {
+    content: '\f122';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-details_solid_16px {
+    content: '\f123';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-drag-list_solid_16px {
+    content: '\f124';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-edit_solid_16px {
+    content: '\f125';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-edited_solid_16px {
+    content: '\f126';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-expand_solid_16px {
+    content: '\f127';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-external-link_solid_16px {
+    content: '\f128';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-fallback-item_solid_16px {
+    content: '\f129';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-folder-closed_solid_16px {
+    content: '\f12a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-folder-open_solid_16px {
+    content: '\f12b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-gps_solid_16px {
+    content: '\f12c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-help_solid_16px {
+    content: '\f12d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-HERE-logo_solid_16px {
+    content: '\f12e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-hide_solid_16px {
+    content: '\f12f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-hide-menu_solid_16px {
+    content: '\f130';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-history_solid_16px {
+    content: '\f131';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-inbox-attention_solid_16px {
+    content: '\f132';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-information_solid_16px {
+    content: '\f133';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-invalid_solid_16px {
+    content: '\f134';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-loading_solid_16px {
+    content: '\f135';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-location-off_solid_16px {
+    content: '\f136';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-lock_solid_16px {
+    content: '\f137';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-lock-break_solid_16px {
+    content: '\f138';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-menu_solid_16px {
+    content: '\f139';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-microphone_solid_16px {
+    content: '\f13a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-microphone-off_solid_16px {
+    content: '\f13b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-minus_solid_16px {
+    content: '\f13c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-notifications_solid_16px {
+    content: '\f13d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-overflow-hori-center_solid_16px {
+    content: '\f13e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-overflow-vert-center_solid_16px {
+    content: '\f13f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-overflow-vert-right_solid_16px {
+    content: '\f140';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-plus_solid_16px {
+    content: '\f141';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-profile_solid_16px {
+    content: '\f142';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-question-mark_solid_16px {
+    content: '\f143';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-redo_solid_16px {
+    content: '\f144';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-refresh_solid_16px {
+    content: '\f145';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-report_solid_16px {
+    content: '\f146';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-reset_solid_16px {
+    content: '\f147';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-save_solid_16px {
+    content: '\f148';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-search_solid_16px {
+    content: '\f149';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-settings_solid_16px {
+    content: '\f14a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-show_solid_16px {
+    content: '\f14b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-show-menu_solid_16px {
+    content: '\f14c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-sign-in_solid_16px {
+    content: '\f14d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-sign-out_solid_16px {
+    content: '\f14e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-slash_solid_16px {
+    content: '\f14f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-submit_solid_16px {
+    content: '\f150';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-substract_solid_16px {
+    content: '\f151';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-switch-horizontal_solid_16px {
+    content: '\f152';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-switch-vertical_solid_16px {
+    content: '\f153';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-tag_solid_16px {
+    content: '\f154';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-time_solid_16px {
+    content: '\f155';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-undo_solid_16px {
+    content: '\f156';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-unlock_solid_16px {
+    content: '\f157';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-volume-alert_solid_16px {
+    content: '\f158';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-volume-high_solid_16px {
+    content: '\f159';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-volume-low_solid_16px {
+    content: '\f15a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-volume-medium_solid_16px {
+    content: '\f15b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-volume-off_solid_16px {
+    content: '\f15c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-wifi-low_solid_16px {
+    content: '\f15d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-wifi-medium_solid_16px {
+    content: '\f15e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-wifi-off_solid_16px {
+    content: '\f15f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-core-ui-wifi-strong_solid_16px {
+    content: '\f160';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-app_solid_16px {
+    content: '\f161';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-catalog_solid_16px {
+    content: '\f162';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-database_solid_16px {
+    content: '\f163';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-index_solid_16px {
+    content: '\f164';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-inspect_solid_16px {
+    content: '\f165';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-interactive_solid_16px {
+    content: '\f166';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-layers_solid_16px {
+    content: '\f167';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-marketplace_solid_16px {
+    content: '\f168';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-pipeline_solid_16px {
+    content: '\f169';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-rest_solid_16px {
+    content: '\f16a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-review_solid_16px {
+    content: '\f16b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-services_solid_16px {
+    content: '\f16c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-stream_solid_16px {
+    content: '\f16d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-template_solid_16px {
+    content: '\f16e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-versioned_solid_16px {
+    content: '\f16f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-data-volatile_solid_16px {
+    content: '\f170';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-barcode-reader_solid_16px {
+    content: '\f171';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-camera_solid_16px {
+    content: '\f172';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-computer-chip_solid_16px {
+    content: '\f173';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-device-connected_solid_16px {
+    content: '\f174';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-device-group-connected_solid_16px {
+    content: '\f175';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-device-group-filter_solid_16px {
+    content: '\f176';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-device-group-smart-filter_solid_16px {
+    content: '\f177';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-hdtv_solid_16px {
+    content: '\f178';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-keyboard_solid_16px {
+    content: '\f179';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-logic_solid_16px {
+    content: '\f17a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-monitor_solid_16px {
+    content: '\f17b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-paired-mode_solid_16px {
+    content: '\f17c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-printer_solid_16px {
+    content: '\f17d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-projector_solid_16px {
+    content: '\f17e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-scanner_solid_16px {
+    content: '\f17f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-sensor-airpressure_solid_16px {
+    content: '\f180';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-sensor-humidity_solid_16px {
+    content: '\f181';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-sensor-shock_solid_16px {
+    content: '\f182';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-sensor-temperature_solid_16px {
+    content: '\f183';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-smartphone_solid_16px {
+    content: '\f184';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-software_solid_16px {
+    content: '\f185';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-speaker_solid_16px {
+    content: '\f186';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-tablet_solid_16px {
+    content: '\f187';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-devices-sensors-whiteboard_solid_16px {
+    content: '\f188';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-archive_solid_16px {
+    content: '\f189';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-calendar_solid_16px {
+    content: '\f18a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-calendar-add_solid_16px {
+    content: '\f18b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-copy_solid_16px {
+    content: '\f18c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-details_solid_16px {
+    content: '\f18d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-distribute_solid_16px {
+    content: '\f18e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-download_solid_16px {
+    content: '\f18f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-download-cloud_solid_16px {
+    content: '\f190';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-filter-off_solid_16px {
+    content: '\f191';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-filter-on_solid_16px {
+    content: '\f192';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-grid-typeA_solid_16px {
+    content: '\f193';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-grid-typeB_solid_16px {
+    content: '\f194';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-grid-typeC_solid_16px {
+    content: '\f195';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-grid-typeD_solid_16px {
+    content: '\f196';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-group_solid_16px {
+    content: '\f197';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-group-filter_solid_16px {
+    content: '\f198';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-group-smart-filter_solid_16px {
+    content: '\f199';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-hide_solid_16px {
+    content: '\f19a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-link_solid_16px {
+    content: '\f19b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-list-typeA_solid_16px {
+    content: '\f19c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-list-typeB_solid_16px {
+    content: '\f19d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-maps-download_solid_16px {
+    content: '\f19e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-maps-update_solid_16px {
+    content: '\f19f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-no-content_solid_16px {
+    content: '\f1a0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-not-in-sync_solid_16px {
+    content: '\f1a1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-share-Android_solid_16px {
+    content: '\f1a2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-share-iOS_solid_16px {
+    content: '\f1a3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-show_solid_16px {
+    content: '\f1a4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-unlink_solid_16px {
+    content: '\f1a5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-upload_solid_16px {
+    content: '\f1a6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-discovery-sharing-upload-cloud_solid_16px {
+    content: '\f1a7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-2D_solid_16px {
+    content: '\f1a8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-3D_solid_16px {
+    content: '\f1a9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-camera-frustum_solid_16px {
+    content: '\f1aa';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-camera-orbit_solid_16px {
+    content: '\f1ab';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-camera-topdown_solid_16px {
+    content: '\f1ac';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-camera-view_solid_16px {
+    content: '\f1ad';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-compass_solid_16px {
+    content: '\f1ae';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-current-location_solid_16px {
+    content: '\f1af';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-current-location-off_solid_16px {
+    content: '\f1b0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-dashboard_solid_16px {
+    content: '\f1b1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-distance_solid_16px {
+    content: '\f1b2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-east_solid_16px {
+    content: '\f1b3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-east-character_solid_16px {
+    content: '\f1b4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-flip-horizontal_solid_16px {
+    content: '\f1b5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-flip-vertical_solid_16px {
+    content: '\f1b6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-keyframe_solid_16px {
+    content: '\f1b7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-layers_solid_16px {
+    content: '\f1b8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-legend_solid_16px {
+    content: '\f1b9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-map-marker_solid_16px {
+    content: '\f1ba';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-map-view_solid_16px {
+    content: '\f1bb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-marker_solid_16px {
+    content: '\f1bc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-maximize_solid_16px {
+    content: '\f1bd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-minimize_solid_16px {
+    content: '\f1be';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-minus-rectangle_solid_16px {
+    content: '\f1bf';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-north_solid_16px {
+    content: '\f1c0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-north-character_solid_16px {
+    content: '\f1c1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-north-east-character_solid_16px {
+    content: '\f1c2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-north-up_solid_16px {
+    content: '\f1c3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-north-west-character_solid_16px {
+    content: '\f1c4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-not-tilted_solid_16px {
+    content: '\f1c5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-pan-view_solid_16px {
+    content: '\f1c6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-pip_solid_16px {
+    content: '\f1c7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-place_solid_16px {
+    content: '\f1c8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-plus-rectangle_solid_16px {
+    content: '\f1c9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-pop-out_solid_16px {
+    content: '\f1ca';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-projection-globe_solid_16px {
+    content: '\f1cb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-projection-mercator_solid_16px {
+    content: '\f1cc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-resize_solid_16px {
+    content: '\f1cd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-select-section_solid_16px {
+    content: '\f1ce';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-single-screen_solid_16px {
+    content: '\f1cf';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-south_solid_16px {
+    content: '\f1d0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-south-character_solid_16px {
+    content: '\f1d1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-south-east-character_solid_16px {
+    content: '\f1d2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-south-west-character_solid_16px {
+    content: '\f1d3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-split-triple-v_solid_16px {
+    content: '\f1d4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-splitscreen-h_solid_16px {
+    content: '\f1d5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-splitscreen-v_solid_16px {
+    content: '\f1d6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-statistics_solid_16px {
+    content: '\f1d7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-tilted_solid_16px {
+    content: '\f1d8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-value-decrease_solid_16px {
+    content: '\f1d9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-value-decrease-high_solid_16px {
+    content: '\f1da';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-value-increase_solid_16px {
+    content: '\f1db';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-value-increase-high_solid_16px {
+    content: '\f1dc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-view-all_solid_16px {
+    content: '\f1dd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-view-center_solid_16px {
+    content: '\f1de';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-west_solid_16px {
+    content: '\f1df';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-west-character_solid_16px {
+    content: '\f1e0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-map-view-workspaces_solid_16px {
+    content: '\f1e1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-add-address-number_solid_16px {
+    content: '\f1e2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-address-number_solid_16px {
+    content: '\f1e3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-building-home_solid_16px {
+    content: '\f1e4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-building-off_solid_16px {
+    content: '\f1e5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-building-office_solid_16px {
+    content: '\f1e6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-calculator_solid_16px {
+    content: '\f1e7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-car-rig_solid_16px {
+    content: '\f1e8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-car-wifi-off_solid_16px {
+    content: '\f1e9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-car-wifi-on_solid_16px {
+    content: '\f1ea';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-cart_solid_16px {
+    content: '\f1eb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-charging_solid_16px {
+    content: '\f1ec';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-code_solid_16px {
+    content: '\f1ed';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-credit-card_solid_16px {
+    content: '\f1ee';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-dataset_solid_16px {
+    content: '\f1ef';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-DOC-File_solid_16px {
+    content: '\f1f0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-elevator_solid_16px {
+    content: '\f1f1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-environment_solid_16px {
+    content: '\f1f2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-EPS-File_solid_16px {
+    content: '\f1f3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-escalator_solid_16px {
+    content: '\f1f4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-escalator-down_solid_16px {
+    content: '\f1f5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-escalator-up_solid_16px {
+    content: '\f1f6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-expert_solid_16px {
+    content: '\f1f7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-file_solid_16px {
+    content: '\f1f8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-flashlight_solid_16px {
+    content: '\f1f9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-GIF-File_solid_16px {
+    content: '\f1fa';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-global_solid_16px {
+    content: '\f1fb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-handshake_solid_16px {
+    content: '\f1fc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-hard-drive_solid_16px {
+    content: '\f1fd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-headphones_solid_16px {
+    content: '\f1fe';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-HTML-File_solid_16px {
+    content: '\f1ff';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-inbox_solid_16px {
+    content: '\f200';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-inbox-attention_solid_16px {
+    content: '\f201';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-JPG-File_solid_16px {
+    content: '\f202';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-JSON-File_solid_16px {
+    content: '\f203';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-key_solid_16px {
+    content: '\f204';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-kitchen_solid_16px {
+    content: '\f205';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-laboratory_solid_16px {
+    content: '\f206';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-lightning-bolt_solid_16px {
+    content: '\f207';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-meeting-point_solid_16px {
+    content: '\f208';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-MP3-File_solid_16px {
+    content: '\f209';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-neighbourhood_solid_16px {
+    content: '\f20a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-pacemaker_solid_16px {
+    content: '\f20b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-PDF-File_solid_16px {
+    content: '\f20c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-people_solid_16px {
+    content: '\f20d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-a_solid_16px {
+    content: '\f20e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-b-nema-14-50_solid_16px {
+    content: '\f20f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-b-nema-5-15_solid_16px {
+    content: '\f210';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-c_solid_16px {
+    content: '\f211';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-chademo_solid_16px {
+    content: '\f212';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-e_solid_16px {
+    content: '\f213';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-f_solid_16px {
+    content: '\f214';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-g_solid_16px {
+    content: '\f215';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-I_solid_16px {
+    content: '\f216';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-industrial_solid_16px {
+    content: '\f217';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-j_solid_16px {
+    content: '\f218';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-j1772_solid_16px {
+    content: '\f219';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-j1772-combo_solid_16px {
+    content: '\f21a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-marechal_solid_16px {
+    content: '\f21b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-mennekes_solid_16px {
+    content: '\f21c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-mennekes-combo_solid_16px {
+    content: '\f21d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-plug-type-tesla_solid_16px {
+    content: '\f21e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-PNG-File_solid_16px {
+    content: '\f21f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-poop_solid_16px {
+    content: '\f220';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-project_solid_16px {
+    content: '\f221';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-projects_solid_16px {
+    content: '\f222';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-reusable_solid_16px {
+    content: '\f223';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-service_solid_16px {
+    content: '\f224';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-stairs_solid_16px {
+    content: '\f225';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-stopwatch_solid_16px {
+    content: '\f226';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-suitcase_solid_16px {
+    content: '\f227';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-SVG-File_solid_16px {
+    content: '\f228';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-terrain_solid_16px {
+    content: '\f229';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-ticket-barrier_solid_16px {
+    content: '\f22a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-TIFF-File_solid_16px {
+    content: '\f22b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-trophy_solid_16px {
+    content: '\f22c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-TXT-File_solid_16px {
+    content: '\f22d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-voice-command_solid_16px {
+    content: '\f22e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-WAV-File_solid_16px {
+    content: '\f22f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-wheelchair_solid_16px {
+    content: '\f230';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-misc-ZIP_solid_16px {
+    content: '\f231';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-brightness-off_solid_16px {
+    content: '\f232';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-brightness-on_solid_16px {
+    content: '\f233';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-color-full_solid_16px {
+    content: '\f234';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-color-invert-A_solid_16px {
+    content: '\f235';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-color-invert-B_solid_16px {
+    content: '\f236';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-color-override_solid_16px {
+    content: '\f237';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-color-tone_solid_16px {
+    content: '\f238';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-contrast_solid_16px {
+    content: '\f239';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-first_solid_16px {
+    content: '\f23a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-last_solid_16px {
+    content: '\f23b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-next_solid_16px {
+    content: '\f23c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-opacity-off_solid_16px {
+    content: '\f23d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-opacity-on_solid_16px {
+    content: '\f23e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-pause_solid_16px {
+    content: '\f23f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-play_solid_16px {
+    content: '\f240';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-previous_solid_16px {
+    content: '\f241';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-skip_solid_16px {
+    content: '\f242';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-navigation-image-stop_solid_16px {
+    content: '\f243';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-accommodation_solid_16px {
+    content: '\f244';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-airport_solid_16px {
+    content: '\f245';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-airport-cargo_solid_16px {
+    content: '\f246';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-airport-gate_solid_16px {
+    content: '\f247';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-amusement-park_solid_16px {
+    content: '\f248';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-aquarium_solid_16px {
+    content: '\f249';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-art-gallery_solid_16px {
+    content: '\f24a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-atm_solid_16px {
+    content: '\f24b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-attraction_solid_16px {
+    content: '\f24c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-bank_solid_16px {
+    content: '\f24d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-beach_solid_16px {
+    content: '\f24e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-bookstore_solid_16px {
+    content: '\f24f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-bowling_solid_16px {
+    content: '\f250';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-bridge_solid_16px {
+    content: '\f251';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-bus_solid_16px {
+    content: '\f252';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-business_solid_16px {
+    content: '\f253';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-business-post-jpn_solid_16px {
+    content: '\f254';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-cable-way_solid_16px {
+    content: '\f255';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-camping_solid_16px {
+    content: '\f256';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-car-charging_solid_16px {
+    content: '\f257';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-car-dealership_solid_16px {
+    content: '\f258';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-car-rental_solid_16px {
+    content: '\f259';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-car-repair_solid_16px {
+    content: '\f25a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-car-wash_solid_16px {
+    content: '\f25b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-cargo-center_solid_16px {
+    content: '\f25c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-casino_solid_16px {
+    content: '\f25d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-cemetry_solid_16px {
+    content: '\f25e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-cinema_solid_16px {
+    content: '\f25f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-cocktail_solid_16px {
+    content: '\f260';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-coffee_solid_16px {
+    content: '\f261';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-currency-yen_solid_16px {
+    content: '\f262';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-education_solid_16px {
+    content: '\f263';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-elevator_solid_16px {
+    content: '\f264';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-emergency-firedepartment-jpn_solid_16px {
+    content: '\f265';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-emergency-hospital-jpn_solid_16px {
+    content: '\f266';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-emergency-police-jpn_solid_16px {
+    content: '\f267';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-emergency-policebox-jpn_solid_16px {
+    content: '\f268';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-enter-venue_solid_16px {
+    content: '\f269';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-entrance_solid_16px {
+    content: '\f26a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-escalator_solid_16px {
+    content: '\f26b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-exhibition-center_solid_16px {
+    content: '\f26c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities_solid_16px {
+    content: '\f26d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-cityhall-jpn_solid_16px {
+    content: '\f26e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-education-higher-jpn_solid_16px {
+    content: '\f26f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-education-school-jpn_solid_16px {
+    content: '\f270';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-office-prefectural-jpn_solid_16px {
+    content: '\f271';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-office-townvillage-jpn_solid_16px {
+    content: '\f272';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-facilities-office-ward-jpn_solid_16px {
+    content: '\f273';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-fast-food_solid_16px {
+    content: '\f274';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-ferry_solid_16px {
+    content: '\f275';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-fire-department_solid_16px {
+    content: '\f276';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-first-aid_solid_16px {
+    content: '\f277';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-fitness_solid_16px {
+    content: '\f278';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-frontier-crossing_solid_16px {
+    content: '\f279';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-game-arcade_solid_16px {
+    content: '\f27a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-golf-course_solid_16px {
+    content: '\f27b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-harbor_solid_16px {
+    content: '\f27c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-hospital_solid_16px {
+    content: '\f27d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-hot-spring-jpn_solid_16px {
+    content: '\f27e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-hotel_solid_16px {
+    content: '\f27f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-inclined_solid_16px {
+    content: '\f280';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-industrial-complex_solid_16px {
+    content: '\f281';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-karaoke_solid_16px {
+    content: '\f282';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-laundry_solid_16px {
+    content: '\f283';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-library_solid_16px {
+    content: '\f284';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-loading-dock_solid_16px {
+    content: '\f285';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-loading-zone_solid_16px {
+    content: '\f286';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-metro_solid_16px {
+    content: '\f287';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-monorail_solid_16px {
+    content: '\f288';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-mountain_solid_16px {
+    content: '\f289';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-mountain-pass_solid_16px {
+    content: '\f28a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-museum_solid_16px {
+    content: '\f28b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-nature_solid_16px {
+    content: '\f28c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-nature-overlook_solid_16px {
+    content: '\f28d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-night-club_solid_16px {
+    content: '\f28e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-park-and-ride_solid_16px {
+    content: '\f28f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-parking_solid_16px {
+    content: '\f290';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-parking-bicycle_solid_16px {
+    content: '\f291';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-parking-garage_solid_16px {
+    content: '\f292';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-petrol-station_solid_16px {
+    content: '\f293';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-pharmacy_solid_16px {
+    content: '\f294';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-picnic-area_solid_16px {
+    content: '\f295';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-Platform_solid_16px {
+    content: '\f296';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-playground_solid_16px {
+    content: '\f297';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-point_solid_16px {
+    content: '\f298';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-police_solid_16px {
+    content: '\f299';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-pool_solid_16px {
+    content: '\f29a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-post_solid_16px {
+    content: '\f29b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-pub_solid_16px {
+    content: '\f29c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-public-toilet_solid_16px {
+    content: '\f29d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-public-transport_solid_16px {
+    content: '\f29e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-rail-light_solid_16px {
+    content: '\f29f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-rail-regional_solid_16px {
+    content: '\f2a0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-rail-yard_solid_16px {
+    content: '\f2a1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-ramp_solid_16px {
+    content: '\f2a2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-religious-place_solid_16px {
+    content: '\f2a3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-religious-shinto-jpn_solid_16px {
+    content: '\f2a4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-religious-temple-buddhist-jpn_solid_16px {
+    content: '\f2a5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-restaurant_solid_16px {
+    content: '\f2a6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-seaport-harbor_solid_16px {
+    content: '\f2a7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-shopping_solid_16px {
+    content: '\f2a8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-ski-run_solid_16px {
+    content: '\f2a9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-skywalk_solid_16px {
+    content: '\f2aa';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-stadium_solid_16px {
+    content: '\f2ab';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-stairs_solid_16px {
+    content: '\f2ac';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-swimming_solid_16px {
+    content: '\f2ad';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-taxi_solid_16px {
+    content: '\f2ae';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-theater_solid_16px {
+    content: '\f2af';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-toll-booth_solid_16px {
+    content: '\f2b0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-tourist-information_solid_16px {
+    content: '\f2b1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-train_solid_16px {
+    content: '\f2b2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-transport-shinkansen-jpn_solid_16px {
+    content: '\f2b3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-travel-agent-ticketing_solid_16px {
+    content: '\f2b4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-truck-dealership_solid_16px {
+    content: '\f2b5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-truck-parking_solid_16px {
+    content: '\f2b6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-truck-repair_solid_16px {
+    content: '\f2b7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-truck-stop-plaza_solid_16px {
+    content: '\f2b8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-truck-wash_solid_16px {
+    content: '\f2b9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-underpath_solid_16px {
+    content: '\f2ba';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-waterfall_solid_16px {
+    content: '\f2bb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-weigh-station_solid_16px {
+    content: '\f2bc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-poi-zoo_solid_16px {
+    content: '\f2bd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-camera_solid_16px {
+    content: '\f2be';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-chat_outline_16px {
+    content: '\f2bf';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-chat_solid_16px {
+    content: '\f2c0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-edit-image_solid_16px {
+    content: '\f2c1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-heart_solid_16px {
+    content: '\f2c2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-image_solid_16px {
+    content: '\f2c3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-live_solid_16px {
+    content: '\f2c4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-mail_solid_16px {
+    content: '\f2c5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-masking_solid_16px {
+    content: '\f2c6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-star_solid_16px {
+    content: '\f2c7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-star-empty_solid_16px {
+    content: '\f2c8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-tag-hearted_solid_16px {
+    content: '\f2c9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-social-telephone_solid_16px {
+    content: '\f2ca';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-activity_solid_16px {
+    content: '\f2cb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-bar-chart_solid_16px {
+    content: '\f2cc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-dashboard_solid_16px {
+    content: '\f2cd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-east_solid_16px {
+    content: '\f2ce';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-marker_solid_16px {
+    content: '\f2cf';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-north-east_solid_16px {
+    content: '\f2d0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-north-west_solid_16px {
+    content: '\f2d1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-pie-chart_solid_16px {
+    content: '\f2d2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-south-east_solid_16px {
+    content: '\f2d3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-south-west_solid_16px {
+    content: '\f2d4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-statistics_solid_16px {
+    content: '\f2d5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-value_solid_16px {
+    content: '\f2d6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-value-decrease_solid_16px {
+    content: '\f2d7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-value-decrease-high_solid_16px {
+    content: '\f2d8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-value-increase_solid_16px {
+    content: '\f2d9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-value-increase-high_solid_16px {
+    content: '\f2da';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-stats-west_solid_16px {
+    content: '\f2db';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-cam_solid_16px {
+    content: '\f2dc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-map-marker_solid_16px {
+    content: '\f2dd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-place_solid_16px {
+    content: '\f2de';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-road_solid_16px {
+    content: '\f2df';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-road-sign_solid_16px {
+    content: '\f2e0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-add-shape_solid_16px {
+    content: '\f2e1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-center-line_solid_16px {
+    content: '\f2e2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-color-palette_solid_16px {
+    content: '\f2e3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-compass-b_solid_16px {
+    content: '\f2e4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-connector_solid_16px {
+    content: '\f2e5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-cursor-arrow_solid_16px {
+    content: '\f2e6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-cursor-pointer_solid_16px {
+    content: '\f2e7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-cursor-selector_solid_16px {
+    content: '\f2e8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-disconnected_solid_16px {
+    content: '\f2e9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-edit-curves_solid_16px {
+    content: '\f2ea';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-finetune_solid_16px {
+    content: '\f2eb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-font_solid_16px {
+    content: '\f2ec';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-guides_solid_16px {
+    content: '\f2ed';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-join-bevel_solid_16px {
+    content: '\f2ee';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-join-miter_solid_16px {
+    content: '\f2ef';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-join-round_solid_16px {
+    content: '\f2f0';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-line-dashed_solid_16px {
+    content: '\f2f1';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-line-solid_solid_16px {
+    content: '\f2f2';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-line-various_solid_16px {
+    content: '\f2f3';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-map-planner_solid_16px {
+    content: '\f2f4';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-merge_solid_16px {
+    content: '\f2f5';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-numbers_solid_16px {
+    content: '\f2f6';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-outline_solid_16px {
+    content: '\f2f7';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-outline-plus_solid_16px {
+    content: '\f2f8';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-path_solid_16px {
+    content: '\f2f9';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-picker_solid_16px {
+    content: '\f2fa';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-polygon_solid_16px {
+    content: '\f2fb';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-polyline_solid_16px {
+    content: '\f2fc';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-road_solid_16px {
+    content: '\f2fd';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-selector-freeform_solid_16px {
+    content: '\f2fe';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-selector-pointer_solid_16px {
+    content: '\f2ff';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-selector-polygon_solid_16px {
+    content: '\f300';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-shape_solid_16px {
+    content: '\f301';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-skip-point_solid_16px {
+    content: '\f302';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-split-object_solid_16px {
+    content: '\f303';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-text_solid_16px {
+    content: '\f304';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-tie-point_solid_16px {
+    content: '\f305';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-tuner_solid_16px {
+    content: '\f306';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-vector-point_solid_16px {
+    content: '\f307';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-tools-wrench_solid_16px {
+    content: '\f308';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-accident-car_solid_16px {
+    content: '\f309';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-airport_solid_16px {
+    content: '\f30a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-arrival-airport_solid_16px {
+    content: '\f30b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-attention_solid_16px {
+    content: '\f30c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-auto-caravan_solid_16px {
+    content: '\f30d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-auto-trailer_solid_16px {
+    content: '\f30e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-bicycle_solid_16px {
+    content: '\f30f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-boat-trailer_solid_16px {
+    content: '\f310';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-bumps_solid_16px {
+    content: '\f311';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-bus_solid_16px {
+    content: '\f312';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-bus-rapid_solid_16px {
+    content: '\f313';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-cable-way_solid_16px {
+    content: '\f314';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-car-rental_solid_16px {
+    content: '\f315';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-caravan_solid_16px {
+    content: '\f316';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-closure_solid_16px {
+    content: '\f317';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-departure-airport_solid_16px {
+    content: '\f318';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-destination_solid_16px {
+    content: '\f319';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-directions_solid_16px {
+    content: '\f31a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-disabled-vehicle_solid_16px {
+    content: '\f31b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-driving_solid_16px {
+    content: '\f31c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-driving-off_solid_16px {
+    content: '\f31d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-dynamic-routing_solid_16px {
+    content: '\f31e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-ferry_solid_16px {
+    content: '\f31f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-ferry-off_solid_16px {
+    content: '\f320';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-flight-monitor_solid_16px {
+    content: '\f321';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-full-container-load_solid_16px {
+    content: '\f322';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-full-truck-load_solid_16px {
+    content: '\f323';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-geofence_solid_16px {
+    content: '\f324';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-heavy-machinery_solid_16px {
+    content: '\f325';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-highways_solid_16px {
+    content: '\f326';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-inclined_solid_16px {
+    content: '\f327';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-journey_solid_16px {
+    content: '\f328';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-lane-restriction_solid_16px {
+    content: '\f329';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-less-container-load_solid_16px {
+    content: '\f32a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-less-truck-load_solid_16px {
+    content: '\f32b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-light-rail_solid_16px {
+    content: '\f32c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-mass-transit_solid_16px {
+    content: '\f32d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-metro_solid_16px {
+    content: '\f32e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-monorail_solid_16px {
+    content: '\f32f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-motorcycle_solid_16px {
+    content: '\f330';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-motorhome_solid_16px {
+    content: '\f331';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-motorscooter_solid_16px {
+    content: '\f332';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-multimodal_solid_16px {
+    content: '\f333';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-navigation_solid_16px {
+    content: '\f334';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-no-container-load_solid_16px {
+    content: '\f335';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-no-truck-load_solid_16px {
+    content: '\f336';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-planned-tour_solid_16px {
+    content: '\f337';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rail-highspeed_solid_16px {
+    content: '\f338';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rail-highspeed-off_solid_16px {
+    content: '\f339';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rail-intercity_solid_16px {
+    content: '\f33a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rail-local_solid_16px {
+    content: '\f33b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rail-regional_solid_16px {
+    content: '\f33c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-ride-hailing_solid_16px {
+    content: '\f33d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-rideshare_solid_16px {
+    content: '\f33e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-closure_solid_16px {
+    content: '\f33f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-hazard_solid_16px {
+    content: '\f340';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-tolls_solid_16px {
+    content: '\f341';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-tolls-off_solid_16px {
+    content: '\f342';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-unpaved_solid_16px {
+    content: '\f343';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-road-unpaved-off_solid_16px {
+    content: '\f344';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-roadworks_solid_16px {
+    content: '\f345';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-route_solid_16px {
+    content: '\f346';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-scooter_solid_16px {
+    content: '\f347';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-security-camera_solid_16px {
+    content: '\f348';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-semi-trailer_solid_16px {
+    content: '\f349';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-service-desk_solid_16px {
+    content: '\f34a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-shipment_solid_16px {
+    content: '\f34b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-speed-camera_solid_16px {
+    content: '\f34c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-speed-limit_solid_16px {
+    content: '\f34d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-speedalert_solid_16px {
+    content: '\f34e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-speedalert-off_solid_16px {
+    content: '\f34f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-taxi_solid_16px {
+    content: '\f350';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-taxi-off_solid_16px {
+    content: '\f351';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-ticket_solid_16px {
+    content: '\f352';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-tour_solid_16px {
+    content: '\f353';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-tracker_solid_16px {
+    content: '\f354';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-traffic_solid_16px {
+    content: '\f355';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-traffic-off_solid_16px {
+    content: '\f356';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-trailer_solid_16px {
+    content: '\f357';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-train_solid_16px {
+    content: '\f358';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-tram_solid_16px {
+    content: '\f359';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-truck_solid_16px {
+    content: '\f35a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-wait-pedestrian_solid_16px {
+    content: '\f35b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-walking_solid_16px {
+    content: '\f35c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-travel-transport-tracking-walking-off_solid_16px {
+    content: '\f35d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-clear-night_solid_16px {
+    content: '\f35e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-cloudy-day_solid_16px {
+    content: '\f35f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-cloudy-night_solid_16px {
+    content: '\f360';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-flood_solid_16px {
+    content: '\f361';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-fog_solid_16px {
+    content: '\f362';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-hurricane_solid_16px {
+    content: '\f363';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-overcast_solid_16px {
+    content: '\f364';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-rain_solid_16px {
+    content: '\f365';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-rain-freezing_solid_16px {
+    content: '\f366';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-rain-snow_solid_16px {
+    content: '\f367';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-shower-day_solid_16px {
+    content: '\f368';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-shower-night_solid_16px {
+    content: '\f369';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-smog_solid_16px {
+    content: '\f36a';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-snowfall_solid_16px {
+    content: '\f36b';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-storm_solid_16px {
+    content: '\f36c';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-stormy-day_solid_16px {
+    content: '\f36d';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-stormy-night_solid_16px {
+    content: '\f36e';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-weather-clear-day_solid_16px {
+    content: '\f36f';
+  }
+
+  i[class^='hds-iconlibrary-16px'].hds-icon-weather-windy_solid_16px {
+    content: '\f370';
+  }
+
+}
+

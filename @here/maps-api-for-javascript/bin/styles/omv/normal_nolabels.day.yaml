@@ -1,0 +1,3 @@
+import: ./miami/normal_day.day.yaml
+
+# This .yaml file is deprecated and kept only for backward compatibility

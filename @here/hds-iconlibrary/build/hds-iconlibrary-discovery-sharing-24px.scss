@@ -1,0 +1,339 @@
+$hds-iconlibrary-discovery-sharing-24px-font: 'hds-iconlibrary-discovery-sharing-24px';
+
+@define-mixin hds-iconlibrary-discovery-sharing-24px-font {
+  @font-face {
+    font-family: $hds-iconlibrary-discovery-sharing-24px-font;
+    src: url("./hds-iconlibrary-discovery-sharing-24px.eot?712fede4bf451c96a3ee7c3e42e4fa36#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-discovery-sharing-24px.woff2?712fede4bf451c96a3ee7c3e42e4fa36") format("woff2"),
+url("./hds-iconlibrary-discovery-sharing-24px.woff?712fede4bf451c96a3ee7c3e42e4fa36") format("woff");
+  }
+}
+
+
+@define-mixin hds-iconlibrary-discovery-sharing-24px {
+  i[class^='hds-iconlibrary-discovery-sharing-24px'] {
+    font-family: hds-iconlibrary-discovery-sharing-24px, serif !important;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal !important;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  $hds-iconlibrary-discovery-sharing-24px-map: (
+    'archive_outline_24px': '\f101',
+    'archive_solid_24px': '\f102',
+    'calendar_outline_24px': '\f103',
+    'calendar_solid_24px': '\f104',
+    'calendar-add_outline_24px': '\f105',
+    'calendar-add_solid_24px': '\f106',
+    'copy_outline_24px': '\f107',
+    'copy_solid_24px': '\f108',
+    'details_outline_24px': '\f109',
+    'details_solid_24px': '\f10a',
+    'distribute_outline_24px': '\f10b',
+    'distribute_solid_24px': '\f10c',
+    'download_outline_24px': '\f10d',
+    'download_solid_24px': '\f10e',
+    'download-cloud_outline_24px': '\f10f',
+    'download-cloud_solid_24px': '\f110',
+    'filter-off_outline_24px': '\f111',
+    'filter-off_solid_24px': '\f112',
+    'filter-on_outline_24px': '\f113',
+    'filter-on_solid_24px': '\f114',
+    'grid-typeA_outline_24px': '\f115',
+    'grid-typeA_solid_24px': '\f116',
+    'grid-typeB_outline_24px': '\f117',
+    'grid-typeB_solid_24px': '\f118',
+    'grid-typeC_outline_24px': '\f119',
+    'grid-typeC_solid_24px': '\f11a',
+    'grid-typeD_outline_24px': '\f11b',
+    'grid-typeD_solid_24px': '\f11c',
+    'group_outline_24px': '\f11d',
+    'group_solid_24px': '\f11e',
+    'group-filter_outline_24px': '\f11f',
+    'group-filter_solid_24px': '\f120',
+    'group-smart-filter_outline_24px': '\f121',
+    'group-smart-filter_solid_24px': '\f122',
+    'hide_outline_24px': '\f123',
+    'hide_solid_24px': '\f124',
+    'link_outline_24px': '\f125',
+    'link_solid_24px': '\f126',
+    'list-typeA_outline_24px': '\f127',
+    'list-typeA_solid_24px': '\f128',
+    'list-typeB_outline_24px': '\f129',
+    'list-typeB_solid_24px': '\f12a',
+    'maps-download_outline_24px': '\f12b',
+    'maps-download_solid_24px': '\f12c',
+    'maps-update_outline_24px': '\f12d',
+    'maps-update_solid_24px': '\f12e',
+    'no-content_outline_24px': '\f12f',
+    'no-content_solid_24px': '\f130',
+    'not-in-sync_outline_24px': '\f131',
+    'not-in-sync_solid_24px': '\f132',
+    'share-Android_outline_24px': '\f133',
+    'share-Android_solid_24px': '\f134',
+    'share-iOS_outline_24px': '\f135',
+    'share-iOS_solid_24px': '\f136',
+    'show_outline_24px': '\f137',
+    'show_solid_24px': '\f138',
+    'unlink_outline_24px': '\f139',
+    'unlink_solid_24px': '\f13a',
+    'upload_outline_24px': '\f13b',
+    'upload_solid_24px': '\f13c',
+    'upload-cloud_outline_24px': '\f13d',
+    'upload-cloud_solid_24px': '\f13e',
+  );
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-archive_outline_24px {
+    content: '\f101';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-archive_solid_24px {
+    content: '\f102';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-calendar_outline_24px {
+    content: '\f103';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-calendar_solid_24px {
+    content: '\f104';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-calendar-add_outline_24px {
+    content: '\f105';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-calendar-add_solid_24px {
+    content: '\f106';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-copy_outline_24px {
+    content: '\f107';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-copy_solid_24px {
+    content: '\f108';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-details_outline_24px {
+    content: '\f109';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-details_solid_24px {
+    content: '\f10a';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-distribute_outline_24px {
+    content: '\f10b';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-distribute_solid_24px {
+    content: '\f10c';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-download_outline_24px {
+    content: '\f10d';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-download_solid_24px {
+    content: '\f10e';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-download-cloud_outline_24px {
+    content: '\f10f';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-download-cloud_solid_24px {
+    content: '\f110';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-filter-off_outline_24px {
+    content: '\f111';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-filter-off_solid_24px {
+    content: '\f112';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-filter-on_outline_24px {
+    content: '\f113';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-filter-on_solid_24px {
+    content: '\f114';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeA_outline_24px {
+    content: '\f115';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeA_solid_24px {
+    content: '\f116';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeB_outline_24px {
+    content: '\f117';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeB_solid_24px {
+    content: '\f118';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeC_outline_24px {
+    content: '\f119';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeC_solid_24px {
+    content: '\f11a';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeD_outline_24px {
+    content: '\f11b';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-grid-typeD_solid_24px {
+    content: '\f11c';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group_outline_24px {
+    content: '\f11d';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group_solid_24px {
+    content: '\f11e';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group-filter_outline_24px {
+    content: '\f11f';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group-filter_solid_24px {
+    content: '\f120';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group-smart-filter_outline_24px {
+    content: '\f121';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-group-smart-filter_solid_24px {
+    content: '\f122';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-hide_outline_24px {
+    content: '\f123';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-hide_solid_24px {
+    content: '\f124';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-link_outline_24px {
+    content: '\f125';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-link_solid_24px {
+    content: '\f126';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-list-typeA_outline_24px {
+    content: '\f127';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-list-typeA_solid_24px {
+    content: '\f128';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-list-typeB_outline_24px {
+    content: '\f129';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-list-typeB_solid_24px {
+    content: '\f12a';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-maps-download_outline_24px {
+    content: '\f12b';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-maps-download_solid_24px {
+    content: '\f12c';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-maps-update_outline_24px {
+    content: '\f12d';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-maps-update_solid_24px {
+    content: '\f12e';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-no-content_outline_24px {
+    content: '\f12f';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-no-content_solid_24px {
+    content: '\f130';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-not-in-sync_outline_24px {
+    content: '\f131';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-not-in-sync_solid_24px {
+    content: '\f132';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-share-Android_outline_24px {
+    content: '\f133';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-share-Android_solid_24px {
+    content: '\f134';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-share-iOS_outline_24px {
+    content: '\f135';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-share-iOS_solid_24px {
+    content: '\f136';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-show_outline_24px {
+    content: '\f137';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-show_solid_24px {
+    content: '\f138';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-unlink_outline_24px {
+    content: '\f139';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-unlink_solid_24px {
+    content: '\f13a';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-upload_outline_24px {
+    content: '\f13b';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-upload_solid_24px {
+    content: '\f13c';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-upload-cloud_outline_24px {
+    content: '\f13d';
+  }
+
+  i[class^='hds-iconlibrary-discovery-sharing-24px'].hds-icon-discovery-sharing-upload-cloud_solid_24px {
+    content: '\f13e';
+  }
+
+}
+

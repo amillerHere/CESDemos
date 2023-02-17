@@ -1,0 +1,66 @@
+@font-face {
+  font-family: 'hds-iconlibrary-data-16px';
+  src: url("./hds-iconlibrary-data-16px.eot?aabeaa1da2461e5078c87c55e927c1da#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-data-16px.woff2?aabeaa1da2461e5078c87c55e927c1da") format("woff2"),
+url("./hds-iconlibrary-data-16px.woff?aabeaa1da2461e5078c87c55e927c1da") format("woff");
+}
+
+i[class^='hds-iconlibrary-data-16px']::before {
+  font-family: hds-iconlibrary-data-16px, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal !important;
+  line-height: 1;
+  text-transform: none;
+}
+
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-app_solid_16px::before {
+  content: '\f101';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-catalog_solid_16px::before {
+  content: '\f102';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-database_solid_16px::before {
+  content: '\f103';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-index_solid_16px::before {
+  content: '\f104';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-inspect_solid_16px::before {
+  content: '\f105';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-interactive_solid_16px::before {
+  content: '\f106';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-layers_solid_16px::before {
+  content: '\f107';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-marketplace_solid_16px::before {
+  content: '\f108';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-pipeline_solid_16px::before {
+  content: '\f109';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-rest_solid_16px::before {
+  content: '\f10a';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-review_solid_16px::before {
+  content: '\f10b';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-services_solid_16px::before {
+  content: '\f10c';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-stream_solid_16px::before {
+  content: '\f10d';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-template_solid_16px::before {
+  content: '\f10e';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-versioned_solid_16px::before {
+  content: '\f10f';
+}
+i[class^='hds-iconlibrary-data-16px'].hds-icon-data-volatile_solid_16px::before {
+  content: '\f110';
+}

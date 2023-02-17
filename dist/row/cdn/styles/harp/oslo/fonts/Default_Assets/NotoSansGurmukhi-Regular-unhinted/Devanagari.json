@@ -1,0 +1,106 @@
+{
+    "pages": [
+        "Devanagari.png"
+    ],
+    "chars": [
+        {
+            "id": 2404,
+            "index": 286,
+            "char": "।",
+            "width": 11,
+            "height": 28,
+            "xoffset": 2,
+            "yoffset": 13,
+            "xadvance": 12,
+            "chnl": 15,
+            "x": 0,
+            "y": 0,
+            "page": 0
+        },
+        {
+            "id": 2405,
+            "index": 287,
+            "char": "॥",
+            "width": 18,
+            "height": 28,
+            "xoffset": 2,
+            "yoffset": 13,
+            "xadvance": 19,
+            "chnl": 15,
+            "x": 13,
+            "y": 0,
+            "page": 0
+        },
+        {
+            "id": 2386,
+            "index": 285,
+            "char": "॒",
+            "width": 20,
+            "height": 10,
+            "xoffset": -18,
+            "yoffset": 35,
+            "xadvance": 0,
+            "chnl": 15,
+            "x": 0,
+            "y": 30,
+            "page": 0
+        },
+        {
+            "id": 2385,
+            "index": 284,
+            "char": "॑",
+            "width": 10,
+            "height": 15,
+            "xoffset": -9,
+            "yoffset": 4,
+            "xadvance": 0,
+            "chnl": 15,
+            "x": 33,
+            "y": 0,
+            "page": 0
+        }
+    ],
+    "info": {
+        "face": "NotoSansGurmukhi-Regular-unhinted",
+        "size": 32,
+        "bold": 0,
+        "italic": 0,
+        "charset": [
+            "॑",
+            "॒",
+            "।",
+            "॥"
+        ],
+        "unicode": 1,
+        "stretchH": 100,
+        "smooth": 1,
+        "aa": 1,
+        "padding": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "spacing": [
+            0,
+            0
+        ]
+    },
+    "common": {
+        "lineHeight": 42,
+        "base": 33,
+        "scaleW": 43,
+        "scaleH": 40,
+        "pages": 1,
+        "packed": 0,
+        "alphaChnl": 0,
+        "redChnl": 0,
+        "greenChnl": 0,
+        "blueChnl": 0
+    },
+    "distanceField": {
+        "fieldType": "msdf",
+        "distanceRange": 8
+    },
+    "kernings": []
+}

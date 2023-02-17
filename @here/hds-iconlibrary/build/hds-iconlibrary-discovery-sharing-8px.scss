@@ -1,0 +1,34 @@
+$hds-iconlibrary-discovery-sharing-8px-font: 'hds-iconlibrary-discovery-sharing-8px';
+
+@define-mixin hds-iconlibrary-discovery-sharing-8px-font {
+  @font-face {
+    font-family: $hds-iconlibrary-discovery-sharing-8px-font;
+    src: url("./hds-iconlibrary-discovery-sharing-8px.eot?8adc788be59c4335b97bdc7018786dd4#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-discovery-sharing-8px.woff2?8adc788be59c4335b97bdc7018786dd4") format("woff2"),
+url("./hds-iconlibrary-discovery-sharing-8px.woff?8adc788be59c4335b97bdc7018786dd4") format("woff");
+  }
+}
+
+
+@define-mixin hds-iconlibrary-discovery-sharing-8px {
+  i[class^='hds-iconlibrary-discovery-sharing-8px'] {
+    font-family: hds-iconlibrary-discovery-sharing-8px, serif !important;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal !important;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  $hds-iconlibrary-discovery-sharing-8px-map: (
+    'copy_solid_8px': '\f101',
+  );
+
+  i[class^='hds-iconlibrary-discovery-sharing-8px'].hds-icon-discovery-sharing-copy_solid_8px {
+    content: '\f101';
+  }
+
+}
+

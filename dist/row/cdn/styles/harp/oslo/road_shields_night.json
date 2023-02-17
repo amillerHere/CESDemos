@@ -1,0 +1,8426 @@
+{
+    "canada_a_NWT_01_1.png": {
+        "x": 1073,
+        "y": 62,
+        "width": 17,
+        "height": 23
+    },
+    "canada_a_NWT_01_1.15.png": {
+        "x": 1018,
+        "y": 676,
+        "width": 20,
+        "height": 23
+    },
+    "canada_a_NWT_01_1.35.png": {
+        "x": 989,
+        "y": 329,
+        "width": 23,
+        "height": 23
+    },
+    "canada_a_NWT_01_1.65.png": {
+        "x": 914,
+        "y": 510,
+        "width": 28,
+        "height": 23
+    },
+    "canada_a_NWT_01_1.9.png": {
+        "x": 742,
+        "y": 581,
+        "width": 32,
+        "height": 23
+    },
+    "canada_a_NWT_01_2.15.png": {
+        "x": 742,
+        "y": 49,
+        "width": 37,
+        "height": 23
+    },
+    "canada_a_NWT_01_2.4.png": {
+        "x": 487,
+        "y": 215,
+        "width": 41,
+        "height": 23
+    },
+    "canada_a_NWT_01_2.65.png": {
+        "x": 530,
+        "y": 126,
+        "width": 45,
+        "height": 23
+    },
+    "canada_a_NWT_01_2.9.png": {
+        "x": 428,
+        "y": 207,
+        "width": 49,
+        "height": 23
+    },
+    "canada_a_SK_02_1.png": {
+        "x": 1073,
+        "y": 86,
+        "width": 17,
+        "height": 23
+    },
+    "canada_a_SK_02_1.15.png": {
+        "x": 1018,
+        "y": 700,
+        "width": 20,
+        "height": 23
+    },
+    "canada_a_SK_02_1.35.png": {
+        "x": 989,
+        "y": 353,
+        "width": 23,
+        "height": 23
+    },
+    "canada_a_SK_02_1.65.png": {
+        "x": 914,
+        "y": 534,
+        "width": 28,
+        "height": 23
+    },
+    "canada_a_SK_02_1.9.png": {
+        "x": 742,
+        "y": 605,
+        "width": 32,
+        "height": 23
+    },
+    "canada_a_SK_02_2.15.png": {
+        "x": 742,
+        "y": 73,
+        "width": 37,
+        "height": 23
+    },
+    "canada_a_SK_02_2.4.png": {
+        "x": 487,
+        "y": 239,
+        "width": 41,
+        "height": 23
+    },
+    "canada_a_SK_02_2.65.png": {
+        "x": 530,
+        "y": 150,
+        "width": 45,
+        "height": 23
+    },
+    "canada_a_SK_02_2.9.png": {
+        "x": 428,
+        "y": 231,
+        "width": 49,
+        "height": 23
+    },
+    "canada_b_01_1.png": {
+        "x": 1073,
+        "y": 533,
+        "width": 19,
+        "height": 19
+    },
+    "canada_b_01_1.15.png": {
+        "x": 1045,
+        "y": 1007,
+        "width": 22,
+        "height": 19
+    },
+    "canada_b_01_1.35.png": {
+        "x": 1018,
+        "y": 0,
+        "width": 26,
+        "height": 19
+    },
+    "canada_b_01_1.65.png": {
+        "x": 952,
+        "y": 377,
+        "width": 31,
+        "height": 19
+    },
+    "canada_b_01_1.9.png": {
+        "x": 875,
+        "y": 622,
+        "width": 36,
+        "height": 19
+    },
+    "canada_b_01_2.15.png": {
+        "x": 828,
+        "y": 180,
+        "width": 41,
+        "height": 19
+    },
+    "canada_b_01_2.4.png": {
+        "x": 691,
+        "y": 584,
+        "width": 46,
+        "height": 19
+    },
+    "canada_b_01_2.65.png": {
+        "x": 592,
+        "y": 493,
+        "width": 50,
+        "height": 19
+    },
+    "canada_b_01_2.9.png": {
+        "x": 395,
+        "y": 419,
+        "width": 55,
+        "height": 19
+    },
+    "canada_c_NS_01_1.png": {
+        "x": 1073,
+        "y": 372,
+        "width": 17,
+        "height": 22
+    },
+    "canada_c_NS_01_1.15.png": {
+        "x": 1045,
+        "y": 343,
+        "width": 20,
+        "height": 22
+    },
+    "canada_c_NS_01_1.35.png": {
+        "x": 989,
+        "y": 581,
+        "width": 23,
+        "height": 22
+    },
+    "canada_c_NS_01_1.65.png": {
+        "x": 654,
+        "y": 415,
+        "width": 28,
+        "height": 22
+    },
+    "canada_c_NS_01_1.9.png": {
+        "x": 875,
+        "y": 294,
+        "width": 32,
+        "height": 22
+    },
+    "canada_c_NS_01_2.15.png": {
+        "x": 784,
+        "y": 145,
+        "width": 37,
+        "height": 22
+    },
+    "canada_c_NS_01_2.4.png": {
+        "x": 691,
+        "y": 190,
+        "width": 41,
+        "height": 22
+    },
+    "canada_c_NS_01_2.65.png": {
+        "x": 0,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "canada_c_NS_01_2.9.png": {
+        "x": 45,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "canada_c_PE_01_1.png": {
+        "x": 1073,
+        "y": 395,
+        "width": 17,
+        "height": 22
+    },
+    "canada_c_PE_01_1.15.png": {
+        "x": 1045,
+        "y": 366,
+        "width": 20,
+        "height": 22
+    },
+    "canada_c_PE_01_1.35.png": {
+        "x": 989,
+        "y": 604,
+        "width": 23,
+        "height": 22
+    },
+    "canada_c_PE_01_1.65.png": {
+        "x": 654,
+        "y": 438,
+        "width": 28,
+        "height": 22
+    },
+    "canada_c_PE_01_1.9.png": {
+        "x": 875,
+        "y": 317,
+        "width": 32,
+        "height": 22
+    },
+    "canada_c_PE_01_2.15.png": {
+        "x": 784,
+        "y": 168,
+        "width": 37,
+        "height": 22
+    },
+    "canada_c_PE_01_2.4.png": {
+        "x": 691,
+        "y": 213,
+        "width": 41,
+        "height": 22
+    },
+    "canada_c_PE_01_2.65.png": {
+        "x": 46,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "canada_c_PE_01_2.9.png": {
+        "x": 95,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "canada_d_SK_01_1.png": {
+        "x": 1073,
+        "y": 731,
+        "width": 17,
+        "height": 21
+    },
+    "canada_d_SK_01_1.15.png": {
+        "x": 1045,
+        "y": 877,
+        "width": 20,
+        "height": 21
+    },
+    "canada_d_SK_01_1.35.png": {
+        "x": 1018,
+        "y": 264,
+        "width": 23,
+        "height": 21
+    },
+    "canada_d_SK_01_1.65.png": {
+        "x": 952,
+        "y": 537,
+        "width": 28,
+        "height": 21
+    },
+    "canada_d_SK_01_1.9.png": {
+        "x": 654,
+        "y": 189,
+        "width": 32,
+        "height": 21
+    },
+    "canada_d_SK_01_2.15.png": {
+        "x": 828,
+        "y": 400,
+        "width": 37,
+        "height": 21
+    },
+    "canada_d_SK_01_2.4.png": {
+        "x": 209,
+        "y": 162,
+        "width": 41,
+        "height": 21
+    },
+    "canada_d_SK_01_2.65.png": {
+        "x": 0,
+        "y": 596,
+        "width": 45,
+        "height": 21
+    },
+    "canada_d_SK_01_2.9.png": {
+        "x": 530,
+        "y": 174,
+        "width": 49,
+        "height": 21
+    },
+    "canada_d_SK_03_1.png": {
+        "x": 1073,
+        "y": 753,
+        "width": 17,
+        "height": 21
+    },
+    "canada_d_SK_03_1.15.png": {
+        "x": 1045,
+        "y": 899,
+        "width": 20,
+        "height": 21
+    },
+    "canada_d_SK_03_1.35.png": {
+        "x": 1018,
+        "y": 286,
+        "width": 23,
+        "height": 21
+    },
+    "canada_d_SK_03_1.65.png": {
+        "x": 952,
+        "y": 559,
+        "width": 28,
+        "height": 21
+    },
+    "canada_d_SK_03_1.9.png": {
+        "x": 654,
+        "y": 211,
+        "width": 32,
+        "height": 21
+    },
+    "canada_d_SK_03_2.15.png": {
+        "x": 828,
+        "y": 422,
+        "width": 37,
+        "height": 21
+    },
+    "canada_d_SK_03_2.4.png": {
+        "x": 445,
+        "y": 440,
+        "width": 41,
+        "height": 21
+    },
+    "canada_d_SK_03_2.65.png": {
+        "x": 46,
+        "y": 596,
+        "width": 45,
+        "height": 21
+    },
+    "canada_d_SK_03_2.9.png": {
+        "x": 530,
+        "y": 196,
+        "width": 49,
+        "height": 21
+    },
+    "canada_e_QC_02_1.png": {
+        "x": 1095,
+        "y": 60,
+        "width": 17,
+        "height": 18
+    },
+    "canada_e_QC_02_1.15.png": {
+        "x": 1073,
+        "y": 693,
+        "width": 20,
+        "height": 18
+    },
+    "canada_e_QC_02_1.35.png": {
+        "x": 1018,
+        "y": 959,
+        "width": 23,
+        "height": 18
+    },
+    "canada_e_QC_02_1.65.png": {
+        "x": 989,
+        "y": 836,
+        "width": 28,
+        "height": 18
+    },
+    "canada_e_QC_02_1.9.png": {
+        "x": 952,
+        "y": 715,
+        "width": 32,
+        "height": 18
+    },
+    "canada_e_QC_02_2.15.png": {
+        "x": 914,
+        "y": 0,
+        "width": 37,
+        "height": 18
+    },
+    "canada_e_QC_02_2.4.png": {
+        "x": 742,
+        "y": 351,
+        "width": 41,
+        "height": 18
+    },
+    "canada_e_QC_02_2.65.png": {
+        "x": 0,
+        "y": 779,
+        "width": 45,
+        "height": 18
+    },
+    "canada_e_QC_02_2.9.png": {
+        "x": 691,
+        "y": 463,
+        "width": 49,
+        "height": 18
+    },
+    "canada_f_BC_01_1.png": {
+        "x": 1073,
+        "y": 909,
+        "width": 19,
+        "height": 18
+    },
+    "canada_f_BC_01_1.15.png": {
+        "x": 0,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "canada_f_BC_01_1.35.png": {
+        "x": 1018,
+        "y": 420,
+        "width": 26,
+        "height": 18
+    },
+    "canada_f_BC_01_1.65.png": {
+        "x": 0,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "canada_f_BC_01_1.9.png": {
+        "x": 914,
+        "y": 187,
+        "width": 36,
+        "height": 18
+    },
+    "canada_f_BC_01_2.15.png": {
+        "x": 742,
+        "y": 370,
+        "width": 41,
+        "height": 18
+    },
+    "canada_f_BC_01_2.4.png": {
+        "x": 0,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "canada_f_BC_01_2.65.png": {
+        "x": 0,
+        "y": 660,
+        "width": 50,
+        "height": 18
+    },
+    "canada_f_BC_01_2.9.png": {
+        "x": 102,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "canada_g_QC_01_1.png": {
+        "x": 353,
+        "y": 321,
+        "width": 17,
+        "height": 20
+    },
+    "canada_g_QC_01_1.15.png": {
+        "x": 631,
+        "y": 136,
+        "width": 20,
+        "height": 20
+    },
+    "canada_g_QC_01_1.35.png": {
+        "x": 1018,
+        "y": 724,
+        "width": 23,
+        "height": 20
+    },
+    "canada_g_QC_01_1.65.png": {
+        "x": 149,
+        "y": 108,
+        "width": 28,
+        "height": 20
+    },
+    "canada_g_QC_01_1.9.png": {
+        "x": 914,
+        "y": 558,
+        "width": 32,
+        "height": 20
+    },
+    "canada_g_QC_01_2.15.png": {
+        "x": 742,
+        "y": 389,
+        "width": 37,
+        "height": 20
+    },
+    "canada_g_QC_01_2.4.png": {
+        "x": 742,
+        "y": 213,
+        "width": 41,
+        "height": 20
+    },
+    "canada_g_QC_01_2.65.png": {
+        "x": 691,
+        "y": 236,
+        "width": 45,
+        "height": 20
+    },
+    "canada_g_QC_01_2.9.png": {
+        "x": 592,
+        "y": 163,
+        "width": 49,
+        "height": 20
+    },
+    "canada_h_MB_03_1.png": {
+        "x": 250,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "canada_h_MB_03_1.15.png": {
+        "x": 718,
+        "y": 679,
+        "width": 23,
+        "height": 17
+    },
+    "canada_h_MB_03_1.35.png": {
+        "x": 1045,
+        "y": 0,
+        "width": 27,
+        "height": 17
+    },
+    "canada_h_MB_03_1.65.png": {
+        "x": 952,
+        "y": 910,
+        "width": 33,
+        "height": 17
+    },
+    "canada_h_MB_03_1.9.png": {
+        "x": 0,
+        "y": 921,
+        "width": 38,
+        "height": 17
+    },
+    "canada_h_MB_03_2.15.png": {
+        "x": 0,
+        "y": 850,
+        "width": 43,
+        "height": 17
+    },
+    "canada_h_MB_03_2.4.png": {
+        "x": 470,
+        "y": 760,
+        "width": 48,
+        "height": 17
+    },
+    "canada_h_MB_03_2.65.png": {
+        "x": 540,
+        "y": 618,
+        "width": 53,
+        "height": 17
+    },
+    "canada_h_MB_03_2.9.png": {
+        "x": 112,
+        "y": 534,
+        "width": 58,
+        "height": 17
+    },
+    "canada_i_MB_01_1.png": {
+        "x": 1073,
+        "y": 775,
+        "width": 17,
+        "height": 21
+    },
+    "canada_i_MB_01_1.15.png": {
+        "x": 1045,
+        "y": 921,
+        "width": 20,
+        "height": 21
+    },
+    "canada_i_MB_01_1.35.png": {
+        "x": 1018,
+        "y": 308,
+        "width": 23,
+        "height": 21
+    },
+    "canada_i_MB_01_1.65.png": {
+        "x": 952,
+        "y": 581,
+        "width": 28,
+        "height": 21
+    },
+    "canada_i_MB_01_1.9.png": {
+        "x": 654,
+        "y": 233,
+        "width": 32,
+        "height": 21
+    },
+    "canada_i_MB_01_2.15.png": {
+        "x": 828,
+        "y": 444,
+        "width": 37,
+        "height": 21
+    },
+    "canada_i_MB_01_2.4.png": {
+        "x": 0,
+        "y": 717,
+        "width": 41,
+        "height": 21
+    },
+    "canada_i_MB_01_2.65.png": {
+        "x": 92,
+        "y": 596,
+        "width": 45,
+        "height": 21
+    },
+    "canada_i_MB_01_2.9.png": {
+        "x": 530,
+        "y": 218,
+        "width": 49,
+        "height": 21
+    },
+    "canada_j_ON_01_1.png": {
+        "x": 1073,
+        "y": 418,
+        "width": 17,
+        "height": 22
+    },
+    "canada_j_ON_01_1.15.png": {
+        "x": 1045,
+        "y": 389,
+        "width": 20,
+        "height": 22
+    },
+    "canada_j_ON_01_1.35.png": {
+        "x": 989,
+        "y": 627,
+        "width": 23,
+        "height": 22
+    },
+    "canada_j_ON_01_1.65.png": {
+        "x": 654,
+        "y": 461,
+        "width": 28,
+        "height": 22
+    },
+    "canada_j_ON_01_1.9.png": {
+        "x": 875,
+        "y": 340,
+        "width": 32,
+        "height": 22
+    },
+    "canada_j_ON_01_2.15.png": {
+        "x": 784,
+        "y": 191,
+        "width": 37,
+        "height": 22
+    },
+    "canada_j_ON_01_2.4.png": {
+        "x": 691,
+        "y": 257,
+        "width": 41,
+        "height": 22
+    },
+    "canada_j_ON_01_2.65.png": {
+        "x": 92,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "canada_j_ON_01_2.9.png": {
+        "x": 145,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "circle_01_1.png": {
+        "x": 1095,
+        "y": 79,
+        "width": 17,
+        "height": 17
+    },
+    "circle_01_1.15.png": {
+        "x": 271,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "circle_01_1.35.png": {
+        "x": 175,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "circle_01_1.65.png": {
+        "x": 28,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "circle_01_1.9.png": {
+        "x": 34,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "circle_01_2.15.png": {
+        "x": 914,
+        "y": 579,
+        "width": 37,
+        "height": 17
+    },
+    "circle_01_2.4.png": {
+        "x": 0,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "circle_01_2.65.png": {
+        "x": 828,
+        "y": 559,
+        "width": 45,
+        "height": 17
+    },
+    "circle_01_2.9.png": {
+        "x": 288,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "circle_02_1.png": {
+        "x": 1095,
+        "y": 97,
+        "width": 17,
+        "height": 17
+    },
+    "circle_02_1.15.png": {
+        "x": 292,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "circle_02_1.35.png": {
+        "x": 199,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "circle_02_1.65.png": {
+        "x": 57,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "circle_02_1.9.png": {
+        "x": 67,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "circle_02_2.15.png": {
+        "x": 914,
+        "y": 597,
+        "width": 37,
+        "height": 17
+    },
+    "circle_02_2.4.png": {
+        "x": 42,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "circle_02_2.65.png": {
+        "x": 828,
+        "y": 577,
+        "width": 45,
+        "height": 17
+    },
+    "circle_02_2.9.png": {
+        "x": 338,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "circle_03_1.png": {
+        "x": 1073,
+        "y": 553,
+        "width": 19,
+        "height": 19
+    },
+    "circle_03_1.15.png": {
+        "x": 1018,
+        "y": 745,
+        "width": 22,
+        "height": 19
+    },
+    "circle_03_1.35.png": {
+        "x": 1018,
+        "y": 20,
+        "width": 26,
+        "height": 19
+    },
+    "circle_03_1.65.png": {
+        "x": 952,
+        "y": 397,
+        "width": 31,
+        "height": 19
+    },
+    "circle_03_1.9.png": {
+        "x": 875,
+        "y": 642,
+        "width": 36,
+        "height": 19
+    },
+    "circle_03_2.15.png": {
+        "x": 828,
+        "y": 200,
+        "width": 41,
+        "height": 19
+    },
+    "circle_03_2.4.png": {
+        "x": 691,
+        "y": 604,
+        "width": 46,
+        "height": 19
+    },
+    "circle_03_2.65.png": {
+        "x": 592,
+        "y": 513,
+        "width": 50,
+        "height": 19
+    },
+    "circle_03_2.9.png": {
+        "x": 320,
+        "y": 466,
+        "width": 55,
+        "height": 19
+    },
+    "detailedshield_a_01_1.png": {
+        "x": 1073,
+        "y": 573,
+        "width": 19,
+        "height": 19
+    },
+    "detailedshield_a_01_1.15.png": {
+        "x": 1018,
+        "y": 765,
+        "width": 22,
+        "height": 19
+    },
+    "detailedshield_a_01_1.35.png": {
+        "x": 1018,
+        "y": 40,
+        "width": 26,
+        "height": 19
+    },
+    "detailedshield_a_01_1.65.png": {
+        "x": 952,
+        "y": 417,
+        "width": 31,
+        "height": 19
+    },
+    "detailedshield_a_01_1.9.png": {
+        "x": 875,
+        "y": 662,
+        "width": 36,
+        "height": 19
+    },
+    "detailedshield_a_01_2.15.png": {
+        "x": 828,
+        "y": 220,
+        "width": 41,
+        "height": 19
+    },
+    "detailedshield_a_01_2.4.png": {
+        "x": 691,
+        "y": 624,
+        "width": 46,
+        "height": 19
+    },
+    "detailedshield_a_01_2.65.png": {
+        "x": 592,
+        "y": 533,
+        "width": 50,
+        "height": 19
+    },
+    "detailedshield_a_01_2.9.png": {
+        "x": 376,
+        "y": 466,
+        "width": 55,
+        "height": 19
+    },
+    "detailedshield_a_02_1.png": {
+        "x": 1073,
+        "y": 593,
+        "width": 19,
+        "height": 19
+    },
+    "detailedshield_a_02_1.15.png": {
+        "x": 1018,
+        "y": 785,
+        "width": 22,
+        "height": 19
+    },
+    "detailedshield_a_02_1.35.png": {
+        "x": 1018,
+        "y": 60,
+        "width": 26,
+        "height": 19
+    },
+    "detailedshield_a_02_1.65.png": {
+        "x": 952,
+        "y": 437,
+        "width": 31,
+        "height": 19
+    },
+    "detailedshield_a_02_1.9.png": {
+        "x": 875,
+        "y": 682,
+        "width": 36,
+        "height": 19
+    },
+    "detailedshield_a_02_2.15.png": {
+        "x": 828,
+        "y": 240,
+        "width": 41,
+        "height": 19
+    },
+    "detailedshield_a_02_2.4.png": {
+        "x": 691,
+        "y": 644,
+        "width": 46,
+        "height": 19
+    },
+    "detailedshield_a_02_2.65.png": {
+        "x": 592,
+        "y": 553,
+        "width": 50,
+        "height": 19
+    },
+    "detailedshield_a_02_2.9.png": {
+        "x": 432,
+        "y": 466,
+        "width": 55,
+        "height": 19
+    },
+    "detailedshield_a_03_1.png": {
+        "x": 1073,
+        "y": 613,
+        "width": 19,
+        "height": 19
+    },
+    "detailedshield_a_03_1.15.png": {
+        "x": 1018,
+        "y": 805,
+        "width": 22,
+        "height": 19
+    },
+    "detailedshield_a_03_1.35.png": {
+        "x": 1018,
+        "y": 80,
+        "width": 26,
+        "height": 19
+    },
+    "detailedshield_a_03_1.65.png": {
+        "x": 952,
+        "y": 457,
+        "width": 31,
+        "height": 19
+    },
+    "detailedshield_a_03_1.9.png": {
+        "x": 875,
+        "y": 702,
+        "width": 36,
+        "height": 19
+    },
+    "detailedshield_a_03_2.15.png": {
+        "x": 828,
+        "y": 260,
+        "width": 41,
+        "height": 19
+    },
+    "detailedshield_a_03_2.4.png": {
+        "x": 0,
+        "y": 697,
+        "width": 46,
+        "height": 19
+    },
+    "detailedshield_a_03_2.65.png": {
+        "x": 0,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "detailedshield_a_03_2.9.png": {
+        "x": 298,
+        "y": 489,
+        "width": 55,
+        "height": 19
+    },
+    "detailedshield_b_01_1.png": {
+        "x": 523,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "detailedshield_b_01_1.15.png": {
+        "x": 463,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "detailedshield_b_01_1.35.png": {
+        "x": 1045,
+        "y": 177,
+        "width": 26,
+        "height": 17
+    },
+    "detailedshield_b_01_1.65.png": {
+        "x": 430,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "detailedshield_b_01_1.9.png": {
+        "x": 654,
+        "y": 576,
+        "width": 36,
+        "height": 17
+    },
+    "detailedshield_b_01_2.15.png": {
+        "x": 84,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "detailedshield_b_01_2.4.png": {
+        "x": 828,
+        "y": 0,
+        "width": 46,
+        "height": 17
+    },
+    "detailedshield_b_01_2.65.png": {
+        "x": 106,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "detailedshield_b_01_2.9.png": {
+        "x": 357,
+        "y": 576,
+        "width": 55,
+        "height": 17
+    },
+    "detailedshield_c_01_business-loop_1.png": {
+        "x": 1018,
+        "y": 100,
+        "width": 19,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_1.15.png": {
+        "x": 952,
+        "y": 760,
+        "width": 22,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_1.35.png": {
+        "x": 654,
+        "y": 108,
+        "width": 26,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_1.65.png": {
+        "x": 784,
+        "y": 306,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_1.9.png": {
+        "x": 487,
+        "y": 311,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_2.15.png": {
+        "x": 487,
+        "y": 27,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_2.4.png": {
+        "x": 372,
+        "y": 250,
+        "width": 46,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_2.65.png": {
+        "x": 317,
+        "y": 216,
+        "width": 50,
+        "height": 26
+    },
+    "detailedshield_c_01_business-loop_2.9.png": {
+        "x": 114,
+        "y": 268,
+        "width": 55,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_1.png": {
+        "x": 1018,
+        "y": 127,
+        "width": 19,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_1.15.png": {
+        "x": 952,
+        "y": 787,
+        "width": 22,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_1.35.png": {
+        "x": 654,
+        "y": 135,
+        "width": 26,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_1.65.png": {
+        "x": 784,
+        "y": 333,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_1.9.png": {
+        "x": 487,
+        "y": 338,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_2.15.png": {
+        "x": 487,
+        "y": 54,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_2.4.png": {
+        "x": 372,
+        "y": 277,
+        "width": 46,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_2.65.png": {
+        "x": 317,
+        "y": 243,
+        "width": 50,
+        "height": 26
+    },
+    "detailedshield_c_01_business-ring_2.9.png": {
+        "x": 170,
+        "y": 268,
+        "width": 55,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_1.png": {
+        "x": 875,
+        "y": 455,
+        "width": 27,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_1.15.png": {
+        "x": 784,
+        "y": 360,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_1.35.png": {
+        "x": 487,
+        "y": 365,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_1.65.png": {
+        "x": 372,
+        "y": 331,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_1.9.png": {
+        "x": 317,
+        "y": 108,
+        "width": 51,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_2.15.png": {
+        "x": 0,
+        "y": 241,
+        "width": 58,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_2.4.png": {
+        "x": 134,
+        "y": 187,
+        "width": 65,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_2.65.png": {
+        "x": 180,
+        "y": 0,
+        "width": 72,
+        "height": 26
+    },
+    "detailedshield_c_01_loop_2.9.png": {
+        "x": 97,
+        "y": 54,
+        "width": 78,
+        "height": 26
+    },
+    "detailedshield_c_01_1.png": {
+        "x": 634,
+        "y": 205,
+        "width": 19,
+        "height": 21
+    },
+    "detailedshield_c_01_1.15.png": {
+        "x": 1018,
+        "y": 610,
+        "width": 22,
+        "height": 21
+    },
+    "detailedshield_c_01_1.35.png": {
+        "x": 989,
+        "y": 47,
+        "width": 26,
+        "height": 21
+    },
+    "detailedshield_c_01_1.65.png": {
+        "x": 914,
+        "y": 121,
+        "width": 31,
+        "height": 21
+    },
+    "detailedshield_c_01_1.9.png": {
+        "x": 784,
+        "y": 683,
+        "width": 36,
+        "height": 21
+    },
+    "detailedshield_c_01_2.15.png": {
+        "x": 42,
+        "y": 717,
+        "width": 41,
+        "height": 21
+    },
+    "detailedshield_c_01_2.4.png": {
+        "x": 592,
+        "y": 276,
+        "width": 46,
+        "height": 21
+    },
+    "detailedshield_c_01_2.65.png": {
+        "x": 94,
+        "y": 489,
+        "width": 50,
+        "height": 21
+    },
+    "detailedshield_c_01_2.9.png": {
+        "x": 428,
+        "y": 42,
+        "width": 55,
+        "height": 21
+    },
+    "detailedshield_c_02_alternative_1.png": {
+        "x": 1018,
+        "y": 154,
+        "width": 19,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_1.15.png": {
+        "x": 952,
+        "y": 814,
+        "width": 22,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_1.35.png": {
+        "x": 654,
+        "y": 162,
+        "width": 26,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_1.65.png": {
+        "x": 784,
+        "y": 387,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_1.9.png": {
+        "x": 487,
+        "y": 392,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_2.15.png": {
+        "x": 487,
+        "y": 81,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_2.4.png": {
+        "x": 372,
+        "y": 304,
+        "width": 46,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_2.65.png": {
+        "x": 200,
+        "y": 187,
+        "width": 50,
+        "height": 26
+    },
+    "detailedshield_c_02_alternative_2.9.png": {
+        "x": 226,
+        "y": 268,
+        "width": 55,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_1.png": {
+        "x": 989,
+        "y": 69,
+        "width": 21,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_1.15.png": {
+        "x": 654,
+        "y": 277,
+        "width": 24,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_1.35.png": {
+        "x": 742,
+        "y": 651,
+        "width": 28,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_1.65.png": {
+        "x": 654,
+        "y": 54,
+        "width": 35,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_1.9.png": {
+        "x": 530,
+        "y": 72,
+        "width": 40,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_2.15.png": {
+        "x": 0,
+        "y": 392,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_2.4.png": {
+        "x": 0,
+        "y": 321,
+        "width": 50,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_2.65.png": {
+        "x": 0,
+        "y": 268,
+        "width": 56,
+        "height": 26
+    },
+    "detailedshield_c_02_bypass_2.9.png": {
+        "x": 253,
+        "y": 27,
+        "width": 61,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_1.png": {
+        "x": 875,
+        "y": 482,
+        "width": 27,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_1.15.png": {
+        "x": 784,
+        "y": 414,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_1.35.png": {
+        "x": 487,
+        "y": 419,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_1.65.png": {
+        "x": 46,
+        "y": 392,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_1.9.png": {
+        "x": 317,
+        "y": 135,
+        "width": 51,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_2.15.png": {
+        "x": 59,
+        "y": 241,
+        "width": 58,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_2.4.png": {
+        "x": 0,
+        "y": 214,
+        "width": 65,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_2.65.png": {
+        "x": 180,
+        "y": 27,
+        "width": 72,
+        "height": 26
+    },
+    "detailedshield_c_02_connector_2.9.png": {
+        "x": 0,
+        "y": 81,
+        "width": 78,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_1.png": {
+        "x": 989,
+        "y": 96,
+        "width": 21,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_1.15.png": {
+        "x": 654,
+        "y": 304,
+        "width": 24,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_1.35.png": {
+        "x": 742,
+        "y": 678,
+        "width": 28,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_1.65.png": {
+        "x": 654,
+        "y": 81,
+        "width": 35,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_1.9.png": {
+        "x": 530,
+        "y": 99,
+        "width": 40,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_2.15.png": {
+        "x": 92,
+        "y": 392,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_2.4.png": {
+        "x": 51,
+        "y": 321,
+        "width": 50,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_2.65.png": {
+        "x": 57,
+        "y": 268,
+        "width": 56,
+        "height": 26
+    },
+    "detailedshield_c_02_extension_2.9.png": {
+        "x": 253,
+        "y": 54,
+        "width": 61,
+        "height": 26
+    },
+    "detailedshield_c_02_link_1.png": {
+        "x": 914,
+        "y": 377,
+        "width": 25,
+        "height": 26
+    },
+    "detailedshield_c_02_link_1.15.png": {
+        "x": 784,
+        "y": 749,
+        "width": 29,
+        "height": 26
+    },
+    "detailedshield_c_02_link_1.35.png": {
+        "x": 691,
+        "y": 482,
+        "width": 34,
+        "height": 26
+    },
+    "detailedshield_c_02_link_1.65.png": {
+        "x": 487,
+        "y": 108,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_02_link_1.9.png": {
+        "x": 372,
+        "y": 74,
+        "width": 48,
+        "height": 26
+    },
+    "detailedshield_c_02_link_2.15.png": {
+        "x": 317,
+        "y": 0,
+        "width": 54,
+        "height": 26
+    },
+    "detailedshield_c_02_link_2.4.png": {
+        "x": 253,
+        "y": 81,
+        "width": 60,
+        "height": 26
+    },
+    "detailedshield_c_02_link_2.65.png": {
+        "x": 180,
+        "y": 135,
+        "width": 66,
+        "height": 26
+    },
+    "detailedshield_c_02_link_2.9.png": {
+        "x": 75,
+        "y": 108,
+        "width": 73,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_1.png": {
+        "x": 742,
+        "y": 22,
+        "width": 33,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_1.15.png": {
+        "x": 592,
+        "y": 136,
+        "width": 38,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_1.35.png": {
+        "x": 138,
+        "y": 392,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_1.65.png": {
+        "x": 317,
+        "y": 27,
+        "width": 54,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_1.9.png": {
+        "x": 253,
+        "y": 0,
+        "width": 63,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_2.15.png": {
+        "x": 180,
+        "y": 81,
+        "width": 71,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_2.4.png": {
+        "x": 97,
+        "y": 27,
+        "width": 79,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_2.65.png": {
+        "x": 0,
+        "y": 54,
+        "width": 87,
+        "height": 26
+    },
+    "detailedshield_c_02_scenic_2.9.png": {
+        "x": 0,
+        "y": 0,
+        "width": 96,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_1.png": {
+        "x": 875,
+        "y": 509,
+        "width": 27,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_1.15.png": {
+        "x": 784,
+        "y": 441,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_1.35.png": {
+        "x": 654,
+        "y": 0,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_1.65.png": {
+        "x": 184,
+        "y": 392,
+        "width": 45,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_1.9.png": {
+        "x": 317,
+        "y": 162,
+        "width": 51,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_2.15.png": {
+        "x": 118,
+        "y": 241,
+        "width": 58,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_2.4.png": {
+        "x": 66,
+        "y": 214,
+        "width": 65,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_2.65.png": {
+        "x": 180,
+        "y": 54,
+        "width": 72,
+        "height": 26
+    },
+    "detailedshield_c_02_spur_2.9.png": {
+        "x": 79,
+        "y": 81,
+        "width": 78,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_1.png": {
+        "x": 914,
+        "y": 404,
+        "width": 25,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_1.15.png": {
+        "x": 742,
+        "y": 297,
+        "width": 29,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_1.35.png": {
+        "x": 691,
+        "y": 509,
+        "width": 34,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_1.65.png": {
+        "x": 487,
+        "y": 135,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_1.9.png": {
+        "x": 372,
+        "y": 101,
+        "width": 48,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_2.15.png": {
+        "x": 317,
+        "y": 54,
+        "width": 54,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_2.4.png": {
+        "x": 253,
+        "y": 108,
+        "width": 60,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_2.65.png": {
+        "x": 0,
+        "y": 187,
+        "width": 66,
+        "height": 26
+    },
+    "detailedshield_c_02_toll_2.9.png": {
+        "x": 0,
+        "y": 135,
+        "width": 73,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_1.png": {
+        "x": 784,
+        "y": 468,
+        "width": 31,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_1.15.png": {
+        "x": 654,
+        "y": 27,
+        "width": 36,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_1.35.png": {
+        "x": 487,
+        "y": 0,
+        "width": 42,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_1.65.png": {
+        "x": 317,
+        "y": 189,
+        "width": 51,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_1.9.png": {
+        "x": 253,
+        "y": 162,
+        "width": 59,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_2.15.png": {
+        "x": 180,
+        "y": 108,
+        "width": 67,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_2.4.png": {
+        "x": 0,
+        "y": 108,
+        "width": 74,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_2.65.png": {
+        "x": 97,
+        "y": 0,
+        "width": 82,
+        "height": 26
+    },
+    "detailedshield_c_02_truck_2.9.png": {
+        "x": 0,
+        "y": 27,
+        "width": 90,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_1.png": {
+        "x": 914,
+        "y": 431,
+        "width": 25,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_1.15.png": {
+        "x": 742,
+        "y": 324,
+        "width": 29,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_1.35.png": {
+        "x": 691,
+        "y": 536,
+        "width": 34,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_1.65.png": {
+        "x": 487,
+        "y": 162,
+        "width": 41,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_1.9.png": {
+        "x": 372,
+        "y": 128,
+        "width": 48,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_2.15.png": {
+        "x": 317,
+        "y": 81,
+        "width": 54,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_2.4.png": {
+        "x": 253,
+        "y": 135,
+        "width": 60,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_2.65.png": {
+        "x": 67,
+        "y": 187,
+        "width": 66,
+        "height": 26
+    },
+    "detailedshield_c_02_turnpike_2.9.png": {
+        "x": 74,
+        "y": 135,
+        "width": 73,
+        "height": 26
+    },
+    "detailedshield_c_02_1.png": {
+        "x": 572,
+        "y": 262,
+        "width": 19,
+        "height": 21
+    },
+    "detailedshield_c_02_1.15.png": {
+        "x": 1018,
+        "y": 632,
+        "width": 22,
+        "height": 21
+    },
+    "detailedshield_c_02_1.35.png": {
+        "x": 989,
+        "y": 123,
+        "width": 26,
+        "height": 21
+    },
+    "detailedshield_c_02_1.65.png": {
+        "x": 914,
+        "y": 143,
+        "width": 31,
+        "height": 21
+    },
+    "detailedshield_c_02_1.9.png": {
+        "x": 784,
+        "y": 705,
+        "width": 36,
+        "height": 21
+    },
+    "detailedshield_c_02_2.15.png": {
+        "x": 84,
+        "y": 717,
+        "width": 41,
+        "height": 21
+    },
+    "detailedshield_c_02_2.4.png": {
+        "x": 592,
+        "y": 298,
+        "width": 46,
+        "height": 21
+    },
+    "detailedshield_c_02_2.65.png": {
+        "x": 145,
+        "y": 489,
+        "width": 50,
+        "height": 21
+    },
+    "detailedshield_c_02_2.9.png": {
+        "x": 428,
+        "y": 64,
+        "width": 55,
+        "height": 21
+    },
+    "detailedshield_d_01_1.png": {
+        "x": 543,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "detailedshield_d_01_1.15.png": {
+        "x": 486,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "detailedshield_d_01_1.35.png": {
+        "x": 1045,
+        "y": 195,
+        "width": 26,
+        "height": 17
+    },
+    "detailedshield_d_01_1.65.png": {
+        "x": 462,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "detailedshield_d_01_1.9.png": {
+        "x": 654,
+        "y": 594,
+        "width": 36,
+        "height": 17
+    },
+    "detailedshield_d_01_2.15.png": {
+        "x": 126,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "detailedshield_d_01_2.4.png": {
+        "x": 828,
+        "y": 18,
+        "width": 46,
+        "height": 17
+    },
+    "detailedshield_d_01_2.65.png": {
+        "x": 157,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "detailedshield_d_01_2.9.png": {
+        "x": 413,
+        "y": 576,
+        "width": 55,
+        "height": 17
+    },
+    "detailedshield_e_01_1.png": {
+        "x": 886,
+        "y": 1029,
+        "width": 18,
+        "height": 15
+    },
+    "detailedshield_e_01_1.15.png": {
+        "x": 632,
+        "y": 596,
+        "width": 21,
+        "height": 15
+    },
+    "detailedshield_e_01_1.35.png": {
+        "x": 501,
+        "y": 1029,
+        "width": 24,
+        "height": 15
+    },
+    "detailedshield_e_01_1.65.png": {
+        "x": 224,
+        "y": 993,
+        "width": 30,
+        "height": 15
+    },
+    "detailedshield_e_01_1.9.png": {
+        "x": 724,
+        "y": 939,
+        "width": 34,
+        "height": 15
+    },
+    "detailedshield_e_01_2.15.png": {
+        "x": 631,
+        "y": 904,
+        "width": 39,
+        "height": 15
+    },
+    "detailedshield_e_01_2.4.png": {
+        "x": 252,
+        "y": 904,
+        "width": 43,
+        "height": 15
+    },
+    "detailedshield_e_01_2.65.png": {
+        "x": 403,
+        "y": 815,
+        "width": 48,
+        "height": 15
+    },
+    "detailedshield_e_01_2.9.png": {
+        "x": 241,
+        "y": 739,
+        "width": 52,
+        "height": 15
+    },
+    "detailedshield_e_02_1.png": {
+        "x": 905,
+        "y": 1029,
+        "width": 18,
+        "height": 15
+    },
+    "detailedshield_e_02_1.15.png": {
+        "x": 718,
+        "y": 1029,
+        "width": 21,
+        "height": 15
+    },
+    "detailedshield_e_02_1.35.png": {
+        "x": 526,
+        "y": 1029,
+        "width": 24,
+        "height": 15
+    },
+    "detailedshield_e_02_1.65.png": {
+        "x": 255,
+        "y": 993,
+        "width": 30,
+        "height": 15
+    },
+    "detailedshield_e_02_1.9.png": {
+        "x": 759,
+        "y": 939,
+        "width": 34,
+        "height": 15
+    },
+    "detailedshield_e_02_2.15.png": {
+        "x": 671,
+        "y": 904,
+        "width": 39,
+        "height": 15
+    },
+    "detailedshield_e_02_2.4.png": {
+        "x": 296,
+        "y": 904,
+        "width": 43,
+        "height": 15
+    },
+    "detailedshield_e_02_2.65.png": {
+        "x": 452,
+        "y": 815,
+        "width": 48,
+        "height": 15
+    },
+    "detailedshield_e_02_2.9.png": {
+        "x": 294,
+        "y": 739,
+        "width": 52,
+        "height": 15
+    },
+    "detailedshield_f_01_1.png": {
+        "x": 1045,
+        "y": 412,
+        "width": 22,
+        "height": 20
+    },
+    "detailedshield_f_01_1.15.png": {
+        "x": 989,
+        "y": 896,
+        "width": 25,
+        "height": 20
+    },
+    "detailedshield_f_01_1.35.png": {
+        "x": 952,
+        "y": 132,
+        "width": 30,
+        "height": 20
+    },
+    "detailedshield_f_01_1.65.png": {
+        "x": 875,
+        "y": 60,
+        "width": 36,
+        "height": 20
+    },
+    "detailedshield_f_01_1.9.png": {
+        "x": 0,
+        "y": 739,
+        "width": 42,
+        "height": 20
+    },
+    "detailedshield_f_01_2.15.png": {
+        "x": 230,
+        "y": 596,
+        "width": 47,
+        "height": 20
+    },
+    "detailedshield_f_01_2.4.png": {
+        "x": 50,
+        "y": 466,
+        "width": 53,
+        "height": 20
+    },
+    "detailedshield_f_01_2.65.png": {
+        "x": 230,
+        "y": 392,
+        "width": 58,
+        "height": 20
+    },
+    "detailedshield_f_01_2.9.png": {
+        "x": 236,
+        "y": 295,
+        "width": 64,
+        "height": 20
+    },
+    "detailedshield_g_01_1.png": {
+        "x": 158,
+        "y": 81,
+        "width": 21,
+        "height": 19
+    },
+    "detailedshield_g_01_1.15.png": {
+        "x": 1045,
+        "y": 117,
+        "width": 24,
+        "height": 19
+    },
+    "detailedshield_g_01_1.35.png": {
+        "x": 989,
+        "y": 209,
+        "width": 28,
+        "height": 19
+    },
+    "detailedshield_g_01_1.65.png": {
+        "x": 914,
+        "y": 19,
+        "width": 35,
+        "height": 19
+    },
+    "detailedshield_g_01_1.9.png": {
+        "x": 784,
+        "y": 560,
+        "width": 40,
+        "height": 19
+    },
+    "detailedshield_g_01_2.15.png": {
+        "x": 256,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "detailedshield_g_01_2.4.png": {
+        "x": 51,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "detailedshield_g_01_2.65.png": {
+        "x": 224,
+        "y": 419,
+        "width": 56,
+        "height": 19
+    },
+    "detailedshield_g_01_2.9.png": {
+        "x": 57,
+        "y": 370,
+        "width": 61,
+        "height": 19
+    },
+    "hexagon_a_01_1.png": {
+        "x": 570,
+        "y": 553,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_a_01_1.15.png": {
+        "x": 55,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_a_01_1.35.png": {
+        "x": 551,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_a_01_1.65.png": {
+        "x": 451,
+        "y": 419,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_a_01_1.9.png": {
+        "x": 117,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_01_2.15.png": {
+        "x": 141,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_a_01_2.4.png": {
+        "x": 617,
+        "y": 760,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_a_01_2.65.png": {
+        "x": 531,
+        "y": 534,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_a_01_2.9.png": {
+        "x": 407,
+        "y": 534,
+        "width": 61,
+        "height": 16
+    },
+    "hexagon_a_02_1.png": {
+        "x": 806,
+        "y": 779,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_a_02_1.15.png": {
+        "x": 80,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_a_02_1.35.png": {
+        "x": 580,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_a_02_1.65.png": {
+        "x": 0,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_a_02_1.9.png": {
+        "x": 158,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_02_2.15.png": {
+        "x": 187,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_a_02_2.4.png": {
+        "x": 668,
+        "y": 760,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_a_02_2.65.png": {
+        "x": 195,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_a_02_2.9.png": {
+        "x": 469,
+        "y": 534,
+        "width": 61,
+        "height": 16
+    },
+    "hexagon_a_03_1.png": {
+        "x": 716,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_a_03_1.15.png": {
+        "x": 105,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_a_03_1.35.png": {
+        "x": 609,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_a_03_1.65.png": {
+        "x": 36,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_a_03_1.9.png": {
+        "x": 199,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_03_2.15.png": {
+        "x": 233,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_a_03_2.4.png": {
+        "x": 719,
+        "y": 760,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_a_03_2.65.png": {
+        "x": 252,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_a_03_2.9.png": {
+        "x": 322,
+        "y": 553,
+        "width": 61,
+        "height": 16
+    },
+    "hexagon_a_04_1.png": {
+        "x": 738,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_a_04_1.15.png": {
+        "x": 130,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_a_04_1.35.png": {
+        "x": 638,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_a_04_1.65.png": {
+        "x": 72,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_a_04_1.9.png": {
+        "x": 240,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_04_2.15.png": {
+        "x": 279,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_a_04_2.4.png": {
+        "x": 92,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_a_04_2.65.png": {
+        "x": 309,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_a_04_2.9.png": {
+        "x": 384,
+        "y": 553,
+        "width": 61,
+        "height": 16
+    },
+    "hexagon_a_05_1.png": {
+        "x": 1095,
+        "y": 344,
+        "width": 15,
+        "height": 16
+    },
+    "hexagon_a_05_1.15.png": {
+        "x": 1095,
+        "y": 259,
+        "width": 17,
+        "height": 16
+    },
+    "hexagon_a_05_1.35.png": {
+        "x": 980,
+        "y": 1046,
+        "width": 20,
+        "height": 16
+    },
+    "hexagon_a_05_1.65.png": {
+        "x": 29,
+        "y": 1029,
+        "width": 25,
+        "height": 16
+    },
+    "hexagon_a_05_1.9.png": {
+        "x": 521,
+        "y": 1010,
+        "width": 29,
+        "height": 16
+    },
+    "hexagon_a_05_2.15.png": {
+        "x": 686,
+        "y": 956,
+        "width": 32,
+        "height": 16
+    },
+    "hexagon_a_05_2.4.png": {
+        "x": 952,
+        "y": 647,
+        "width": 36,
+        "height": 16
+    },
+    "hexagon_a_05_2.65.png": {
+        "x": 281,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_05_2.9.png": {
+        "x": 270,
+        "y": 850,
+        "width": 44,
+        "height": 16
+    },
+    "hexagon_a_06_1.png": {
+        "x": 760,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_a_06_1.15.png": {
+        "x": 155,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_a_06_1.35.png": {
+        "x": 667,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_a_06_1.65.png": {
+        "x": 108,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_a_06_1.9.png": {
+        "x": 322,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_a_06_2.15.png": {
+        "x": 325,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_a_06_2.4.png": {
+        "x": 143,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_a_06_2.65.png": {
+        "x": 366,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_a_06_2.9.png": {
+        "x": 446,
+        "y": 553,
+        "width": 61,
+        "height": 16
+    },
+    "hexagon_b_01_1.png": {
+        "x": 782,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "hexagon_b_01_1.15.png": {
+        "x": 180,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "hexagon_b_01_1.35.png": {
+        "x": 696,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "hexagon_b_01_1.65.png": {
+        "x": 144,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "hexagon_b_01_1.9.png": {
+        "x": 363,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "hexagon_b_01_2.15.png": {
+        "x": 371,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "hexagon_b_01_2.4.png": {
+        "x": 194,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "hexagon_b_01_2.65.png": {
+        "x": 423,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "hexagon_b_01_2.9.png": {
+        "x": 508,
+        "y": 553,
+        "width": 61,
+        "height": 16
+    },
+    "india_01_1.png": {
+        "x": 1073,
+        "y": 441,
+        "width": 17,
+        "height": 22
+    },
+    "india_01_1.15.png": {
+        "x": 1045,
+        "y": 433,
+        "width": 20,
+        "height": 22
+    },
+    "india_01_1.35.png": {
+        "x": 989,
+        "y": 650,
+        "width": 23,
+        "height": 22
+    },
+    "india_01_1.65.png": {
+        "x": 654,
+        "y": 484,
+        "width": 28,
+        "height": 22
+    },
+    "india_01_1.9.png": {
+        "x": 875,
+        "y": 363,
+        "width": 32,
+        "height": 22
+    },
+    "india_01_2.15.png": {
+        "x": 784,
+        "y": 214,
+        "width": 37,
+        "height": 22
+    },
+    "india_01_2.4.png": {
+        "x": 691,
+        "y": 280,
+        "width": 41,
+        "height": 22
+    },
+    "india_01_2.65.png": {
+        "x": 138,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "india_01_2.9.png": {
+        "x": 195,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "india_02_1.png": {
+        "x": 1073,
+        "y": 464,
+        "width": 17,
+        "height": 22
+    },
+    "india_02_1.15.png": {
+        "x": 1045,
+        "y": 456,
+        "width": 20,
+        "height": 22
+    },
+    "india_02_1.35.png": {
+        "x": 989,
+        "y": 673,
+        "width": 23,
+        "height": 22
+    },
+    "india_02_1.65.png": {
+        "x": 654,
+        "y": 507,
+        "width": 28,
+        "height": 22
+    },
+    "india_02_1.9.png": {
+        "x": 875,
+        "y": 386,
+        "width": 32,
+        "height": 22
+    },
+    "india_02_2.15.png": {
+        "x": 784,
+        "y": 237,
+        "width": 37,
+        "height": 22
+    },
+    "india_02_2.4.png": {
+        "x": 691,
+        "y": 303,
+        "width": 41,
+        "height": 22
+    },
+    "india_02_2.65.png": {
+        "x": 184,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "india_02_2.9.png": {
+        "x": 245,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "netherlands_01_1.png": {
+        "x": 704,
+        "y": 1064,
+        "width": 19,
+        "height": 16
+    },
+    "netherlands_01_1.15.png": {
+        "x": 647,
+        "y": 1046,
+        "width": 22,
+        "height": 16
+    },
+    "netherlands_01_1.35.png": {
+        "x": 1018,
+        "y": 908,
+        "width": 26,
+        "height": 16
+    },
+    "netherlands_01_1.65.png": {
+        "x": 0,
+        "y": 993,
+        "width": 31,
+        "height": 16
+    },
+    "netherlands_01_1.9.png": {
+        "x": 952,
+        "y": 664,
+        "width": 36,
+        "height": 16
+    },
+    "netherlands_01_2.15.png": {
+        "x": 831,
+        "y": 833,
+        "width": 41,
+        "height": 16
+    },
+    "netherlands_01_2.4.png": {
+        "x": 0,
+        "y": 833,
+        "width": 46,
+        "height": 16
+    },
+    "netherlands_01_2.65.png": {
+        "x": 245,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "netherlands_01_2.9.png": {
+        "x": 336,
+        "y": 660,
+        "width": 55,
+        "height": 16
+    },
+    "octagon_01_1.png": {
+        "x": 804,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "octagon_01_1.15.png": {
+        "x": 205,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "octagon_01_1.35.png": {
+        "x": 725,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "octagon_01_1.65.png": {
+        "x": 180,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "octagon_01_1.9.png": {
+        "x": 404,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "octagon_01_2.15.png": {
+        "x": 417,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "octagon_01_2.4.png": {
+        "x": 296,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "octagon_01_2.65.png": {
+        "x": 480,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "octagon_01_2.9.png": {
+        "x": 592,
+        "y": 0,
+        "width": 61,
+        "height": 16
+    },
+    "octagon_02_1.png": {
+        "x": 826,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "octagon_02_1.15.png": {
+        "x": 230,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "octagon_02_1.35.png": {
+        "x": 754,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "octagon_02_1.65.png": {
+        "x": 216,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "octagon_02_1.9.png": {
+        "x": 445,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "octagon_02_2.15.png": {
+        "x": 463,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "octagon_02_2.4.png": {
+        "x": 347,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "octagon_02_2.65.png": {
+        "x": 537,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "octagon_02_2.9.png": {
+        "x": 592,
+        "y": 17,
+        "width": 61,
+        "height": 16
+    },
+    "octagon_03_1.png": {
+        "x": 848,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "octagon_03_1.15.png": {
+        "x": 255,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "octagon_03_1.35.png": {
+        "x": 783,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "octagon_03_1.65.png": {
+        "x": 252,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "octagon_03_1.9.png": {
+        "x": 486,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "octagon_03_2.15.png": {
+        "x": 509,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "octagon_03_2.4.png": {
+        "x": 398,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "octagon_03_2.65.png": {
+        "x": 594,
+        "y": 639,
+        "width": 56,
+        "height": 16
+    },
+    "octagon_03_2.9.png": {
+        "x": 592,
+        "y": 34,
+        "width": 61,
+        "height": 16
+    },
+    "octagon_04_1.png": {
+        "x": 870,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "octagon_04_1.15.png": {
+        "x": 280,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "octagon_04_1.35.png": {
+        "x": 812,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "octagon_04_1.65.png": {
+        "x": 288,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "octagon_04_1.9.png": {
+        "x": 527,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "octagon_04_2.15.png": {
+        "x": 555,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "octagon_04_2.4.png": {
+        "x": 449,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "octagon_04_2.65.png": {
+        "x": 51,
+        "y": 660,
+        "width": 56,
+        "height": 16
+    },
+    "octagon_04_2.9.png": {
+        "x": 592,
+        "y": 51,
+        "width": 61,
+        "height": 16
+    },
+    "octagon_05_1.png": {
+        "x": 892,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "octagon_05_1.15.png": {
+        "x": 305,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "octagon_05_1.35.png": {
+        "x": 841,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "octagon_05_1.65.png": {
+        "x": 324,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "octagon_05_1.9.png": {
+        "x": 568,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "octagon_05_2.15.png": {
+        "x": 601,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "octagon_05_2.4.png": {
+        "x": 500,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "octagon_05_2.65.png": {
+        "x": 108,
+        "y": 660,
+        "width": 56,
+        "height": 16
+    },
+    "octagon_05_2.9.png": {
+        "x": 592,
+        "y": 68,
+        "width": 61,
+        "height": 16
+    },
+    "oval_01_1.png": {
+        "x": 740,
+        "y": 1029,
+        "width": 21,
+        "height": 15
+    },
+    "oval_01_1.15.png": {
+        "x": 551,
+        "y": 1029,
+        "width": 24,
+        "height": 15
+    },
+    "oval_01_1.35.png": {
+        "x": 286,
+        "y": 993,
+        "width": 28,
+        "height": 15
+    },
+    "oval_01_1.65.png": {
+        "x": 616,
+        "y": 939,
+        "width": 35,
+        "height": 15
+    },
+    "oval_01_1.9.png": {
+        "x": 508,
+        "y": 904,
+        "width": 40,
+        "height": 15
+    },
+    "oval_01_2.15.png": {
+        "x": 287,
+        "y": 886,
+        "width": 45,
+        "height": 15
+    },
+    "oval_01_2.4.png": {
+        "x": 46,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "oval_01_2.65.png": {
+        "x": 504,
+        "y": 660,
+        "width": 56,
+        "height": 15
+    },
+    "oval_01_2.9.png": {
+        "x": 446,
+        "y": 596,
+        "width": 61,
+        "height": 15
+    },
+    "oval_02_1.png": {
+        "x": 762,
+        "y": 1029,
+        "width": 21,
+        "height": 15
+    },
+    "oval_02_1.15.png": {
+        "x": 576,
+        "y": 1029,
+        "width": 24,
+        "height": 15
+    },
+    "oval_02_1.35.png": {
+        "x": 315,
+        "y": 993,
+        "width": 28,
+        "height": 15
+    },
+    "oval_02_1.65.png": {
+        "x": 652,
+        "y": 939,
+        "width": 35,
+        "height": 15
+    },
+    "oval_02_1.9.png": {
+        "x": 549,
+        "y": 904,
+        "width": 40,
+        "height": 15
+    },
+    "oval_02_2.15.png": {
+        "x": 333,
+        "y": 886,
+        "width": 45,
+        "height": 15
+    },
+    "oval_02_2.4.png": {
+        "x": 97,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "oval_02_2.65.png": {
+        "x": 561,
+        "y": 660,
+        "width": 56,
+        "height": 15
+    },
+    "oval_02_2.9.png": {
+        "x": 508,
+        "y": 596,
+        "width": 61,
+        "height": 15
+    },
+    "oval_03_1.png": {
+        "x": 784,
+        "y": 1029,
+        "width": 21,
+        "height": 15
+    },
+    "oval_03_1.15.png": {
+        "x": 601,
+        "y": 1029,
+        "width": 24,
+        "height": 15
+    },
+    "oval_03_1.35.png": {
+        "x": 344,
+        "y": 993,
+        "width": 28,
+        "height": 15
+    },
+    "oval_03_1.65.png": {
+        "x": 688,
+        "y": 939,
+        "width": 35,
+        "height": 15
+    },
+    "oval_03_1.9.png": {
+        "x": 590,
+        "y": 904,
+        "width": 40,
+        "height": 15
+    },
+    "oval_03_2.15.png": {
+        "x": 379,
+        "y": 886,
+        "width": 45,
+        "height": 15
+    },
+    "oval_03_2.4.png": {
+        "x": 148,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "oval_03_2.65.png": {
+        "x": 618,
+        "y": 660,
+        "width": 56,
+        "height": 15
+    },
+    "oval_03_2.9.png": {
+        "x": 570,
+        "y": 596,
+        "width": 61,
+        "height": 15
+    },
+    "pentagon_01_1.png": {
+        "x": 1073,
+        "y": 110,
+        "width": 20,
+        "height": 19
+    },
+    "pentagon_01_1.15.png": {
+        "x": 1045,
+        "y": 630,
+        "width": 23,
+        "height": 19
+    },
+    "pentagon_01_1.35.png": {
+        "x": 989,
+        "y": 461,
+        "width": 27,
+        "height": 19
+    },
+    "pentagon_01_1.65.png": {
+        "x": 914,
+        "y": 778,
+        "width": 33,
+        "height": 19
+    },
+    "pentagon_01_1.9.png": {
+        "x": 742,
+        "y": 705,
+        "width": 38,
+        "height": 19
+    },
+    "pentagon_01_2.15.png": {
+        "x": 784,
+        "y": 0,
+        "width": 43,
+        "height": 19
+    },
+    "pentagon_01_2.4.png": {
+        "x": 246,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "pentagon_01_2.65.png": {
+        "x": 530,
+        "y": 330,
+        "width": 53,
+        "height": 19
+    },
+    "pentagon_01_2.9.png": {
+        "x": 428,
+        "y": 297,
+        "width": 58,
+        "height": 19
+    },
+    "pentagon_02_1.png": {
+        "x": 1073,
+        "y": 130,
+        "width": 20,
+        "height": 19
+    },
+    "pentagon_02_1.15.png": {
+        "x": 1045,
+        "y": 650,
+        "width": 23,
+        "height": 19
+    },
+    "pentagon_02_1.35.png": {
+        "x": 989,
+        "y": 481,
+        "width": 27,
+        "height": 19
+    },
+    "pentagon_02_1.65.png": {
+        "x": 914,
+        "y": 798,
+        "width": 33,
+        "height": 19
+    },
+    "pentagon_02_1.9.png": {
+        "x": 487,
+        "y": 446,
+        "width": 38,
+        "height": 19
+    },
+    "pentagon_02_2.15.png": {
+        "x": 784,
+        "y": 20,
+        "width": 43,
+        "height": 19
+    },
+    "pentagon_02_2.4.png": {
+        "x": 295,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "pentagon_02_2.65.png": {
+        "x": 530,
+        "y": 350,
+        "width": 53,
+        "height": 19
+    },
+    "pentagon_02_2.9.png": {
+        "x": 428,
+        "y": 317,
+        "width": 58,
+        "height": 19
+    },
+    "pentagon_03_1.png": {
+        "x": 1073,
+        "y": 150,
+        "width": 20,
+        "height": 19
+    },
+    "pentagon_03_1.15.png": {
+        "x": 1045,
+        "y": 670,
+        "width": 23,
+        "height": 19
+    },
+    "pentagon_03_1.35.png": {
+        "x": 989,
+        "y": 501,
+        "width": 27,
+        "height": 19
+    },
+    "pentagon_03_1.65.png": {
+        "x": 914,
+        "y": 818,
+        "width": 33,
+        "height": 19
+    },
+    "pentagon_03_1.9.png": {
+        "x": 488,
+        "y": 466,
+        "width": 38,
+        "height": 19
+    },
+    "pentagon_03_2.15.png": {
+        "x": 784,
+        "y": 40,
+        "width": 43,
+        "height": 19
+    },
+    "pentagon_03_2.4.png": {
+        "x": 344,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "pentagon_03_2.65.png": {
+        "x": 530,
+        "y": 370,
+        "width": 53,
+        "height": 19
+    },
+    "pentagon_03_2.9.png": {
+        "x": 428,
+        "y": 337,
+        "width": 58,
+        "height": 19
+    },
+    "pentagon_04_1.png": {
+        "x": 1073,
+        "y": 170,
+        "width": 20,
+        "height": 19
+    },
+    "pentagon_04_1.15.png": {
+        "x": 1045,
+        "y": 690,
+        "width": 23,
+        "height": 19
+    },
+    "pentagon_04_1.35.png": {
+        "x": 989,
+        "y": 521,
+        "width": 27,
+        "height": 19
+    },
+    "pentagon_04_1.65.png": {
+        "x": 914,
+        "y": 838,
+        "width": 33,
+        "height": 19
+    },
+    "pentagon_04_1.9.png": {
+        "x": 875,
+        "y": 0,
+        "width": 38,
+        "height": 19
+    },
+    "pentagon_04_2.15.png": {
+        "x": 784,
+        "y": 60,
+        "width": 43,
+        "height": 19
+    },
+    "pentagon_04_2.4.png": {
+        "x": 393,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "pentagon_04_2.65.png": {
+        "x": 530,
+        "y": 390,
+        "width": 53,
+        "height": 19
+    },
+    "pentagon_04_2.9.png": {
+        "x": 428,
+        "y": 357,
+        "width": 58,
+        "height": 19
+    },
+    "pentagon_05_1.png": {
+        "x": 1045,
+        "y": 18,
+        "width": 23,
+        "height": 20
+    },
+    "pentagon_05_1.15.png": {
+        "x": 989,
+        "y": 377,
+        "width": 26,
+        "height": 20
+    },
+    "pentagon_05_1.35.png": {
+        "x": 654,
+        "y": 331,
+        "width": 31,
+        "height": 20
+    },
+    "pentagon_05_1.65.png": {
+        "x": 784,
+        "y": 620,
+        "width": 38,
+        "height": 20
+    },
+    "pentagon_05_1.9.png": {
+        "x": 691,
+        "y": 563,
+        "width": 44,
+        "height": 20
+    },
+    "pentagon_05_2.15.png": {
+        "x": 592,
+        "y": 184,
+        "width": 49,
+        "height": 20
+    },
+    "pentagon_05_2.4.png": {
+        "x": 0,
+        "y": 419,
+        "width": 55,
+        "height": 20
+    },
+    "pentagon_05_2.65.png": {
+        "x": 167,
+        "y": 321,
+        "width": 61,
+        "height": 20
+    },
+    "pentagon_05_2.9.png": {
+        "x": 245,
+        "y": 241,
+        "width": 67,
+        "height": 20
+    },
+    "pill_01_1.png": {
+        "x": 997,
+        "y": 974,
+        "width": 19,
+        "height": 14
+    },
+    "pill_01_1.15.png": {
+        "x": 929,
+        "y": 921,
+        "width": 22,
+        "height": 14
+    },
+    "pill_01_1.35.png": {
+        "x": 989,
+        "y": 959,
+        "width": 26,
+        "height": 14
+    },
+    "pill_01_1.65.png": {
+        "x": 796,
+        "y": 798,
+        "width": 31,
+        "height": 14
+    },
+    "pill_01_1.9.png": {
+        "x": 892,
+        "y": 921,
+        "width": 36,
+        "height": 14
+    },
+    "pill_01_2.15.png": {
+        "x": 739,
+        "y": 739,
+        "width": 41,
+        "height": 14
+    },
+    "pill_01_2.4.png": {
+        "x": 417,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "pill_01_2.65.png": {
+        "x": 691,
+        "y": 664,
+        "width": 50,
+        "height": 14
+    },
+    "pill_01_2.9.png": {
+        "x": 347,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_01_1.png": {
+        "x": 969,
+        "y": 993,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_01_1.15.png": {
+        "x": 670,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_01_1.35.png": {
+        "x": 921,
+        "y": 904,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_01_1.65.png": {
+        "x": 840,
+        "y": 850,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_01_1.9.png": {
+        "x": 794,
+        "y": 939,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_01_2.15.png": {
+        "x": 660,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_01_2.4.png": {
+        "x": 464,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_01_2.65.png": {
+        "x": 592,
+        "y": 798,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_01_2.9.png": {
+        "x": 403,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_02_1.png": {
+        "x": 989,
+        "y": 993,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_02_1.15.png": {
+        "x": 693,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_02_1.35.png": {
+        "x": 962,
+        "y": 956,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_02_1.65.png": {
+        "x": 505,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_02_1.9.png": {
+        "x": 831,
+        "y": 939,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_02_2.15.png": {
+        "x": 702,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_02_2.4.png": {
+        "x": 511,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_02_2.65.png": {
+        "x": 643,
+        "y": 798,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_02_2.9.png": {
+        "x": 459,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_03_1.png": {
+        "x": 924,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_03_1.15.png": {
+        "x": 716,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_03_1.35.png": {
+        "x": 889,
+        "y": 974,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_03_1.65.png": {
+        "x": 537,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_03_1.9.png": {
+        "x": 868,
+        "y": 939,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_03_2.15.png": {
+        "x": 744,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_03_2.4.png": {
+        "x": 558,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_03_2.65.png": {
+        "x": 694,
+        "y": 798,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_03_2.9.png": {
+        "x": 515,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_04_1.png": {
+        "x": 944,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_04_1.15.png": {
+        "x": 739,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_04_1.35.png": {
+        "x": 916,
+        "y": 974,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_04_1.65.png": {
+        "x": 569,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_04_1.9.png": {
+        "x": 905,
+        "y": 939,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_04_2.15.png": {
+        "x": 786,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_04_2.4.png": {
+        "x": 605,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_04_2.65.png": {
+        "x": 745,
+        "y": 798,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_04_2.9.png": {
+        "x": 571,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_05_1.png": {
+        "x": 964,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_05_1.15.png": {
+        "x": 762,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_05_1.35.png": {
+        "x": 943,
+        "y": 974,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_05_1.65.png": {
+        "x": 601,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_05_1.9.png": {
+        "x": 942,
+        "y": 939,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_05_2.15.png": {
+        "x": 828,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_05_2.4.png": {
+        "x": 652,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_05_2.65.png": {
+        "x": 501,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_05_2.9.png": {
+        "x": 627,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_06_1.png": {
+        "x": 984,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_06_1.15.png": {
+        "x": 785,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_06_1.35.png": {
+        "x": 970,
+        "y": 974,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_06_1.65.png": {
+        "x": 633,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_06_1.9.png": {
+        "x": 851,
+        "y": 956,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_06_2.15.png": {
+        "x": 870,
+        "y": 886,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_06_2.4.png": {
+        "x": 699,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_06_2.65.png": {
+        "x": 552,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_06_2.9.png": {
+        "x": 683,
+        "y": 739,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_07_1.png": {
+        "x": 1004,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_07_1.15.png": {
+        "x": 808,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_07_1.35.png": {
+        "x": 481,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_07_1.65.png": {
+        "x": 665,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_07_1.9.png": {
+        "x": 888,
+        "y": 956,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_07_2.15.png": {
+        "x": 711,
+        "y": 904,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_07_2.4.png": {
+        "x": 746,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_07_2.65.png": {
+        "x": 603,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_07_2.9.png": {
+        "x": 200,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_08_1.png": {
+        "x": 1024,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_08_1.15.png": {
+        "x": 831,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_08_1.35.png": {
+        "x": 508,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_08_1.65.png": {
+        "x": 697,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_08_1.9.png": {
+        "x": 925,
+        "y": 956,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_08_2.15.png": {
+        "x": 753,
+        "y": 904,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_08_2.4.png": {
+        "x": 793,
+        "y": 850,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_08_2.65.png": {
+        "x": 654,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_08_2.9.png": {
+        "x": 256,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_09_1.png": {
+        "x": 1044,
+        "y": 1029,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_09_1.15.png": {
+        "x": 854,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_09_1.35.png": {
+        "x": 535,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_09_1.65.png": {
+        "x": 729,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_09_1.9.png": {
+        "x": 320,
+        "y": 974,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_09_2.15.png": {
+        "x": 795,
+        "y": 904,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_09_2.4.png": {
+        "x": 425,
+        "y": 886,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_09_2.65.png": {
+        "x": 705,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_09_2.9.png": {
+        "x": 312,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_10_1.png": {
+        "x": 764,
+        "y": 1064,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_10_1.15.png": {
+        "x": 877,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_10_1.35.png": {
+        "x": 562,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_10_1.65.png": {
+        "x": 761,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_10_1.9.png": {
+        "x": 357,
+        "y": 974,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_10_2.15.png": {
+        "x": 837,
+        "y": 904,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_10_2.4.png": {
+        "x": 472,
+        "y": 886,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_10_2.65.png": {
+        "x": 756,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_10_2.9.png": {
+        "x": 368,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_11_1.png": {
+        "x": 784,
+        "y": 1064,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_11_1.15.png": {
+        "x": 900,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_11_1.35.png": {
+        "x": 589,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_11_1.65.png": {
+        "x": 793,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_11_1.9.png": {
+        "x": 394,
+        "y": 974,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_11_2.15.png": {
+        "x": 879,
+        "y": 904,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_11_2.4.png": {
+        "x": 519,
+        "y": 886,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_11_2.65.png": {
+        "x": 807,
+        "y": 815,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_11_2.9.png": {
+        "x": 424,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_12_1.png": {
+        "x": 804,
+        "y": 1064,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_12_1.15.png": {
+        "x": 923,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_12_1.35.png": {
+        "x": 616,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_12_1.65.png": {
+        "x": 825,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_12_1.9.png": {
+        "x": 431,
+        "y": 974,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_12_2.15.png": {
+        "x": 808,
+        "y": 921,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_12_2.4.png": {
+        "x": 566,
+        "y": 886,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_12_2.65.png": {
+        "x": 315,
+        "y": 850,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_12_2.9.png": {
+        "x": 480,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rectangle_13_1.png": {
+        "x": 824,
+        "y": 1064,
+        "width": 19,
+        "height": 14
+    },
+    "rectangle_13_1.15.png": {
+        "x": 946,
+        "y": 993,
+        "width": 22,
+        "height": 14
+    },
+    "rectangle_13_1.35.png": {
+        "x": 643,
+        "y": 993,
+        "width": 26,
+        "height": 14
+    },
+    "rectangle_13_1.65.png": {
+        "x": 857,
+        "y": 974,
+        "width": 31,
+        "height": 14
+    },
+    "rectangle_13_1.9.png": {
+        "x": 468,
+        "y": 974,
+        "width": 36,
+        "height": 14
+    },
+    "rectangle_13_2.15.png": {
+        "x": 850,
+        "y": 921,
+        "width": 41,
+        "height": 14
+    },
+    "rectangle_13_2.4.png": {
+        "x": 613,
+        "y": 886,
+        "width": 46,
+        "height": 14
+    },
+    "rectangle_13_2.65.png": {
+        "x": 366,
+        "y": 850,
+        "width": 50,
+        "height": 14
+    },
+    "rectangle_13_2.9.png": {
+        "x": 536,
+        "y": 798,
+        "width": 55,
+        "height": 14
+    },
+    "rhombus_01_1.png": {
+        "x": 989,
+        "y": 696,
+        "width": 23,
+        "height": 22
+    },
+    "rhombus_01_1.15.png": {
+        "x": 952,
+        "y": 841,
+        "width": 26,
+        "height": 22
+    },
+    "rhombus_01_1.35.png": {
+        "x": 875,
+        "y": 782,
+        "width": 31,
+        "height": 22
+    },
+    "rhombus_01_1.65.png": {
+        "x": 742,
+        "y": 119,
+        "width": 38,
+        "height": 22
+    },
+    "rhombus_01_1.9.png": {
+        "x": 592,
+        "y": 230,
+        "width": 44,
+        "height": 22
+    },
+    "rhombus_01_2.15.png": {
+        "x": 295,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "rhombus_01_2.4.png": {
+        "x": 372,
+        "y": 181,
+        "width": 55,
+        "height": 22
+    },
+    "rhombus_01_2.65.png": {
+        "x": 112,
+        "y": 295,
+        "width": 61,
+        "height": 22
+    },
+    "rhombus_01_2.9.png": {
+        "x": 141,
+        "y": 162,
+        "width": 67,
+        "height": 22
+    },
+    "rhombus_02_1.png": {
+        "x": 989,
+        "y": 719,
+        "width": 23,
+        "height": 22
+    },
+    "rhombus_02_1.15.png": {
+        "x": 952,
+        "y": 864,
+        "width": 26,
+        "height": 22
+    },
+    "rhombus_02_1.35.png": {
+        "x": 875,
+        "y": 805,
+        "width": 31,
+        "height": 22
+    },
+    "rhombus_02_1.65.png": {
+        "x": 742,
+        "y": 142,
+        "width": 38,
+        "height": 22
+    },
+    "rhombus_02_1.9.png": {
+        "x": 592,
+        "y": 253,
+        "width": 44,
+        "height": 22
+    },
+    "rhombus_02_2.15.png": {
+        "x": 345,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "rhombus_02_2.4.png": {
+        "x": 372,
+        "y": 204,
+        "width": 55,
+        "height": 22
+    },
+    "rhombus_02_2.65.png": {
+        "x": 174,
+        "y": 295,
+        "width": 61,
+        "height": 22
+    },
+    "rhombus_02_2.9.png": {
+        "x": 177,
+        "y": 241,
+        "width": 67,
+        "height": 22
+    },
+    "rhombus_03_1.png": {
+        "x": 952,
+        "y": 195,
+        "width": 25,
+        "height": 24
+    },
+    "rhombus_03_1.15.png": {
+        "x": 875,
+        "y": 578,
+        "width": 29,
+        "height": 24
+    },
+    "rhombus_03_1.35.png": {
+        "x": 784,
+        "y": 120,
+        "width": 34,
+        "height": 24
+    },
+    "rhombus_03_1.65.png": {
+        "x": 592,
+        "y": 205,
+        "width": 41,
+        "height": 24
+    },
+    "rhombus_03_1.9.png": {
+        "x": 428,
+        "y": 108,
+        "width": 48,
+        "height": 24
+    },
+    "rhombus_03_2.15.png": {
+        "x": 317,
+        "y": 270,
+        "width": 54,
+        "height": 24
+    },
+    "rhombus_03_2.4.png": {
+        "x": 253,
+        "y": 215,
+        "width": 60,
+        "height": 24
+    },
+    "rhombus_03_2.65.png": {
+        "x": 74,
+        "y": 162,
+        "width": 66,
+        "height": 24
+    },
+    "rhombus_03_2.9.png": {
+        "x": 0,
+        "y": 162,
+        "width": 73,
+        "height": 24
+    },
+    "saudiarabia_01_1.png": {
+        "x": 1095,
+        "y": 115,
+        "width": 17,
+        "height": 17
+    },
+    "saudiarabia_01_1.15.png": {
+        "x": 313,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "saudiarabia_01_1.35.png": {
+        "x": 223,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "saudiarabia_01_1.65.png": {
+        "x": 86,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "saudiarabia_01_1.9.png": {
+        "x": 100,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "saudiarabia_01_2.15.png": {
+        "x": 914,
+        "y": 615,
+        "width": 37,
+        "height": 17
+    },
+    "saudiarabia_01_2.4.png": {
+        "x": 168,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "saudiarabia_01_2.65.png": {
+        "x": 828,
+        "y": 595,
+        "width": 45,
+        "height": 17
+    },
+    "saudiarabia_01_2.9.png": {
+        "x": 388,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "saudiarabia_02_1.png": {
+        "x": 1095,
+        "y": 133,
+        "width": 17,
+        "height": 17
+    },
+    "saudiarabia_02_1.15.png": {
+        "x": 334,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "saudiarabia_02_1.35.png": {
+        "x": 247,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "saudiarabia_02_1.65.png": {
+        "x": 115,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "saudiarabia_02_1.9.png": {
+        "x": 133,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "saudiarabia_02_2.15.png": {
+        "x": 914,
+        "y": 633,
+        "width": 37,
+        "height": 17
+    },
+    "saudiarabia_02_2.4.png": {
+        "x": 210,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "saudiarabia_02_2.65.png": {
+        "x": 828,
+        "y": 613,
+        "width": 45,
+        "height": 17
+    },
+    "saudiarabia_02_2.9.png": {
+        "x": 438,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "saudiarabia_03_1.png": {
+        "x": 1095,
+        "y": 151,
+        "width": 17,
+        "height": 17
+    },
+    "saudiarabia_03_1.15.png": {
+        "x": 355,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "saudiarabia_03_1.35.png": {
+        "x": 271,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "saudiarabia_03_1.65.png": {
+        "x": 144,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "saudiarabia_03_1.9.png": {
+        "x": 166,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "saudiarabia_03_2.15.png": {
+        "x": 914,
+        "y": 651,
+        "width": 37,
+        "height": 17
+    },
+    "saudiarabia_03_2.4.png": {
+        "x": 252,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "saudiarabia_03_2.65.png": {
+        "x": 828,
+        "y": 631,
+        "width": 45,
+        "height": 17
+    },
+    "saudiarabia_03_2.9.png": {
+        "x": 488,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "simpleshield_a_01_1.png": {
+        "x": 806,
+        "y": 1029,
+        "width": 19,
+        "height": 15
+    },
+    "simpleshield_a_01_1.15.png": {
+        "x": 626,
+        "y": 1029,
+        "width": 22,
+        "height": 15
+    },
+    "simpleshield_a_01_1.35.png": {
+        "x": 373,
+        "y": 993,
+        "width": 26,
+        "height": 15
+    },
+    "simpleshield_a_01_1.65.png": {
+        "x": 96,
+        "y": 993,
+        "width": 31,
+        "height": 15
+    },
+    "simpleshield_a_01_1.9.png": {
+        "x": 468,
+        "y": 939,
+        "width": 36,
+        "height": 15
+    },
+    "simpleshield_a_01_2.15.png": {
+        "x": 340,
+        "y": 904,
+        "width": 41,
+        "height": 15
+    },
+    "simpleshield_a_01_2.4.png": {
+        "x": 694,
+        "y": 717,
+        "width": 46,
+        "height": 15
+    },
+    "simpleshield_a_01_2.65.png": {
+        "x": 199,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "simpleshield_a_01_2.9.png": {
+        "x": 582,
+        "y": 717,
+        "width": 55,
+        "height": 15
+    },
+    "simpleshield_a_02_1.png": {
+        "x": 826,
+        "y": 1029,
+        "width": 19,
+        "height": 15
+    },
+    "simpleshield_a_02_1.15.png": {
+        "x": 649,
+        "y": 1029,
+        "width": 22,
+        "height": 15
+    },
+    "simpleshield_a_02_1.35.png": {
+        "x": 400,
+        "y": 993,
+        "width": 26,
+        "height": 15
+    },
+    "simpleshield_a_02_1.65.png": {
+        "x": 128,
+        "y": 993,
+        "width": 31,
+        "height": 15
+    },
+    "simpleshield_a_02_1.9.png": {
+        "x": 505,
+        "y": 939,
+        "width": 36,
+        "height": 15
+    },
+    "simpleshield_a_02_2.15.png": {
+        "x": 382,
+        "y": 904,
+        "width": 41,
+        "height": 15
+    },
+    "simpleshield_a_02_2.4.png": {
+        "x": 756,
+        "y": 868,
+        "width": 46,
+        "height": 15
+    },
+    "simpleshield_a_02_2.65.png": {
+        "x": 250,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "simpleshield_a_02_2.9.png": {
+        "x": 638,
+        "y": 717,
+        "width": 55,
+        "height": 15
+    },
+    "simpleshield_a_03_1.png": {
+        "x": 846,
+        "y": 1029,
+        "width": 19,
+        "height": 15
+    },
+    "simpleshield_a_03_1.15.png": {
+        "x": 672,
+        "y": 1029,
+        "width": 22,
+        "height": 15
+    },
+    "simpleshield_a_03_1.35.png": {
+        "x": 427,
+        "y": 993,
+        "width": 26,
+        "height": 15
+    },
+    "simpleshield_a_03_1.65.png": {
+        "x": 160,
+        "y": 993,
+        "width": 31,
+        "height": 15
+    },
+    "simpleshield_a_03_1.9.png": {
+        "x": 542,
+        "y": 939,
+        "width": 36,
+        "height": 15
+    },
+    "simpleshield_a_03_2.15.png": {
+        "x": 424,
+        "y": 904,
+        "width": 41,
+        "height": 15
+    },
+    "simpleshield_a_03_2.4.png": {
+        "x": 803,
+        "y": 868,
+        "width": 46,
+        "height": 15
+    },
+    "simpleshield_a_03_2.65.png": {
+        "x": 301,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "simpleshield_a_03_2.9.png": {
+        "x": 129,
+        "y": 739,
+        "width": 55,
+        "height": 15
+    },
+    "simpleshield_a_04_1.png": {
+        "x": 866,
+        "y": 1029,
+        "width": 19,
+        "height": 15
+    },
+    "simpleshield_a_04_1.15.png": {
+        "x": 695,
+        "y": 1029,
+        "width": 22,
+        "height": 15
+    },
+    "simpleshield_a_04_1.35.png": {
+        "x": 454,
+        "y": 993,
+        "width": 26,
+        "height": 15
+    },
+    "simpleshield_a_04_1.65.png": {
+        "x": 192,
+        "y": 993,
+        "width": 31,
+        "height": 15
+    },
+    "simpleshield_a_04_1.9.png": {
+        "x": 579,
+        "y": 939,
+        "width": 36,
+        "height": 15
+    },
+    "simpleshield_a_04_2.15.png": {
+        "x": 466,
+        "y": 904,
+        "width": 41,
+        "height": 15
+    },
+    "simpleshield_a_04_2.4.png": {
+        "x": 850,
+        "y": 868,
+        "width": 46,
+        "height": 15
+    },
+    "simpleshield_a_04_2.65.png": {
+        "x": 352,
+        "y": 815,
+        "width": 50,
+        "height": 15
+    },
+    "simpleshield_a_04_2.9.png": {
+        "x": 185,
+        "y": 739,
+        "width": 55,
+        "height": 15
+    },
+    "simpleshield_b_01_1.png": {
+        "x": 1095,
+        "y": 276,
+        "width": 17,
+        "height": 16
+    },
+    "simpleshield_b_01_1.15.png": {
+        "x": 1001,
+        "y": 1046,
+        "width": 20,
+        "height": 16
+    },
+    "simpleshield_b_01_1.35.png": {
+        "x": 405,
+        "y": 1029,
+        "width": 23,
+        "height": 16
+    },
+    "simpleshield_b_01_1.65.png": {
+        "x": 870,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "simpleshield_b_01_1.9.png": {
+        "x": 719,
+        "y": 956,
+        "width": 32,
+        "height": 16
+    },
+    "simpleshield_b_01_2.15.png": {
+        "x": 875,
+        "y": 851,
+        "width": 37,
+        "height": 16
+    },
+    "simpleshield_b_01_2.4.png": {
+        "x": 0,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_b_01_2.65.png": {
+        "x": 647,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "simpleshield_b_01_2.9.png": {
+        "x": 0,
+        "y": 798,
+        "width": 49,
+        "height": 16
+    },
+    "simpleshield_b_02_1.png": {
+        "x": 1095,
+        "y": 293,
+        "width": 17,
+        "height": 16
+    },
+    "simpleshield_b_02_1.15.png": {
+        "x": 1022,
+        "y": 1046,
+        "width": 20,
+        "height": 16
+    },
+    "simpleshield_b_02_1.35.png": {
+        "x": 429,
+        "y": 1029,
+        "width": 23,
+        "height": 16
+    },
+    "simpleshield_b_02_1.65.png": {
+        "x": 899,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "simpleshield_b_02_1.9.png": {
+        "x": 752,
+        "y": 956,
+        "width": 32,
+        "height": 16
+    },
+    "simpleshield_b_02_2.15.png": {
+        "x": 651,
+        "y": 639,
+        "width": 37,
+        "height": 16
+    },
+    "simpleshield_b_02_2.4.png": {
+        "x": 42,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_b_02_2.65.png": {
+        "x": 693,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "simpleshield_b_02_2.9.png": {
+        "x": 50,
+        "y": 798,
+        "width": 49,
+        "height": 16
+    },
+    "simpleshield_b_03_1.png": {
+        "x": 1095,
+        "y": 310,
+        "width": 17,
+        "height": 16
+    },
+    "simpleshield_b_03_1.15.png": {
+        "x": 1043,
+        "y": 1046,
+        "width": 20,
+        "height": 16
+    },
+    "simpleshield_b_03_1.35.png": {
+        "x": 453,
+        "y": 1029,
+        "width": 23,
+        "height": 16
+    },
+    "simpleshield_b_03_1.65.png": {
+        "x": 928,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "simpleshield_b_03_1.9.png": {
+        "x": 785,
+        "y": 956,
+        "width": 32,
+        "height": 16
+    },
+    "simpleshield_b_03_2.15.png": {
+        "x": 732,
+        "y": 921,
+        "width": 37,
+        "height": 16
+    },
+    "simpleshield_b_03_2.4.png": {
+        "x": 84,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_b_03_2.65.png": {
+        "x": 739,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "simpleshield_b_03_2.9.png": {
+        "x": 100,
+        "y": 798,
+        "width": 49,
+        "height": 16
+    },
+    "simpleshield_c_01_1.png": {
+        "x": 1095,
+        "y": 327,
+        "width": 17,
+        "height": 16
+    },
+    "simpleshield_c_01_1.15.png": {
+        "x": 683,
+        "y": 1064,
+        "width": 20,
+        "height": 16
+    },
+    "simpleshield_c_01_1.35.png": {
+        "x": 477,
+        "y": 1029,
+        "width": 23,
+        "height": 16
+    },
+    "simpleshield_c_01_1.65.png": {
+        "x": 957,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "simpleshield_c_01_1.9.png": {
+        "x": 818,
+        "y": 956,
+        "width": 32,
+        "height": 16
+    },
+    "simpleshield_c_01_2.15.png": {
+        "x": 770,
+        "y": 921,
+        "width": 37,
+        "height": 16
+    },
+    "simpleshield_c_01_2.4.png": {
+        "x": 126,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_c_01_2.65.png": {
+        "x": 785,
+        "y": 833,
+        "width": 45,
+        "height": 16
+    },
+    "simpleshield_c_01_2.9.png": {
+        "x": 150,
+        "y": 798,
+        "width": 49,
+        "height": 16
+    },
+    "simpleshield_d_01_1.png": {
+        "x": 724,
+        "y": 1064,
+        "width": 19,
+        "height": 16
+    },
+    "simpleshield_d_01_1.15.png": {
+        "x": 670,
+        "y": 1046,
+        "width": 22,
+        "height": 16
+    },
+    "simpleshield_d_01_1.35.png": {
+        "x": 1018,
+        "y": 925,
+        "width": 26,
+        "height": 16
+    },
+    "simpleshield_d_01_1.65.png": {
+        "x": 32,
+        "y": 993,
+        "width": 31,
+        "height": 16
+    },
+    "simpleshield_d_01_1.9.png": {
+        "x": 952,
+        "y": 681,
+        "width": 36,
+        "height": 16
+    },
+    "simpleshield_d_01_2.15.png": {
+        "x": 168,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_d_01_2.4.png": {
+        "x": 47,
+        "y": 833,
+        "width": 46,
+        "height": 16
+    },
+    "simpleshield_d_01_2.65.png": {
+        "x": 551,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "simpleshield_d_01_2.9.png": {
+        "x": 392,
+        "y": 660,
+        "width": 55,
+        "height": 16
+    },
+    "simpleshield_d_02_1.png": {
+        "x": 744,
+        "y": 1064,
+        "width": 19,
+        "height": 16
+    },
+    "simpleshield_d_02_1.15.png": {
+        "x": 693,
+        "y": 1046,
+        "width": 22,
+        "height": 16
+    },
+    "simpleshield_d_02_1.35.png": {
+        "x": 1018,
+        "y": 942,
+        "width": 26,
+        "height": 16
+    },
+    "simpleshield_d_02_1.65.png": {
+        "x": 64,
+        "y": 993,
+        "width": 31,
+        "height": 16
+    },
+    "simpleshield_d_02_1.9.png": {
+        "x": 952,
+        "y": 698,
+        "width": 36,
+        "height": 16
+    },
+    "simpleshield_d_02_2.15.png": {
+        "x": 210,
+        "y": 904,
+        "width": 41,
+        "height": 16
+    },
+    "simpleshield_d_02_2.4.png": {
+        "x": 94,
+        "y": 833,
+        "width": 46,
+        "height": 16
+    },
+    "simpleshield_d_02_2.65.png": {
+        "x": 602,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "simpleshield_d_02_2.9.png": {
+        "x": 448,
+        "y": 660,
+        "width": 55,
+        "height": 16
+    },
+    "simpleshield_e_01_1.png": {
+        "x": 1073,
+        "y": 797,
+        "width": 21,
+        "height": 17
+    },
+    "simpleshield_e_01_1.15.png": {
+        "x": 0,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "simpleshield_e_01_1.35.png": {
+        "x": 173,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "simpleshield_e_01_1.65.png": {
+        "x": 952,
+        "y": 220,
+        "width": 35,
+        "height": 17
+    },
+    "simpleshield_e_01_1.9.png": {
+        "x": 0,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "simpleshield_e_01_2.15.png": {
+        "x": 828,
+        "y": 649,
+        "width": 45,
+        "height": 17
+    },
+    "simpleshield_e_01_2.4.png": {
+        "x": 208,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "simpleshield_e_01_2.65.png": {
+        "x": 592,
+        "y": 384,
+        "width": 56,
+        "height": 17
+    },
+    "simpleshield_e_01_2.9.png": {
+        "x": 364,
+        "y": 370,
+        "width": 61,
+        "height": 17
+    },
+    "simpleshield_e_02_1.png": {
+        "x": 1073,
+        "y": 815,
+        "width": 21,
+        "height": 17
+    },
+    "simpleshield_e_02_1.15.png": {
+        "x": 25,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "simpleshield_e_02_1.35.png": {
+        "x": 202,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "simpleshield_e_02_1.65.png": {
+        "x": 952,
+        "y": 238,
+        "width": 35,
+        "height": 17
+    },
+    "simpleshield_e_02_1.9.png": {
+        "x": 41,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "simpleshield_e_02_2.15.png": {
+        "x": 828,
+        "y": 667,
+        "width": 45,
+        "height": 17
+    },
+    "simpleshield_e_02_2.4.png": {
+        "x": 259,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "simpleshield_e_02_2.65.png": {
+        "x": 592,
+        "y": 402,
+        "width": 56,
+        "height": 17
+    },
+    "simpleshield_e_02_2.9.png": {
+        "x": 530,
+        "y": 0,
+        "width": 61,
+        "height": 17
+    },
+    "simpleshield_f_01_1.png": {
+        "x": 1073,
+        "y": 928,
+        "width": 19,
+        "height": 18
+    },
+    "simpleshield_f_01_1.15.png": {
+        "x": 23,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "simpleshield_f_01_1.35.png": {
+        "x": 1018,
+        "y": 439,
+        "width": 26,
+        "height": 18
+    },
+    "simpleshield_f_01_1.65.png": {
+        "x": 32,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "simpleshield_f_01_1.9.png": {
+        "x": 914,
+        "y": 206,
+        "width": 36,
+        "height": 18
+    },
+    "simpleshield_f_01_2.15.png": {
+        "x": 742,
+        "y": 410,
+        "width": 41,
+        "height": 18
+    },
+    "simpleshield_f_01_2.4.png": {
+        "x": 47,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "simpleshield_f_01_2.65.png": {
+        "x": 691,
+        "y": 0,
+        "width": 50,
+        "height": 18
+    },
+    "simpleshield_f_01_2.9.png": {
+        "x": 158,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "simpleshield_f_02_1.png": {
+        "x": 1073,
+        "y": 947,
+        "width": 19,
+        "height": 18
+    },
+    "simpleshield_f_02_1.15.png": {
+        "x": 46,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "simpleshield_f_02_1.35.png": {
+        "x": 1018,
+        "y": 458,
+        "width": 26,
+        "height": 18
+    },
+    "simpleshield_f_02_1.65.png": {
+        "x": 64,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "simpleshield_f_02_1.9.png": {
+        "x": 914,
+        "y": 225,
+        "width": 36,
+        "height": 18
+    },
+    "simpleshield_f_02_2.15.png": {
+        "x": 742,
+        "y": 429,
+        "width": 41,
+        "height": 18
+    },
+    "simpleshield_f_02_2.4.png": {
+        "x": 94,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "simpleshield_f_02_2.65.png": {
+        "x": 691,
+        "y": 19,
+        "width": 50,
+        "height": 18
+    },
+    "simpleshield_f_02_2.9.png": {
+        "x": 214,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "simpleshield_g_01_1.png": {
+        "x": 563,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "simpleshield_g_01_1.15.png": {
+        "x": 509,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "simpleshield_g_01_1.35.png": {
+        "x": 1045,
+        "y": 213,
+        "width": 26,
+        "height": 17
+    },
+    "simpleshield_g_01_1.65.png": {
+        "x": 494,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "simpleshield_g_01_1.9.png": {
+        "x": 654,
+        "y": 612,
+        "width": 36,
+        "height": 17
+    },
+    "simpleshield_g_01_2.15.png": {
+        "x": 294,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "simpleshield_g_01_2.4.png": {
+        "x": 828,
+        "y": 36,
+        "width": 46,
+        "height": 17
+    },
+    "simpleshield_g_01_2.65.png": {
+        "x": 310,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "simpleshield_g_01_2.9.png": {
+        "x": 469,
+        "y": 576,
+        "width": 55,
+        "height": 17
+    },
+    "southkorea_01_1.png": {
+        "x": 50,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "southkorea_01_1.15.png": {
+        "x": 231,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "southkorea_01_1.35.png": {
+        "x": 199,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "southkorea_01_1.65.png": {
+        "x": 82,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "southkorea_01_1.9.png": {
+        "x": 828,
+        "y": 54,
+        "width": 46,
+        "height": 17
+    },
+    "southkorea_01_2.15.png": {
+        "x": 0,
+        "y": 679,
+        "width": 52,
+        "height": 17
+    },
+    "southkorea_01_2.4.png": {
+        "x": 171,
+        "y": 534,
+        "width": 58,
+        "height": 17
+    },
+    "southkorea_01_2.65.png": {
+        "x": 204,
+        "y": 348,
+        "width": 64,
+        "height": 17
+    },
+    "southkorea_01_2.9.png": {
+        "x": 62,
+        "y": 348,
+        "width": 70,
+        "height": 17
+    },
+    "southkorea_02_1.png": {
+        "x": 75,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "southkorea_02_1.15.png": {
+        "x": 260,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "southkorea_02_1.35.png": {
+        "x": 232,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "southkorea_02_1.65.png": {
+        "x": 123,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "southkorea_02_1.9.png": {
+        "x": 828,
+        "y": 72,
+        "width": 46,
+        "height": 17
+    },
+    "southkorea_02_2.15.png": {
+        "x": 53,
+        "y": 679,
+        "width": 52,
+        "height": 17
+    },
+    "southkorea_02_2.4.png": {
+        "x": 230,
+        "y": 534,
+        "width": 58,
+        "height": 17
+    },
+    "southkorea_02_2.65.png": {
+        "x": 269,
+        "y": 348,
+        "width": 64,
+        "height": 17
+    },
+    "southkorea_02_2.9.png": {
+        "x": 133,
+        "y": 348,
+        "width": 70,
+        "height": 17
+    },
+    "square_01_1.png": {
+        "x": 1095,
+        "y": 169,
+        "width": 17,
+        "height": 17
+    },
+    "square_01_1.15.png": {
+        "x": 376,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "square_01_1.35.png": {
+        "x": 295,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "square_01_1.65.png": {
+        "x": 289,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "square_01_1.9.png": {
+        "x": 265,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "square_01_2.15.png": {
+        "x": 914,
+        "y": 669,
+        "width": 37,
+        "height": 17
+    },
+    "square_01_2.4.png": {
+        "x": 336,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "square_01_2.65.png": {
+        "x": 828,
+        "y": 685,
+        "width": 45,
+        "height": 17
+    },
+    "square_01_2.9.png": {
+        "x": 538,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "square_02_1.png": {
+        "x": 1095,
+        "y": 187,
+        "width": 17,
+        "height": 17
+    },
+    "square_02_1.15.png": {
+        "x": 397,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "square_02_1.35.png": {
+        "x": 319,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "square_02_1.65.png": {
+        "x": 318,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "square_02_1.9.png": {
+        "x": 298,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "square_02_2.15.png": {
+        "x": 914,
+        "y": 687,
+        "width": 37,
+        "height": 17
+    },
+    "square_02_2.4.png": {
+        "x": 378,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "square_02_2.65.png": {
+        "x": 828,
+        "y": 703,
+        "width": 45,
+        "height": 17
+    },
+    "square_02_2.9.png": {
+        "x": 588,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "square_03_1.png": {
+        "x": 1095,
+        "y": 205,
+        "width": 17,
+        "height": 17
+    },
+    "square_03_1.15.png": {
+        "x": 418,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "square_03_1.35.png": {
+        "x": 343,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "square_03_1.65.png": {
+        "x": 347,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "square_03_1.9.png": {
+        "x": 331,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "square_03_2.15.png": {
+        "x": 914,
+        "y": 705,
+        "width": 37,
+        "height": 17
+    },
+    "square_03_2.4.png": {
+        "x": 420,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "square_03_2.65.png": {
+        "x": 828,
+        "y": 721,
+        "width": 45,
+        "height": 17
+    },
+    "square_03_2.9.png": {
+        "x": 638,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "square_04_1.png": {
+        "x": 1095,
+        "y": 223,
+        "width": 17,
+        "height": 17
+    },
+    "square_04_1.15.png": {
+        "x": 439,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "square_04_1.35.png": {
+        "x": 367,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "square_04_1.65.png": {
+        "x": 376,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "square_04_1.9.png": {
+        "x": 364,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "square_04_2.15.png": {
+        "x": 914,
+        "y": 723,
+        "width": 37,
+        "height": 17
+    },
+    "square_04_2.4.png": {
+        "x": 462,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "square_04_2.65.png": {
+        "x": 828,
+        "y": 739,
+        "width": 45,
+        "height": 17
+    },
+    "square_04_2.9.png": {
+        "x": 688,
+        "y": 697,
+        "width": 49,
+        "height": 17
+    },
+    "square_05_1.png": {
+        "x": 1095,
+        "y": 241,
+        "width": 17,
+        "height": 17
+    },
+    "square_05_1.15.png": {
+        "x": 460,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "square_05_1.35.png": {
+        "x": 391,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "square_05_1.65.png": {
+        "x": 405,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "square_05_1.9.png": {
+        "x": 397,
+        "y": 956,
+        "width": 32,
+        "height": 17
+    },
+    "square_05_2.15.png": {
+        "x": 914,
+        "y": 741,
+        "width": 37,
+        "height": 17
+    },
+    "square_05_2.4.png": {
+        "x": 504,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "square_05_2.65.png": {
+        "x": 828,
+        "y": 757,
+        "width": 45,
+        "height": 17
+    },
+    "square_05_2.9.png": {
+        "x": 532,
+        "y": 717,
+        "width": 49,
+        "height": 17
+    },
+    "taiwan_01_1.png": {
+        "x": 1073,
+        "y": 190,
+        "width": 20,
+        "height": 19
+    },
+    "taiwan_01_1.15.png": {
+        "x": 1045,
+        "y": 710,
+        "width": 23,
+        "height": 19
+    },
+    "taiwan_01_1.35.png": {
+        "x": 989,
+        "y": 541,
+        "width": 27,
+        "height": 19
+    },
+    "taiwan_01_1.65.png": {
+        "x": 914,
+        "y": 858,
+        "width": 33,
+        "height": 19
+    },
+    "taiwan_01_1.9.png": {
+        "x": 875,
+        "y": 20,
+        "width": 38,
+        "height": 19
+    },
+    "taiwan_01_2.15.png": {
+        "x": 784,
+        "y": 80,
+        "width": 43,
+        "height": 19
+    },
+    "taiwan_01_2.4.png": {
+        "x": 442,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "taiwan_01_2.65.png": {
+        "x": 530,
+        "y": 410,
+        "width": 53,
+        "height": 19
+    },
+    "taiwan_01_2.9.png": {
+        "x": 428,
+        "y": 377,
+        "width": 58,
+        "height": 19
+    },
+    "thailand_01_1.png": {
+        "x": 1095,
+        "y": 0,
+        "width": 17,
+        "height": 19
+    },
+    "thailand_01_1.15.png": {
+        "x": 1073,
+        "y": 210,
+        "width": 20,
+        "height": 19
+    },
+    "thailand_01_1.35.png": {
+        "x": 1045,
+        "y": 730,
+        "width": 23,
+        "height": 19
+    },
+    "thailand_01_1.65.png": {
+        "x": 989,
+        "y": 229,
+        "width": 28,
+        "height": 19
+    },
+    "thailand_01_1.9.png": {
+        "x": 952,
+        "y": 72,
+        "width": 32,
+        "height": 19
+    },
+    "thailand_01_2.15.png": {
+        "x": 875,
+        "y": 234,
+        "width": 37,
+        "height": 19
+    },
+    "thailand_01_2.4.png": {
+        "x": 828,
+        "y": 280,
+        "width": 41,
+        "height": 19
+    },
+    "thailand_01_2.65.png": {
+        "x": 302,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "thailand_01_2.9.png": {
+        "x": 96,
+        "y": 618,
+        "width": 49,
+        "height": 19
+    },
+    "thailand_02_1.png": {
+        "x": 1095,
+        "y": 20,
+        "width": 17,
+        "height": 19
+    },
+    "thailand_02_1.15.png": {
+        "x": 1073,
+        "y": 230,
+        "width": 20,
+        "height": 19
+    },
+    "thailand_02_1.35.png": {
+        "x": 1045,
+        "y": 750,
+        "width": 23,
+        "height": 19
+    },
+    "thailand_02_1.65.png": {
+        "x": 989,
+        "y": 249,
+        "width": 28,
+        "height": 19
+    },
+    "thailand_02_1.9.png": {
+        "x": 952,
+        "y": 92,
+        "width": 32,
+        "height": 19
+    },
+    "thailand_02_2.15.png": {
+        "x": 875,
+        "y": 254,
+        "width": 37,
+        "height": 19
+    },
+    "thailand_02_2.4.png": {
+        "x": 828,
+        "y": 300,
+        "width": 41,
+        "height": 19
+    },
+    "thailand_02_2.65.png": {
+        "x": 348,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "thailand_02_2.9.png": {
+        "x": 146,
+        "y": 618,
+        "width": 49,
+        "height": 19
+    },
+    "thailand_03_1.png": {
+        "x": 1095,
+        "y": 40,
+        "width": 17,
+        "height": 19
+    },
+    "thailand_03_1.15.png": {
+        "x": 1073,
+        "y": 250,
+        "width": 20,
+        "height": 19
+    },
+    "thailand_03_1.35.png": {
+        "x": 1045,
+        "y": 770,
+        "width": 23,
+        "height": 19
+    },
+    "thailand_03_1.65.png": {
+        "x": 989,
+        "y": 269,
+        "width": 28,
+        "height": 19
+    },
+    "thailand_03_1.9.png": {
+        "x": 952,
+        "y": 112,
+        "width": 32,
+        "height": 19
+    },
+    "thailand_03_2.15.png": {
+        "x": 875,
+        "y": 274,
+        "width": 37,
+        "height": 19
+    },
+    "thailand_03_2.4.png": {
+        "x": 828,
+        "y": 320,
+        "width": 41,
+        "height": 19
+    },
+    "thailand_03_2.65.png": {
+        "x": 394,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "thailand_03_2.9.png": {
+        "x": 196,
+        "y": 618,
+        "width": 49,
+        "height": 19
+    },
+    "trapeze_01_1.png": {
+        "x": 914,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "trapeze_01_1.15.png": {
+        "x": 330,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "trapeze_01_1.35.png": {
+        "x": 986,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "trapeze_01_1.65.png": {
+        "x": 360,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "trapeze_01_1.9.png": {
+        "x": 609,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "trapeze_01_2.15.png": {
+        "x": 132,
+        "y": 850,
+        "width": 45,
+        "height": 16
+    },
+    "trapeze_01_2.4.png": {
+        "x": 653,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "trapeze_01_2.65.png": {
+        "x": 165,
+        "y": 660,
+        "width": 56,
+        "height": 16
+    },
+    "trapeze_01_2.9.png": {
+        "x": 592,
+        "y": 85,
+        "width": 61,
+        "height": 16
+    },
+    "trapeze_02_1.png": {
+        "x": 936,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "trapeze_02_1.15.png": {
+        "x": 355,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "trapeze_02_1.35.png": {
+        "x": 1015,
+        "y": 1010,
+        "width": 28,
+        "height": 16
+    },
+    "trapeze_02_1.65.png": {
+        "x": 396,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "trapeze_02_1.9.png": {
+        "x": 650,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "trapeze_02_2.15.png": {
+        "x": 178,
+        "y": 850,
+        "width": 45,
+        "height": 16
+    },
+    "trapeze_02_2.4.png": {
+        "x": 704,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "trapeze_02_2.65.png": {
+        "x": 222,
+        "y": 660,
+        "width": 56,
+        "height": 16
+    },
+    "trapeze_02_2.9.png": {
+        "x": 592,
+        "y": 102,
+        "width": 61,
+        "height": 16
+    },
+    "u_a_emirates_a_01_1.png": {
+        "x": 1018,
+        "y": 394,
+        "width": 19,
+        "height": 25
+    },
+    "u_a_emirates_a_01_1.15.png": {
+        "x": 989,
+        "y": 21,
+        "width": 22,
+        "height": 25
+    },
+    "u_a_emirates_a_01_1.35.png": {
+        "x": 914,
+        "y": 458,
+        "width": 26,
+        "height": 25
+    },
+    "u_a_emirates_a_01_1.65.png": {
+        "x": 828,
+        "y": 507,
+        "width": 31,
+        "height": 25
+    },
+    "u_a_emirates_a_01_1.9.png": {
+        "x": 691,
+        "y": 437,
+        "width": 36,
+        "height": 25
+    },
+    "u_a_emirates_a_01_2.15.png": {
+        "x": 530,
+        "y": 262,
+        "width": 41,
+        "height": 25
+    },
+    "u_a_emirates_a_01_2.4.png": {
+        "x": 428,
+        "y": 181,
+        "width": 46,
+        "height": 25
+    },
+    "u_a_emirates_a_01_2.65.png": {
+        "x": 372,
+        "y": 48,
+        "width": 50,
+        "height": 25
+    },
+    "u_a_emirates_a_01_2.9.png": {
+        "x": 0,
+        "y": 295,
+        "width": 55,
+        "height": 25
+    },
+    "u_a_emirates_b_01_1.png": {
+        "x": 1073,
+        "y": 487,
+        "width": 17,
+        "height": 22
+    },
+    "u_a_emirates_b_01_1.15.png": {
+        "x": 1045,
+        "y": 479,
+        "width": 20,
+        "height": 22
+    },
+    "u_a_emirates_b_01_1.35.png": {
+        "x": 989,
+        "y": 742,
+        "width": 23,
+        "height": 22
+    },
+    "u_a_emirates_b_01_1.65.png": {
+        "x": 654,
+        "y": 530,
+        "width": 28,
+        "height": 22
+    },
+    "u_a_emirates_b_01_1.9.png": {
+        "x": 875,
+        "y": 409,
+        "width": 32,
+        "height": 22
+    },
+    "u_a_emirates_b_01_2.15.png": {
+        "x": 784,
+        "y": 260,
+        "width": 37,
+        "height": 22
+    },
+    "u_a_emirates_b_01_2.4.png": {
+        "x": 691,
+        "y": 326,
+        "width": 41,
+        "height": 22
+    },
+    "u_a_emirates_b_01_2.65.png": {
+        "x": 230,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "u_a_emirates_b_01_2.9.png": {
+        "x": 395,
+        "y": 440,
+        "width": 49,
+        "height": 22
+    },
+    "u_a_emirates_b_02_1.png": {
+        "x": 1073,
+        "y": 510,
+        "width": 17,
+        "height": 22
+    },
+    "u_a_emirates_b_02_1.15.png": {
+        "x": 1045,
+        "y": 502,
+        "width": 20,
+        "height": 22
+    },
+    "u_a_emirates_b_02_1.35.png": {
+        "x": 989,
+        "y": 765,
+        "width": 23,
+        "height": 22
+    },
+    "u_a_emirates_b_02_1.65.png": {
+        "x": 654,
+        "y": 553,
+        "width": 28,
+        "height": 22
+    },
+    "u_a_emirates_b_02_1.9.png": {
+        "x": 875,
+        "y": 432,
+        "width": 32,
+        "height": 22
+    },
+    "u_a_emirates_b_02_2.15.png": {
+        "x": 784,
+        "y": 283,
+        "width": 37,
+        "height": 22
+    },
+    "u_a_emirates_b_02_2.4.png": {
+        "x": 691,
+        "y": 349,
+        "width": 41,
+        "height": 22
+    },
+    "u_a_emirates_b_02_2.65.png": {
+        "x": 276,
+        "y": 553,
+        "width": 45,
+        "height": 22
+    },
+    "u_a_emirates_b_02_2.9.png": {
+        "x": 0,
+        "y": 466,
+        "width": 49,
+        "height": 22
+    },
+    "u_a_emirates_c_01_1.png": {
+        "x": 952,
+        "y": 734,
+        "width": 23,
+        "height": 25
+    },
+    "u_a_emirates_c_01_1.15.png": {
+        "x": 914,
+        "y": 484,
+        "width": 26,
+        "height": 25
+    },
+    "u_a_emirates_c_01_1.35.png": {
+        "x": 828,
+        "y": 533,
+        "width": 31,
+        "height": 25
+    },
+    "u_a_emirates_c_01_1.65.png": {
+        "x": 487,
+        "y": 189,
+        "width": 38,
+        "height": 25
+    },
+    "u_a_emirates_c_01_1.9.png": {
+        "x": 0,
+        "y": 440,
+        "width": 44,
+        "height": 25
+    },
+    "u_a_emirates_c_01_2.15.png": {
+        "x": 372,
+        "y": 155,
+        "width": 49,
+        "height": 25
+    },
+    "u_a_emirates_c_01_2.4.png": {
+        "x": 56,
+        "y": 295,
+        "width": 55,
+        "height": 25
+    },
+    "u_a_emirates_c_01_2.65.png": {
+        "x": 253,
+        "y": 189,
+        "width": 61,
+        "height": 25
+    },
+    "u_a_emirates_c_01_2.9.png": {
+        "x": 132,
+        "y": 214,
+        "width": 67,
+        "height": 25
+    },
+    "u_a_emirates_d_01_1.png": {
+        "x": 1045,
+        "y": 790,
+        "width": 19,
+        "height": 23
+    },
+    "u_a_emirates_d_01_1.15.png": {
+        "x": 989,
+        "y": 788,
+        "width": 22,
+        "height": 23
+    },
+    "u_a_emirates_d_01_1.35.png": {
+        "x": 952,
+        "y": 256,
+        "width": 26,
+        "height": 23
+    },
+    "u_a_emirates_d_01_1.65.png": {
+        "x": 875,
+        "y": 186,
+        "width": 31,
+        "height": 23
+    },
+    "u_a_emirates_d_01_1.9.png": {
+        "x": 742,
+        "y": 165,
+        "width": 36,
+        "height": 23
+    },
+    "u_a_emirates_d_01_2.15.png": {
+        "x": 487,
+        "y": 263,
+        "width": 41,
+        "height": 23
+    },
+    "u_a_emirates_d_01_2.4.png": {
+        "x": 0,
+        "y": 489,
+        "width": 46,
+        "height": 23
+    },
+    "u_a_emirates_d_01_2.65.png": {
+        "x": 428,
+        "y": 133,
+        "width": 50,
+        "height": 23
+    },
+    "u_a_emirates_d_01_2.9.png": {
+        "x": 372,
+        "y": 0,
+        "width": 55,
+        "height": 23
+    },
+    "usa_a_AK_01_1.png": {
+        "x": 1073,
+        "y": 966,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_AK_01_1.15.png": {
+        "x": 69,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_AK_01_1.35.png": {
+        "x": 1018,
+        "y": 477,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_AK_01_1.65.png": {
+        "x": 96,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_AK_01_1.9.png": {
+        "x": 914,
+        "y": 244,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_AK_01_2.15.png": {
+        "x": 742,
+        "y": 448,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_AK_01_2.4.png": {
+        "x": 141,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_AK_01_2.65.png": {
+        "x": 691,
+        "y": 38,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_AK_01_2.9.png": {
+        "x": 270,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "usa_a_IL_01_1.png": {
+        "x": 1073,
+        "y": 985,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_IL_01_1.15.png": {
+        "x": 92,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_IL_01_1.35.png": {
+        "x": 1018,
+        "y": 496,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_IL_01_1.65.png": {
+        "x": 128,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_IL_01_1.9.png": {
+        "x": 914,
+        "y": 263,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_IL_01_2.15.png": {
+        "x": 742,
+        "y": 467,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_IL_01_2.4.png": {
+        "x": 188,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_IL_01_2.65.png": {
+        "x": 691,
+        "y": 57,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_IL_01_2.9.png": {
+        "x": 326,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "usa_a_IN_01_1.png": {
+        "x": 1073,
+        "y": 1004,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_IN_01_1.15.png": {
+        "x": 115,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_IN_01_1.35.png": {
+        "x": 1018,
+        "y": 515,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_IN_01_1.65.png": {
+        "x": 160,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_IN_01_1.9.png": {
+        "x": 914,
+        "y": 282,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_IN_01_2.15.png": {
+        "x": 742,
+        "y": 486,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_IN_01_2.4.png": {
+        "x": 235,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_IN_01_2.65.png": {
+        "x": 691,
+        "y": 76,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_IN_01_2.9.png": {
+        "x": 382,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "usa_a_MT_01_1.png": {
+        "x": 1073,
+        "y": 1023,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_MT_01_1.15.png": {
+        "x": 138,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_MT_01_1.35.png": {
+        "x": 1018,
+        "y": 534,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_MT_01_1.65.png": {
+        "x": 192,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_MT_01_1.9.png": {
+        "x": 914,
+        "y": 301,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_MT_01_2.15.png": {
+        "x": 742,
+        "y": 505,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_MT_01_2.4.png": {
+        "x": 282,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_MT_01_2.65.png": {
+        "x": 691,
+        "y": 95,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_MT_01_2.9.png": {
+        "x": 438,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "usa_a_RI_01_1.png": {
+        "x": 1073,
+        "y": 1042,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_RI_01_1.15.png": {
+        "x": 161,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_RI_01_1.35.png": {
+        "x": 1018,
+        "y": 553,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_RI_01_1.65.png": {
+        "x": 224,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_RI_01_1.9.png": {
+        "x": 914,
+        "y": 320,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_RI_01_2.15.png": {
+        "x": 742,
+        "y": 524,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_RI_01_2.4.png": {
+        "x": 329,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_RI_01_2.65.png": {
+        "x": 691,
+        "y": 114,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_RI_01_2.9.png": {
+        "x": 494,
+        "y": 513,
+        "width": 55,
+        "height": 18
+    },
+    "usa_a_WY_01_1.png": {
+        "x": 407,
+        "y": 392,
+        "width": 19,
+        "height": 18
+    },
+    "usa_a_WY_01_1.15.png": {
+        "x": 184,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_a_WY_01_1.35.png": {
+        "x": 1018,
+        "y": 572,
+        "width": 26,
+        "height": 18
+    },
+    "usa_a_WY_01_1.65.png": {
+        "x": 256,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_a_WY_01_1.9.png": {
+        "x": 914,
+        "y": 339,
+        "width": 36,
+        "height": 18
+    },
+    "usa_a_WY_01_2.15.png": {
+        "x": 742,
+        "y": 543,
+        "width": 41,
+        "height": 18
+    },
+    "usa_a_WY_01_2.4.png": {
+        "x": 376,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_a_WY_01_2.65.png": {
+        "x": 691,
+        "y": 133,
+        "width": 50,
+        "height": 18
+    },
+    "usa_a_WY_01_2.9.png": {
+        "x": 0,
+        "y": 534,
+        "width": 55,
+        "height": 18
+    },
+    "usa_b_HI_01_1.png": {
+        "x": 1073,
+        "y": 833,
+        "width": 21,
+        "height": 17
+    },
+    "usa_b_HI_01_1.15.png": {
+        "x": 100,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "usa_b_HI_01_1.35.png": {
+        "x": 434,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "usa_b_HI_01_1.65.png": {
+        "x": 952,
+        "y": 280,
+        "width": 35,
+        "height": 17
+    },
+    "usa_b_HI_01_1.9.png": {
+        "x": 164,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "usa_b_HI_01_2.15.png": {
+        "x": 828,
+        "y": 775,
+        "width": 45,
+        "height": 17
+    },
+    "usa_b_HI_01_2.4.png": {
+        "x": 361,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_b_HI_01_2.65.png": {
+        "x": 592,
+        "y": 420,
+        "width": 56,
+        "height": 17
+    },
+    "usa_b_HI_01_2.9.png": {
+        "x": 530,
+        "y": 18,
+        "width": 61,
+        "height": 17
+    },
+    "usa_b_OR_01_1.png": {
+        "x": 1073,
+        "y": 851,
+        "width": 21,
+        "height": 17
+    },
+    "usa_b_OR_01_1.15.png": {
+        "x": 125,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "usa_b_OR_01_1.35.png": {
+        "x": 463,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "usa_b_OR_01_1.65.png": {
+        "x": 952,
+        "y": 298,
+        "width": 35,
+        "height": 17
+    },
+    "usa_b_OR_01_1.9.png": {
+        "x": 205,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "usa_b_OR_01_2.15.png": {
+        "x": 828,
+        "y": 793,
+        "width": 45,
+        "height": 17
+    },
+    "usa_b_OR_01_2.4.png": {
+        "x": 412,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_b_OR_01_2.65.png": {
+        "x": 592,
+        "y": 438,
+        "width": 56,
+        "height": 17
+    },
+    "usa_b_OR_01_2.9.png": {
+        "x": 530,
+        "y": 36,
+        "width": 61,
+        "height": 17
+    },
+    "usa_c_AL_01_1.png": {
+        "x": 230,
+        "y": 1064,
+        "width": 19,
+        "height": 18
+    },
+    "usa_c_AL_01_1.15.png": {
+        "x": 207,
+        "y": 1064,
+        "width": 22,
+        "height": 18
+    },
+    "usa_c_AL_01_1.35.png": {
+        "x": 1018,
+        "y": 591,
+        "width": 26,
+        "height": 18
+    },
+    "usa_c_AL_01_1.65.png": {
+        "x": 288,
+        "y": 974,
+        "width": 31,
+        "height": 18
+    },
+    "usa_c_AL_01_1.9.png": {
+        "x": 914,
+        "y": 358,
+        "width": 36,
+        "height": 18
+    },
+    "usa_c_AL_01_2.15.png": {
+        "x": 742,
+        "y": 562,
+        "width": 41,
+        "height": 18
+    },
+    "usa_c_AL_01_2.4.png": {
+        "x": 423,
+        "y": 760,
+        "width": 46,
+        "height": 18
+    },
+    "usa_c_AL_01_2.65.png": {
+        "x": 691,
+        "y": 152,
+        "width": 50,
+        "height": 18
+    },
+    "usa_c_AL_01_2.9.png": {
+        "x": 56,
+        "y": 534,
+        "width": 55,
+        "height": 18
+    },
+    "usa_c_MO_01_1.png": {
+        "x": 583,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "usa_c_MO_01_1.15.png": {
+        "x": 532,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "usa_c_MO_01_1.35.png": {
+        "x": 1045,
+        "y": 231,
+        "width": 26,
+        "height": 17
+    },
+    "usa_c_MO_01_1.65.png": {
+        "x": 526,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "usa_c_MO_01_1.9.png": {
+        "x": 334,
+        "y": 348,
+        "width": 36,
+        "height": 17
+    },
+    "usa_c_MO_01_2.15.png": {
+        "x": 546,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "usa_c_MO_01_2.4.png": {
+        "x": 828,
+        "y": 90,
+        "width": 46,
+        "height": 17
+    },
+    "usa_c_MO_01_2.65.png": {
+        "x": 463,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_c_MO_01_2.9.png": {
+        "x": 525,
+        "y": 576,
+        "width": 55,
+        "height": 17
+    },
+    "usa_c_SC_01_1.png": {
+        "x": 603,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "usa_c_SC_01_1.15.png": {
+        "x": 555,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "usa_c_SC_01_1.35.png": {
+        "x": 1045,
+        "y": 249,
+        "width": 26,
+        "height": 17
+    },
+    "usa_c_SC_01_1.65.png": {
+        "x": 558,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "usa_c_SC_01_1.9.png": {
+        "x": 952,
+        "y": 0,
+        "width": 36,
+        "height": 17
+    },
+    "usa_c_SC_01_2.15.png": {
+        "x": 588,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "usa_c_SC_01_2.4.png": {
+        "x": 828,
+        "y": 108,
+        "width": 46,
+        "height": 17
+    },
+    "usa_c_SC_01_2.65.png": {
+        "x": 514,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_c_SC_01_2.9.png": {
+        "x": 581,
+        "y": 576,
+        "width": 55,
+        "height": 17
+    },
+    "usa_c_SD_01_1.png": {
+        "x": 623,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "usa_c_SD_01_1.15.png": {
+        "x": 578,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "usa_c_SD_01_1.35.png": {
+        "x": 1045,
+        "y": 267,
+        "width": 26,
+        "height": 17
+    },
+    "usa_c_SD_01_1.65.png": {
+        "x": 590,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "usa_c_SD_01_1.9.png": {
+        "x": 952,
+        "y": 18,
+        "width": 36,
+        "height": 17
+    },
+    "usa_c_SD_01_2.15.png": {
+        "x": 630,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "usa_c_SD_01_2.4.png": {
+        "x": 828,
+        "y": 126,
+        "width": 46,
+        "height": 17
+    },
+    "usa_c_SD_01_2.65.png": {
+        "x": 565,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_c_SD_01_2.9.png": {
+        "x": 278,
+        "y": 596,
+        "width": 55,
+        "height": 17
+    },
+    "usa_CO_01_1.png": {
+        "x": 1073,
+        "y": 270,
+        "width": 19,
+        "height": 20
+    },
+    "usa_CO_01_1.15.png": {
+        "x": 1045,
+        "y": 525,
+        "width": 22,
+        "height": 20
+    },
+    "usa_CO_01_1.35.png": {
+        "x": 989,
+        "y": 398,
+        "width": 26,
+        "height": 20
+    },
+    "usa_CO_01_1.65.png": {
+        "x": 654,
+        "y": 352,
+        "width": 31,
+        "height": 20
+    },
+    "usa_CO_01_1.9.png": {
+        "x": 875,
+        "y": 81,
+        "width": 36,
+        "height": 20
+    },
+    "usa_CO_01_2.15.png": {
+        "x": 742,
+        "y": 234,
+        "width": 41,
+        "height": 20
+    },
+    "usa_CO_01_2.4.png": {
+        "x": 0,
+        "y": 639,
+        "width": 46,
+        "height": 20
+    },
+    "usa_CO_01_2.65.png": {
+        "x": 530,
+        "y": 450,
+        "width": 50,
+        "height": 20
+    },
+    "usa_CO_01_2.9.png": {
+        "x": 56,
+        "y": 419,
+        "width": 55,
+        "height": 20
+    },
+    "usa_d_KS_01_1.png": {
+        "x": 1073,
+        "y": 633,
+        "width": 19,
+        "height": 19
+    },
+    "usa_d_KS_01_1.15.png": {
+        "x": 1018,
+        "y": 825,
+        "width": 22,
+        "height": 19
+    },
+    "usa_d_KS_01_1.35.png": {
+        "x": 1018,
+        "y": 181,
+        "width": 26,
+        "height": 19
+    },
+    "usa_d_KS_01_1.65.png": {
+        "x": 952,
+        "y": 477,
+        "width": 31,
+        "height": 19
+    },
+    "usa_d_KS_01_1.9.png": {
+        "x": 875,
+        "y": 722,
+        "width": 36,
+        "height": 19
+    },
+    "usa_d_KS_01_2.15.png": {
+        "x": 828,
+        "y": 340,
+        "width": 41,
+        "height": 19
+    },
+    "usa_d_KS_01_2.4.png": {
+        "x": 47,
+        "y": 697,
+        "width": 46,
+        "height": 19
+    },
+    "usa_d_KS_01_2.65.png": {
+        "x": 102,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "usa_d_KS_01_2.9.png": {
+        "x": 354,
+        "y": 489,
+        "width": 55,
+        "height": 19
+    },
+    "usa_d_NM_01_1.png": {
+        "x": 1045,
+        "y": 321,
+        "width": 21,
+        "height": 21
+    },
+    "usa_d_NM_01_1.15.png": {
+        "x": 989,
+        "y": 874,
+        "width": 24,
+        "height": 21
+    },
+    "usa_d_NM_01_1.35.png": {
+        "x": 952,
+        "y": 603,
+        "width": 28,
+        "height": 21
+    },
+    "usa_d_NM_01_1.65.png": {
+        "x": 742,
+        "y": 629,
+        "width": 35,
+        "height": 21
+    },
+    "usa_d_NM_01_1.9.png": {
+        "x": 742,
+        "y": 97,
+        "width": 40,
+        "height": 21
+    },
+    "usa_d_NM_01_2.15.png": {
+        "x": 138,
+        "y": 596,
+        "width": 45,
+        "height": 21
+    },
+    "usa_d_NM_01_2.4.png": {
+        "x": 196,
+        "y": 489,
+        "width": 50,
+        "height": 21
+    },
+    "usa_d_NM_01_2.65.png": {
+        "x": 0,
+        "y": 370,
+        "width": 56,
+        "height": 21
+    },
+    "usa_d_NM_01_2.9.png": {
+        "x": 0,
+        "y": 348,
+        "width": 61,
+        "height": 21
+    },
+    "usa_d_WI_01_1.png": {
+        "x": 1073,
+        "y": 653,
+        "width": 19,
+        "height": 19
+    },
+    "usa_d_WI_01_1.15.png": {
+        "x": 1018,
+        "y": 845,
+        "width": 22,
+        "height": 19
+    },
+    "usa_d_WI_01_1.35.png": {
+        "x": 1018,
+        "y": 201,
+        "width": 26,
+        "height": 19
+    },
+    "usa_d_WI_01_1.65.png": {
+        "x": 952,
+        "y": 497,
+        "width": 31,
+        "height": 19
+    },
+    "usa_d_WI_01_1.9.png": {
+        "x": 875,
+        "y": 742,
+        "width": 36,
+        "height": 19
+    },
+    "usa_d_WI_01_2.15.png": {
+        "x": 828,
+        "y": 360,
+        "width": 41,
+        "height": 19
+    },
+    "usa_d_WI_01_2.4.png": {
+        "x": 94,
+        "y": 697,
+        "width": 46,
+        "height": 19
+    },
+    "usa_d_WI_01_2.65.png": {
+        "x": 153,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "usa_d_WI_01_2.9.png": {
+        "x": 410,
+        "y": 489,
+        "width": 55,
+        "height": 19
+    },
+    "usa_DC_01_1.png": {
+        "x": 1045,
+        "y": 814,
+        "width": 19,
+        "height": 23
+    },
+    "usa_DC_01_1.15.png": {
+        "x": 989,
+        "y": 812,
+        "width": 22,
+        "height": 23
+    },
+    "usa_DC_01_1.35.png": {
+        "x": 952,
+        "y": 316,
+        "width": 26,
+        "height": 23
+    },
+    "usa_DC_01_1.65.png": {
+        "x": 875,
+        "y": 210,
+        "width": 31,
+        "height": 23
+    },
+    "usa_DC_01_1.9.png": {
+        "x": 742,
+        "y": 189,
+        "width": 36,
+        "height": 23
+    },
+    "usa_DC_01_2.15.png": {
+        "x": 487,
+        "y": 287,
+        "width": 41,
+        "height": 23
+    },
+    "usa_DC_01_2.4.png": {
+        "x": 47,
+        "y": 489,
+        "width": 46,
+        "height": 23
+    },
+    "usa_DC_01_2.65.png": {
+        "x": 428,
+        "y": 157,
+        "width": 50,
+        "height": 23
+    },
+    "usa_DC_01_2.9.png": {
+        "x": 372,
+        "y": 24,
+        "width": 55,
+        "height": 23
+    },
+    "usa_e_CA_01_1.png": {
+        "x": 1045,
+        "y": 943,
+        "width": 21,
+        "height": 20
+    },
+    "usa_e_CA_01_1.15.png": {
+        "x": 1018,
+        "y": 352,
+        "width": 24,
+        "height": 20
+    },
+    "usa_e_CA_01_1.35.png": {
+        "x": 148,
+        "y": 135,
+        "width": 28,
+        "height": 20
+    },
+    "usa_e_CA_01_1.65.png": {
+        "x": 875,
+        "y": 536,
+        "width": 35,
+        "height": 20
+    },
+    "usa_e_CA_01_1.9.png": {
+        "x": 784,
+        "y": 495,
+        "width": 40,
+        "height": 20
+    },
+    "usa_e_CA_01_2.15.png": {
+        "x": 691,
+        "y": 372,
+        "width": 45,
+        "height": 20
+    },
+    "usa_e_CA_01_2.4.png": {
+        "x": 530,
+        "y": 471,
+        "width": 50,
+        "height": 20
+    },
+    "usa_e_CA_01_2.65.png": {
+        "x": 428,
+        "y": 255,
+        "width": 56,
+        "height": 20
+    },
+    "usa_e_CA_01_2.9.png": {
+        "x": 229,
+        "y": 321,
+        "width": 61,
+        "height": 20
+    },
+    "usa_e_TN_01_1.png": {
+        "x": 1073,
+        "y": 0,
+        "width": 21,
+        "height": 19
+    },
+    "usa_e_TN_01_1.15.png": {
+        "x": 1045,
+        "y": 137,
+        "width": 24,
+        "height": 19
+    },
+    "usa_e_TN_01_1.35.png": {
+        "x": 989,
+        "y": 289,
+        "width": 28,
+        "height": 19
+    },
+    "usa_e_TN_01_1.65.png": {
+        "x": 914,
+        "y": 39,
+        "width": 35,
+        "height": 19
+    },
+    "usa_e_TN_01_1.9.png": {
+        "x": 784,
+        "y": 580,
+        "width": 40,
+        "height": 19
+    },
+    "usa_e_TN_01_2.15.png": {
+        "x": 440,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "usa_e_TN_01_2.4.png": {
+        "x": 204,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "usa_e_TN_01_2.65.png": {
+        "x": 281,
+        "y": 419,
+        "width": 56,
+        "height": 19
+    },
+    "usa_e_TN_01_2.9.png": {
+        "x": 119,
+        "y": 370,
+        "width": 61,
+        "height": 19
+    },
+    "usa_f_LA_01_1.png": {
+        "x": 1073,
+        "y": 673,
+        "width": 19,
+        "height": 19
+    },
+    "usa_f_LA_01_1.15.png": {
+        "x": 1018,
+        "y": 865,
+        "width": 22,
+        "height": 19
+    },
+    "usa_f_LA_01_1.35.png": {
+        "x": 1018,
+        "y": 221,
+        "width": 26,
+        "height": 19
+    },
+    "usa_f_LA_01_1.65.png": {
+        "x": 952,
+        "y": 517,
+        "width": 31,
+        "height": 19
+    },
+    "usa_f_LA_01_1.9.png": {
+        "x": 875,
+        "y": 762,
+        "width": 36,
+        "height": 19
+    },
+    "usa_f_LA_01_2.15.png": {
+        "x": 828,
+        "y": 380,
+        "width": 41,
+        "height": 19
+    },
+    "usa_f_LA_01_2.4.png": {
+        "x": 141,
+        "y": 697,
+        "width": 46,
+        "height": 19
+    },
+    "usa_f_LA_01_2.65.png": {
+        "x": 255,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "usa_f_LA_01_2.9.png": {
+        "x": 466,
+        "y": 489,
+        "width": 55,
+        "height": 19
+    },
+    "usa_f_ND_01_1.png": {
+        "x": 1073,
+        "y": 353,
+        "width": 21,
+        "height": 18
+    },
+    "usa_f_ND_01_1.15.png": {
+        "x": 1045,
+        "y": 858,
+        "width": 24,
+        "height": 18
+    },
+    "usa_f_ND_01_1.35.png": {
+        "x": 989,
+        "y": 855,
+        "width": 28,
+        "height": 18
+    },
+    "usa_f_ND_01_1.65.png": {
+        "x": 914,
+        "y": 759,
+        "width": 35,
+        "height": 18
+    },
+    "usa_f_ND_01_1.9.png": {
+        "x": 550,
+        "y": 513,
+        "width": 40,
+        "height": 18
+    },
+    "usa_f_ND_01_2.15.png": {
+        "x": 46,
+        "y": 779,
+        "width": 45,
+        "height": 18
+    },
+    "usa_f_ND_01_2.4.png": {
+        "x": 691,
+        "y": 171,
+        "width": 50,
+        "height": 18
+    },
+    "usa_f_ND_01_2.65.png": {
+        "x": 530,
+        "y": 288,
+        "width": 56,
+        "height": 18
+    },
+    "usa_f_ND_01_2.9.png": {
+        "x": 243,
+        "y": 370,
+        "width": 61,
+        "height": 18
+    },
+    "usa_f_NV_01_1.png": {
+        "x": 1073,
+        "y": 20,
+        "width": 19,
+        "height": 21
+    },
+    "usa_f_NV_01_1.15.png": {
+        "x": 1018,
+        "y": 654,
+        "width": 22,
+        "height": 21
+    },
+    "usa_f_NV_01_1.35.png": {
+        "x": 989,
+        "y": 145,
+        "width": 26,
+        "height": 21
+    },
+    "usa_f_NV_01_1.65.png": {
+        "x": 914,
+        "y": 165,
+        "width": 31,
+        "height": 21
+    },
+    "usa_f_NV_01_1.9.png": {
+        "x": 784,
+        "y": 727,
+        "width": 36,
+        "height": 21
+    },
+    "usa_f_NV_01_2.15.png": {
+        "x": 126,
+        "y": 717,
+        "width": 41,
+        "height": 21
+    },
+    "usa_f_NV_01_2.4.png": {
+        "x": 592,
+        "y": 320,
+        "width": 46,
+        "height": 21
+    },
+    "usa_f_NV_01_2.65.png": {
+        "x": 247,
+        "y": 489,
+        "width": 50,
+        "height": 21
+    },
+    "usa_f_NV_01_2.9.png": {
+        "x": 428,
+        "y": 86,
+        "width": 55,
+        "height": 21
+    },
+    "usa_FL_01_1.png": {
+        "x": 1045,
+        "y": 546,
+        "width": 22,
+        "height": 20
+    },
+    "usa_FL_01_1.15.png": {
+        "x": 989,
+        "y": 917,
+        "width": 25,
+        "height": 20
+    },
+    "usa_FL_01_1.35.png": {
+        "x": 952,
+        "y": 153,
+        "width": 30,
+        "height": 20
+    },
+    "usa_FL_01_1.65.png": {
+        "x": 875,
+        "y": 102,
+        "width": 36,
+        "height": 20
+    },
+    "usa_FL_01_1.9.png": {
+        "x": 43,
+        "y": 739,
+        "width": 42,
+        "height": 20
+    },
+    "usa_FL_01_2.15.png": {
+        "x": 0,
+        "y": 618,
+        "width": 47,
+        "height": 20
+    },
+    "usa_FL_01_2.4.png": {
+        "x": 104,
+        "y": 466,
+        "width": 53,
+        "height": 20
+    },
+    "usa_FL_01_2.65.png": {
+        "x": 289,
+        "y": 392,
+        "width": 58,
+        "height": 20
+    },
+    "usa_FL_01_2.9.png": {
+        "x": 301,
+        "y": 295,
+        "width": 64,
+        "height": 20
+    },
+    "usa_g_OH_01_1.png": {
+        "x": 481,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "usa_g_OH_01_1.15.png": {
+        "x": 415,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "usa_g_OH_01_1.35.png": {
+        "x": 1045,
+        "y": 39,
+        "width": 27,
+        "height": 17
+    },
+    "usa_g_OH_01_1.65.png": {
+        "x": 282,
+        "y": 268,
+        "width": 33,
+        "height": 17
+    },
+    "usa_g_OH_01_1.9.png": {
+        "x": 39,
+        "y": 921,
+        "width": 38,
+        "height": 17
+    },
+    "usa_g_OH_01_2.15.png": {
+        "x": 44,
+        "y": 850,
+        "width": 43,
+        "height": 17
+    },
+    "usa_g_OH_01_2.4.png": {
+        "x": 519,
+        "y": 760,
+        "width": 48,
+        "height": 17
+    },
+    "usa_g_OH_01_2.65.png": {
+        "x": 594,
+        "y": 618,
+        "width": 53,
+        "height": 17
+    },
+    "usa_g_OH_01_2.9.png": {
+        "x": 289,
+        "y": 534,
+        "width": 58,
+        "height": 17
+    },
+    "usa_g_PA_01_1.png": {
+        "x": 502,
+        "y": 1064,
+        "width": 20,
+        "height": 17
+    },
+    "usa_g_PA_01_1.15.png": {
+        "x": 439,
+        "y": 1046,
+        "width": 23,
+        "height": 17
+    },
+    "usa_g_PA_01_1.35.png": {
+        "x": 1045,
+        "y": 57,
+        "width": 27,
+        "height": 17
+    },
+    "usa_g_PA_01_1.65.png": {
+        "x": 0,
+        "y": 956,
+        "width": 33,
+        "height": 17
+    },
+    "usa_g_PA_01_1.9.png": {
+        "x": 78,
+        "y": 921,
+        "width": 38,
+        "height": 17
+    },
+    "usa_g_PA_01_2.15.png": {
+        "x": 88,
+        "y": 850,
+        "width": 43,
+        "height": 17
+    },
+    "usa_g_PA_01_2.4.png": {
+        "x": 568,
+        "y": 760,
+        "width": 48,
+        "height": 17
+    },
+    "usa_g_PA_01_2.65.png": {
+        "x": 141,
+        "y": 639,
+        "width": 53,
+        "height": 17
+    },
+    "usa_g_PA_01_2.9.png": {
+        "x": 348,
+        "y": 534,
+        "width": 58,
+        "height": 17
+    },
+    "usa_h_NY_01_1.png": {
+        "x": 1073,
+        "y": 712,
+        "width": 20,
+        "height": 18
+    },
+    "usa_h_NY_01_1.15.png": {
+        "x": 1018,
+        "y": 978,
+        "width": 23,
+        "height": 18
+    },
+    "usa_h_NY_01_1.35.png": {
+        "x": 0,
+        "y": 1010,
+        "width": 27,
+        "height": 18
+    },
+    "usa_h_NY_01_1.65.png": {
+        "x": 952,
+        "y": 358,
+        "width": 33,
+        "height": 18
+    },
+    "usa_h_NY_01_1.9.png": {
+        "x": 875,
+        "y": 603,
+        "width": 38,
+        "height": 18
+    },
+    "usa_h_NY_01_2.15.png": {
+        "x": 828,
+        "y": 466,
+        "width": 43,
+        "height": 18
+    },
+    "usa_h_NY_01_2.4.png": {
+        "x": 188,
+        "y": 697,
+        "width": 48,
+        "height": 18
+    },
+    "usa_h_NY_01_2.65.png": {
+        "x": 592,
+        "y": 456,
+        "width": 53,
+        "height": 18
+    },
+    "usa_h_NY_01_2.9.png": {
+        "x": 305,
+        "y": 370,
+        "width": 58,
+        "height": 18
+    },
+    "usa_h_UT_01_1.png": {
+        "x": 571,
+        "y": 72,
+        "width": 20,
+        "height": 20
+    },
+    "usa_h_UT_01_1.15.png": {
+        "x": 1045,
+        "y": 75,
+        "width": 23,
+        "height": 20
+    },
+    "usa_h_UT_01_1.35.png": {
+        "x": 989,
+        "y": 167,
+        "width": 27,
+        "height": 20
+    },
+    "usa_h_UT_01_1.65.png": {
+        "x": 914,
+        "y": 79,
+        "width": 33,
+        "height": 20
+    },
+    "usa_h_UT_01_1.9.png": {
+        "x": 784,
+        "y": 641,
+        "width": 38,
+        "height": 20
+    },
+    "usa_h_UT_01_2.15.png": {
+        "x": 168,
+        "y": 717,
+        "width": 43,
+        "height": 20
+    },
+    "usa_h_UT_01_2.4.png": {
+        "x": 592,
+        "y": 342,
+        "width": 48,
+        "height": 20
+    },
+    "usa_h_UT_01_2.65.png": {
+        "x": 158,
+        "y": 466,
+        "width": 53,
+        "height": 20
+    },
+    "usa_h_UT_01_2.9.png": {
+        "x": 348,
+        "y": 392,
+        "width": 58,
+        "height": 20
+    },
+    "usa_i_AR_01_1.png": {
+        "x": 1073,
+        "y": 869,
+        "width": 21,
+        "height": 17
+    },
+    "usa_i_AR_01_1.15.png": {
+        "x": 150,
+        "y": 1046,
+        "width": 24,
+        "height": 17
+    },
+    "usa_i_AR_01_1.35.png": {
+        "x": 492,
+        "y": 1010,
+        "width": 28,
+        "height": 17
+    },
+    "usa_i_AR_01_1.65.png": {
+        "x": 952,
+        "y": 340,
+        "width": 35,
+        "height": 17
+    },
+    "usa_i_AR_01_1.9.png": {
+        "x": 246,
+        "y": 886,
+        "width": 40,
+        "height": 17
+    },
+    "usa_i_AR_01_2.15.png": {
+        "x": 0,
+        "y": 815,
+        "width": 45,
+        "height": 17
+    },
+    "usa_i_AR_01_2.4.png": {
+        "x": 616,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_i_AR_01_2.65.png": {
+        "x": 592,
+        "y": 475,
+        "width": 56,
+        "height": 17
+    },
+    "usa_i_AR_01_2.9.png": {
+        "x": 530,
+        "y": 54,
+        "width": 61,
+        "height": 17
+    },
+    "usa_i_AZ_01_1.png": {
+        "x": 643,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "usa_i_AZ_01_1.15.png": {
+        "x": 601,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "usa_i_AZ_01_1.35.png": {
+        "x": 1045,
+        "y": 285,
+        "width": 26,
+        "height": 17
+    },
+    "usa_i_AZ_01_1.65.png": {
+        "x": 622,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "usa_i_AZ_01_1.9.png": {
+        "x": 952,
+        "y": 36,
+        "width": 36,
+        "height": 17
+    },
+    "usa_i_AZ_01_2.15.png": {
+        "x": 672,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "usa_i_AZ_01_2.4.png": {
+        "x": 828,
+        "y": 144,
+        "width": 46,
+        "height": 17
+    },
+    "usa_i_AZ_01_2.65.png": {
+        "x": 667,
+        "y": 679,
+        "width": 50,
+        "height": 17
+    },
+    "usa_i_AZ_01_2.9.png": {
+        "x": 334,
+        "y": 596,
+        "width": 55,
+        "height": 17
+    },
+    "usa_i_GA_01_1.png": {
+        "x": 663,
+        "y": 1064,
+        "width": 19,
+        "height": 17
+    },
+    "usa_i_GA_01_1.15.png": {
+        "x": 624,
+        "y": 1046,
+        "width": 22,
+        "height": 17
+    },
+    "usa_i_GA_01_1.35.png": {
+        "x": 1045,
+        "y": 303,
+        "width": 26,
+        "height": 17
+    },
+    "usa_i_GA_01_1.65.png": {
+        "x": 654,
+        "y": 956,
+        "width": 31,
+        "height": 17
+    },
+    "usa_i_GA_01_1.9.png": {
+        "x": 952,
+        "y": 54,
+        "width": 36,
+        "height": 17
+    },
+    "usa_i_GA_01_2.15.png": {
+        "x": 714,
+        "y": 868,
+        "width": 41,
+        "height": 17
+    },
+    "usa_i_GA_01_2.4.png": {
+        "x": 828,
+        "y": 162,
+        "width": 46,
+        "height": 17
+    },
+    "usa_i_GA_01_2.65.png": {
+        "x": 237,
+        "y": 697,
+        "width": 50,
+        "height": 17
+    },
+    "usa_i_GA_01_2.9.png": {
+        "x": 390,
+        "y": 596,
+        "width": 55,
+        "height": 17
+    },
+    "usa_ID_01_1.png": {
+        "x": 1018,
+        "y": 885,
+        "width": 19,
+        "height": 22
+    },
+    "usa_ID_01_1.15.png": {
+        "x": 1018,
+        "y": 241,
+        "width": 22,
+        "height": 22
+    },
+    "usa_ID_01_1.35.png": {
+        "x": 952,
+        "y": 887,
+        "width": 26,
+        "height": 22
+    },
+    "usa_ID_01_1.65.png": {
+        "x": 875,
+        "y": 828,
+        "width": 31,
+        "height": 22
+    },
+    "usa_ID_01_1.9.png": {
+        "x": 784,
+        "y": 537,
+        "width": 36,
+        "height": 22
+    },
+    "usa_ID_01_2.15.png": {
+        "x": 691,
+        "y": 393,
+        "width": 41,
+        "height": 22
+    },
+    "usa_ID_01_2.4.png": {
+        "x": 530,
+        "y": 307,
+        "width": 46,
+        "height": 22
+    },
+    "usa_ID_01_2.65.png": {
+        "x": 200,
+        "y": 214,
+        "width": 50,
+        "height": 22
+    },
+    "usa_ID_01_2.9.png": {
+        "x": 372,
+        "y": 227,
+        "width": 55,
+        "height": 22
+    },
+    "usa_MD_01_1.png": {
+        "x": 1073,
+        "y": 291,
+        "width": 19,
+        "height": 20
+    },
+    "usa_MD_01_1.15.png": {
+        "x": 1045,
+        "y": 567,
+        "width": 22,
+        "height": 20
+    },
+    "usa_MD_01_1.35.png": {
+        "x": 989,
+        "y": 419,
+        "width": 26,
+        "height": 20
+    },
+    "usa_MD_01_1.65.png": {
+        "x": 654,
+        "y": 373,
+        "width": 31,
+        "height": 20
+    },
+    "usa_MD_01_1.9.png": {
+        "x": 875,
+        "y": 123,
+        "width": 36,
+        "height": 20
+    },
+    "usa_MD_01_2.15.png": {
+        "x": 742,
+        "y": 255,
+        "width": 41,
+        "height": 20
+    },
+    "usa_MD_01_2.4.png": {
+        "x": 47,
+        "y": 639,
+        "width": 46,
+        "height": 20
+    },
+    "usa_MD_01_2.65.png": {
+        "x": 530,
+        "y": 492,
+        "width": 50,
+        "height": 20
+    },
+    "usa_MD_01_2.9.png": {
+        "x": 112,
+        "y": 419,
+        "width": 55,
+        "height": 20
+    },
+    "usa_MN_01_1.png": {
+        "x": 1073,
+        "y": 312,
+        "width": 19,
+        "height": 20
+    },
+    "usa_MN_01_1.15.png": {
+        "x": 1045,
+        "y": 588,
+        "width": 22,
+        "height": 20
+    },
+    "usa_MN_01_1.35.png": {
+        "x": 989,
+        "y": 440,
+        "width": 26,
+        "height": 20
+    },
+    "usa_MN_01_1.65.png": {
+        "x": 654,
+        "y": 394,
+        "width": 31,
+        "height": 20
+    },
+    "usa_MN_01_1.9.png": {
+        "x": 875,
+        "y": 144,
+        "width": 36,
+        "height": 20
+    },
+    "usa_MN_01_2.15.png": {
+        "x": 742,
+        "y": 276,
+        "width": 41,
+        "height": 20
+    },
+    "usa_MN_01_2.4.png": {
+        "x": 94,
+        "y": 639,
+        "width": 46,
+        "height": 20
+    },
+    "usa_MN_01_2.65.png": {
+        "x": 0,
+        "y": 513,
+        "width": 50,
+        "height": 20
+    },
+    "usa_MN_01_2.9.png": {
+        "x": 168,
+        "y": 419,
+        "width": 55,
+        "height": 20
+    },
+    "usa_NE_01_1.png": {
+        "x": 1045,
+        "y": 609,
+        "width": 22,
+        "height": 20
+    },
+    "usa_NE_01_1.15.png": {
+        "x": 989,
+        "y": 938,
+        "width": 25,
+        "height": 20
+    },
+    "usa_NE_01_1.35.png": {
+        "x": 952,
+        "y": 174,
+        "width": 30,
+        "height": 20
+    },
+    "usa_NE_01_1.65.png": {
+        "x": 875,
+        "y": 165,
+        "width": 36,
+        "height": 20
+    },
+    "usa_NE_01_1.9.png": {
+        "x": 86,
+        "y": 739,
+        "width": 42,
+        "height": 20
+    },
+    "usa_NE_01_2.15.png": {
+        "x": 48,
+        "y": 618,
+        "width": 47,
+        "height": 20
+    },
+    "usa_NE_01_2.4.png": {
+        "x": 212,
+        "y": 466,
+        "width": 53,
+        "height": 20
+    },
+    "usa_NE_01_2.65.png": {
+        "x": 428,
+        "y": 0,
+        "width": 58,
+        "height": 20
+    },
+    "usa_NE_01_2.9.png": {
+        "x": 102,
+        "y": 321,
+        "width": 64,
+        "height": 20
+    },
+    "usa_NH_01_1.png": {
+        "x": 958,
+        "y": 1046,
+        "width": 21,
+        "height": 16
+    },
+    "usa_NH_01_1.15.png": {
+        "x": 380,
+        "y": 1029,
+        "width": 24,
+        "height": 16
+    },
+    "usa_NH_01_1.35.png": {
+        "x": 0,
+        "y": 1029,
+        "width": 28,
+        "height": 16
+    },
+    "usa_NH_01_1.65.png": {
+        "x": 432,
+        "y": 939,
+        "width": 35,
+        "height": 16
+    },
+    "usa_NH_01_1.9.png": {
+        "x": 691,
+        "y": 921,
+        "width": 40,
+        "height": 16
+    },
+    "usa_NH_01_2.15.png": {
+        "x": 224,
+        "y": 850,
+        "width": 45,
+        "height": 16
+    },
+    "usa_NH_01_2.4.png": {
+        "x": 755,
+        "y": 779,
+        "width": 50,
+        "height": 16
+    },
+    "usa_NH_01_2.65.png": {
+        "x": 279,
+        "y": 660,
+        "width": 56,
+        "height": 16
+    },
+    "usa_NH_01_2.9.png": {
+        "x": 592,
+        "y": 119,
+        "width": 61,
+        "height": 16
+    },
+    "usa_OK_01_1.png": {
+        "x": 1073,
+        "y": 42,
+        "width": 21,
+        "height": 19
+    },
+    "usa_OK_01_1.15.png": {
+        "x": 1045,
+        "y": 157,
+        "width": 24,
+        "height": 19
+    },
+    "usa_OK_01_1.35.png": {
+        "x": 989,
+        "y": 309,
+        "width": 28,
+        "height": 19
+    },
+    "usa_OK_01_1.65.png": {
+        "x": 914,
+        "y": 59,
+        "width": 35,
+        "height": 19
+    },
+    "usa_OK_01_1.9.png": {
+        "x": 784,
+        "y": 600,
+        "width": 40,
+        "height": 19
+    },
+    "usa_OK_01_2.15.png": {
+        "x": 486,
+        "y": 717,
+        "width": 45,
+        "height": 19
+    },
+    "usa_OK_01_2.4.png": {
+        "x": 306,
+        "y": 576,
+        "width": 50,
+        "height": 19
+    },
+    "usa_OK_01_2.65.png": {
+        "x": 338,
+        "y": 419,
+        "width": 56,
+        "height": 19
+    },
+    "usa_OK_01_2.9.png": {
+        "x": 181,
+        "y": 370,
+        "width": 61,
+        "height": 19
+    },
+    "usa_TX_01_1.png": {
+        "x": 1073,
+        "y": 333,
+        "width": 20,
+        "height": 19
+    },
+    "usa_TX_01_1.15.png": {
+        "x": 1045,
+        "y": 838,
+        "width": 23,
+        "height": 19
+    },
+    "usa_TX_01_1.35.png": {
+        "x": 989,
+        "y": 561,
+        "width": 27,
+        "height": 19
+    },
+    "usa_TX_01_1.65.png": {
+        "x": 914,
+        "y": 878,
+        "width": 33,
+        "height": 19
+    },
+    "usa_TX_01_1.9.png": {
+        "x": 875,
+        "y": 40,
+        "width": 38,
+        "height": 19
+    },
+    "usa_TX_01_2.15.png": {
+        "x": 784,
+        "y": 100,
+        "width": 43,
+        "height": 19
+    },
+    "usa_TX_01_2.4.png": {
+        "x": 491,
+        "y": 618,
+        "width": 48,
+        "height": 19
+    },
+    "usa_TX_01_2.65.png": {
+        "x": 530,
+        "y": 430,
+        "width": 53,
+        "height": 19
+    },
+    "usa_TX_01_2.9.png": {
+        "x": 428,
+        "y": 397,
+        "width": 58,
+        "height": 19
+    },
+    "usa_VT_01_1.png": {
+        "x": 571,
+        "y": 99,
+        "width": 20,
+        "height": 20
+    },
+    "usa_VT_01_1.15.png": {
+        "x": 1045,
+        "y": 96,
+        "width": 23,
+        "height": 20
+    },
+    "usa_VT_01_1.35.png": {
+        "x": 989,
+        "y": 188,
+        "width": 27,
+        "height": 20
+    },
+    "usa_VT_01_1.65.png": {
+        "x": 914,
+        "y": 100,
+        "width": 33,
+        "height": 20
+    },
+    "usa_VT_01_1.9.png": {
+        "x": 784,
+        "y": 662,
+        "width": 38,
+        "height": 20
+    },
+    "usa_VT_01_2.15.png": {
+        "x": 212,
+        "y": 717,
+        "width": 43,
+        "height": 20
+    },
+    "usa_VT_01_2.4.png": {
+        "x": 592,
+        "y": 363,
+        "width": 48,
+        "height": 20
+    },
+    "usa_VT_01_2.65.png": {
+        "x": 266,
+        "y": 466,
+        "width": 53,
+        "height": 20
+    },
+    "usa_VT_01_2.9.png": {
+        "x": 428,
+        "y": 21,
+        "width": 58,
+        "height": 20
+    },
+    "usa_WA_01_1.png": {
+        "x": 1045,
+        "y": 964,
+        "width": 21,
+        "height": 20
+    },
+    "usa_WA_01_1.15.png": {
+        "x": 1018,
+        "y": 373,
+        "width": 24,
+        "height": 20
+    },
+    "usa_WA_01_1.35.png": {
+        "x": 989,
+        "y": 0,
+        "width": 28,
+        "height": 20
+    },
+    "usa_WA_01_1.65.png": {
+        "x": 875,
+        "y": 557,
+        "width": 35,
+        "height": 20
+    },
+    "usa_WA_01_1.9.png": {
+        "x": 784,
+        "y": 516,
+        "width": 40,
+        "height": 20
+    },
+    "usa_WA_01_2.15.png": {
+        "x": 691,
+        "y": 416,
+        "width": 45,
+        "height": 20
+    },
+    "usa_WA_01_2.4.png": {
+        "x": 51,
+        "y": 513,
+        "width": 50,
+        "height": 20
+    },
+    "usa_WA_01_2.65.png": {
+        "x": 428,
+        "y": 276,
+        "width": 56,
+        "height": 20
+    },
+    "usa_WA_01_2.9.png": {
+        "x": 291,
+        "y": 321,
+        "width": 61,
+        "height": 20
+    },
+    "venezuela_01_1.png": {
+        "x": 1073,
+        "y": 887,
+        "width": 17,
+        "height": 21
+    },
+    "venezuela_01_1.15.png": {
+        "x": 1045,
+        "y": 985,
+        "width": 20,
+        "height": 21
+    },
+    "venezuela_01_1.35.png": {
+        "x": 1018,
+        "y": 330,
+        "width": 23,
+        "height": 21
+    },
+    "venezuela_01_1.65.png": {
+        "x": 952,
+        "y": 625,
+        "width": 28,
+        "height": 21
+    },
+    "venezuela_01_1.9.png": {
+        "x": 654,
+        "y": 255,
+        "width": 32,
+        "height": 21
+    },
+    "venezuela_01_2.15.png": {
+        "x": 828,
+        "y": 485,
+        "width": 37,
+        "height": 21
+    },
+    "venezuela_01_2.4.png": {
+        "x": 742,
+        "y": 0,
+        "width": 41,
+        "height": 21
+    },
+    "venezuela_01_2.65.png": {
+        "x": 184,
+        "y": 596,
+        "width": 45,
+        "height": 21
+    },
+    "venezuela_01_2.9.png": {
+        "x": 530,
+        "y": 240,
+        "width": 49,
+        "height": 21
+    }
+}

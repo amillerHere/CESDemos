@@ -1,0 +1,698 @@
+{
+    "accommodation.svg": {
+        "x": 0,
+        "y": 50,
+        "width": 20,
+        "height": 26
+    },
+    "airport.svg": {
+        "x": 21,
+        "y": 50,
+        "width": 20,
+        "height": 26
+    },
+    "amusement-park.svg": {
+        "x": 42,
+        "y": 50,
+        "width": 20,
+        "height": 26
+    },
+    "aquarium.svg": {
+        "x": 63,
+        "y": 50,
+        "width": 20,
+        "height": 26
+    },
+    "art-gallery.svg": {
+        "x": 98,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "atm.svg": {
+        "x": 98,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "attraction.svg": {
+        "x": 0,
+        "y": 77,
+        "width": 20,
+        "height": 26
+    },
+    "bank.svg": {
+        "x": 21,
+        "y": 77,
+        "width": 20,
+        "height": 26
+    },
+    "beach.svg": {
+        "x": 42,
+        "y": 77,
+        "width": 20,
+        "height": 26
+    },
+    "billboard_intersection-jpn.svg": {
+        "x": 0,
+        "y": 0,
+        "width": 48,
+        "height": 24
+    },
+    "billboard_pt-access-jpn.svg": {
+        "x": 49,
+        "y": 0,
+        "width": 48,
+        "height": 24
+    },
+    "billboard_road-facility-jpn.svg": {
+        "x": 0,
+        "y": 25,
+        "width": 48,
+        "height": 24
+    },
+    "bookstore.svg": {
+        "x": 63,
+        "y": 77,
+        "width": 20,
+        "height": 26
+    },
+    "bowling.svg": {
+        "x": 84,
+        "y": 77,
+        "width": 20,
+        "height": 26
+    },
+    "bus.svg": {
+        "x": 119,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "business.svg": {
+        "x": 119,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "cable-way.svg": {
+        "x": 119,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "camping.svg": {
+        "x": 0,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "car-charging.svg": {
+        "x": 21,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "car-dealership.svg": {
+        "x": 42,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "car-rental.svg": {
+        "x": 63,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "car-repair.svg": {
+        "x": 84,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "car-wash.svg": {
+        "x": 105,
+        "y": 104,
+        "width": 20,
+        "height": 26
+    },
+    "casino.svg": {
+        "x": 140,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "cemetry.svg": {
+        "x": 140,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "cinema.svg": {
+        "x": 140,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "cityhall-jpn.svg": {
+        "x": 140,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "cocktail.svg": {
+        "x": 0,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "coffee.svg": {
+        "x": 21,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "education-higher-jpn.svg": {
+        "x": 42,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "education-school-jpn.svg": {
+        "x": 63,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "education.svg": {
+        "x": 84,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "exhibition-center.svg": {
+        "x": 105,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "facilities_business-services-areas.svg": {
+        "x": 126,
+        "y": 131,
+        "width": 20,
+        "height": 26
+    },
+    "facilities.svg": {
+        "x": 161,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "fast-food.svg": {
+        "x": 161,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "ferry.svg": {
+        "x": 161,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "firedepartment-jpn.svg": {
+        "x": 161,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "first-aid.svg": {
+        "x": 161,
+        "y": 108,
+        "width": 20,
+        "height": 26
+    },
+    "fitness.svg": {
+        "x": 182,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "frontier-crossing.svg": {
+        "x": 182,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "game-arcade.svg": {
+        "x": 182,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "golf-course.svg": {
+        "x": 182,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "harbor.svg": {
+        "x": 182,
+        "y": 108,
+        "width": 20,
+        "height": 26
+    },
+    "hospital-jpn.svg": {
+        "x": 0,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "hospital.svg": {
+        "x": 21,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "hotel.svg": {
+        "x": 42,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "inclined.svg": {
+        "x": 63,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "karaoke.svg": {
+        "x": 84,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "laundry.svg": {
+        "x": 105,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "library.svg": {
+        "x": 126,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "metro.svg": {
+        "x": 147,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "monorail.svg": {
+        "x": 168,
+        "y": 158,
+        "width": 20,
+        "height": 26
+    },
+    "mountain-pass.svg": {
+        "x": 203,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "mountain.svg": {
+        "x": 245,
+        "y": 216,
+        "width": 20,
+        "height": 20
+    },
+    "nature-overlook.svg": {
+        "x": 203,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "nature.svg": {
+        "x": 203,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "night-club.svg": {
+        "x": 203,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "office-prefectural-jpn.svg": {
+        "x": 203,
+        "y": 108,
+        "width": 20,
+        "height": 26
+    },
+    "office-townvillage-jpn.svg": {
+        "x": 203,
+        "y": 135,
+        "width": 20,
+        "height": 26
+    },
+    "office-ward-jpn.svg": {
+        "x": 0,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "park-and-ride.svg": {
+        "x": 21,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "parking-garage.svg": {
+        "x": 42,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "parking.svg": {
+        "x": 63,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "petrol-station.svg": {
+        "x": 84,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "pharmacy.svg": {
+        "x": 105,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "picnic-area.svg": {
+        "x": 126,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "point_accommodation.svg": {
+        "x": 147,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "point_automotive.svg": {
+        "x": 168,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "point_business-services-areas.svg": {
+        "x": 189,
+        "y": 185,
+        "width": 20,
+        "height": 26
+    },
+    "point_eat-drink.svg": {
+        "x": 224,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "point_emergency.svg": {
+        "x": 224,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "point_entertainment.svg": {
+        "x": 224,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "point_facilities.svg": {
+        "x": 224,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "point_generic.svg": {
+        "x": 224,
+        "y": 108,
+        "width": 20,
+        "height": 26
+    },
+    "point_leisure-outdoor.svg": {
+        "x": 224,
+        "y": 135,
+        "width": 20,
+        "height": 26
+    },
+    "point_public-transport.svg": {
+        "x": 224,
+        "y": 162,
+        "width": 20,
+        "height": 26
+    },
+    "point_shopping.svg": {
+        "x": 0,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "point_sights-museum.svg": {
+        "x": 21,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "police-jpn.svg": {
+        "x": 42,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "police.svg": {
+        "x": 63,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "policebox-jpn.svg": {
+        "x": 84,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "pool.svg": {
+        "x": 105,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "post-jpn.svg": {
+        "x": 126,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "post.svg": {
+        "x": 147,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "pub.svg": {
+        "x": 168,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "public-toilet.svg": {
+        "x": 189,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "rail-light.svg": {
+        "x": 210,
+        "y": 212,
+        "width": 20,
+        "height": 26
+    },
+    "rail-regional.svg": {
+        "x": 245,
+        "y": 0,
+        "width": 20,
+        "height": 26
+    },
+    "religious-place.svg": {
+        "x": 245,
+        "y": 27,
+        "width": 20,
+        "height": 26
+    },
+    "religious-shinto-jpn.svg": {
+        "x": 245,
+        "y": 54,
+        "width": 20,
+        "height": 26
+    },
+    "religious-temple-buddhist-jpn.svg": {
+        "x": 245,
+        "y": 81,
+        "width": 20,
+        "height": 26
+    },
+    "restaurant.svg": {
+        "x": 245,
+        "y": 108,
+        "width": 20,
+        "height": 26
+    },
+    "road-facilities-ic-jpn.svg": {
+        "x": 98,
+        "y": 54,
+        "width": 18,
+        "height": 14
+    },
+    "road-facilities-jct-jpn.svg": {
+        "x": 232,
+        "y": 239,
+        "width": 24,
+        "height": 14
+    },
+    "road-facilities-pa-jpn.svg": {
+        "x": 182,
+        "y": 135,
+        "width": 19,
+        "height": 14
+    },
+    "road-facilities-ramp-entry-jpn.svg": {
+        "x": 161,
+        "y": 135,
+        "width": 16,
+        "height": 16
+    },
+    "road-facilities-ramp-exit-jpn.svg": {
+        "x": 140,
+        "y": 108,
+        "width": 16,
+        "height": 16
+    },
+    "road-facilities-sa-jpn.svg": {
+        "x": 224,
+        "y": 189,
+        "width": 20,
+        "height": 14
+    },
+    "road-facilities-smart-ic-jpn.svg": {
+        "x": 49,
+        "y": 25,
+        "width": 48,
+        "height": 14
+    },
+    "road-facilities-smart-ic-new-jpn.svg": {
+        "x": 203,
+        "y": 162,
+        "width": 20,
+        "height": 14
+    },
+    "shinkansen-jpn.svg": {
+        "x": 245,
+        "y": 135,
+        "width": 20,
+        "height": 26
+    },
+    "shopping.svg": {
+        "x": 245,
+        "y": 162,
+        "width": 20,
+        "height": 26
+    },
+    "ski-run.svg": {
+        "x": 245,
+        "y": 189,
+        "width": 20,
+        "height": 26
+    },
+    "stadium.svg": {
+        "x": 0,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "swimming.svg": {
+        "x": 21,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "taxi.svg": {
+        "x": 42,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "theater.svg": {
+        "x": 63,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "toll-booth-jpn.svg": {
+        "x": 119,
+        "y": 81,
+        "width": 16,
+        "height": 16
+    },
+    "toll-booth.svg": {
+        "x": 84,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "tourist-information.svg": {
+        "x": 105,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "traffic-light.svg": {
+        "x": 210,
+        "y": 239,
+        "width": 21,
+        "height": 21
+    },
+    "train.svg": {
+        "x": 126,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "travel-agent-ticketing.svg": {
+        "x": 147,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "waterfall.svg": {
+        "x": 168,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    },
+    "zoo.svg": {
+        "x": 189,
+        "y": 239,
+        "width": 20,
+        "height": 26
+    }
+}

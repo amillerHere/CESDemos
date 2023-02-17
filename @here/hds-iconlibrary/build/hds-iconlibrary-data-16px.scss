@@ -1,0 +1,109 @@
+$hds-iconlibrary-data-16px-font: 'hds-iconlibrary-data-16px';
+
+@define-mixin hds-iconlibrary-data-16px-font {
+  @font-face {
+    font-family: $hds-iconlibrary-data-16px-font;
+    src: url("./hds-iconlibrary-data-16px.eot?aabeaa1da2461e5078c87c55e927c1da#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-data-16px.woff2?aabeaa1da2461e5078c87c55e927c1da") format("woff2"),
+url("./hds-iconlibrary-data-16px.woff?aabeaa1da2461e5078c87c55e927c1da") format("woff");
+  }
+}
+
+
+@define-mixin hds-iconlibrary-data-16px {
+  i[class^='hds-iconlibrary-data-16px'] {
+    font-family: hds-iconlibrary-data-16px, serif !important;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal !important;
+    line-height: 1;
+    text-transform: none;
+  }
+
+  $hds-iconlibrary-data-16px-map: (
+    'app_solid_16px': '\f101',
+    'catalog_solid_16px': '\f102',
+    'database_solid_16px': '\f103',
+    'index_solid_16px': '\f104',
+    'inspect_solid_16px': '\f105',
+    'interactive_solid_16px': '\f106',
+    'layers_solid_16px': '\f107',
+    'marketplace_solid_16px': '\f108',
+    'pipeline_solid_16px': '\f109',
+    'rest_solid_16px': '\f10a',
+    'review_solid_16px': '\f10b',
+    'services_solid_16px': '\f10c',
+    'stream_solid_16px': '\f10d',
+    'template_solid_16px': '\f10e',
+    'versioned_solid_16px': '\f10f',
+    'volatile_solid_16px': '\f110',
+  );
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-app_solid_16px {
+    content: '\f101';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-catalog_solid_16px {
+    content: '\f102';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-database_solid_16px {
+    content: '\f103';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-index_solid_16px {
+    content: '\f104';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-inspect_solid_16px {
+    content: '\f105';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-interactive_solid_16px {
+    content: '\f106';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-layers_solid_16px {
+    content: '\f107';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-marketplace_solid_16px {
+    content: '\f108';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-pipeline_solid_16px {
+    content: '\f109';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-rest_solid_16px {
+    content: '\f10a';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-review_solid_16px {
+    content: '\f10b';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-services_solid_16px {
+    content: '\f10c';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-stream_solid_16px {
+    content: '\f10d';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-template_solid_16px {
+    content: '\f10e';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-versioned_solid_16px {
+    content: '\f10f';
+  }
+
+  i[class^='hds-iconlibrary-data-16px'].hds-icon-data-volatile_solid_16px {
+    content: '\f110';
+  }
+
+}
+

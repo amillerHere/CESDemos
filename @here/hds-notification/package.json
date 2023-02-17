@@ -1,0 +1,56 @@
+{
+  "name": "@here/hds-notification",
+  "version": "2022.10.14",
+  "description": "Notification component from HERE Design System",
+  "main": "build/index.js",
+  "module": "build/index.js",
+  "types": "build/index.d.ts",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "author": {
+    "name": "HERE Global B.V. and its affiliate(s)",
+    "url": "https://here.com"
+  },
+  "scripts": {
+    "build": "tsc --build",
+    "test": "wtr --config \"../../web-test-runner.package.config.mjs\"",
+    "custom-elements": "cem analyze --config \"../../custom-elements-manifest.config.mjs\""
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.in.here.com/artifactory/api/npm/hds/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds.git",
+    "directory": "packages/hds-notification"
+  },
+  "bugs": {
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds/-/issues"
+  },
+  "keywords": [
+    "HERE",
+    "HERE Technologies"
+  ],
+  "files": [
+    "build",
+    "LICENSE",
+    "README.md",
+    "custom-elements.json",
+    "../../HERE_NOTICE"
+  ],
+  "dependencies": {
+    "@here/hds-base": "2022.10.14",
+    "@here/hds-button": "2022.10.14",
+    "@here/hds-icon": "2022.10.14",
+    "@here/hds-iconlibrary": "2022.10.14",
+    "lit": "^2.0.2",
+    "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "@custom-elements-manifest/analyzer": "^0.5.7",
+    "@web/test-runner": "^0.14.0",
+    "cem-plugin-readme": "^0.1.4"
+  },
+  "gitHead": "4ac0b3c257a75bd616d6a1609b4643f70f22415b",
+  "customElements": "custom-elements.json"
+}

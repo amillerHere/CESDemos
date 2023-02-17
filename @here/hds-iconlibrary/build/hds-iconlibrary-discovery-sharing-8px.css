@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'hds-iconlibrary-discovery-sharing-8px';
+  src: url("./hds-iconlibrary-discovery-sharing-8px.eot?8adc788be59c4335b97bdc7018786dd4#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-discovery-sharing-8px.woff2?8adc788be59c4335b97bdc7018786dd4") format("woff2"),
+url("./hds-iconlibrary-discovery-sharing-8px.woff?8adc788be59c4335b97bdc7018786dd4") format("woff");
+}
+
+i[class^='hds-iconlibrary-discovery-sharing-8px']::before {
+  font-family: hds-iconlibrary-discovery-sharing-8px, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal !important;
+  line-height: 1;
+  text-transform: none;
+}
+
+i[class^='hds-iconlibrary-discovery-sharing-8px'].hds-icon-discovery-sharing-copy_solid_8px::before {
+  content: '\f101';
+}

@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'hds-iconlibrary-navigation-image-8px';
+  src: url("./hds-iconlibrary-navigation-image-8px.eot?14604158346811d9723e74fe76fde54f#iefix") format("embedded-opentype"),
+url("./hds-iconlibrary-navigation-image-8px.woff2?14604158346811d9723e74fe76fde54f") format("woff2"),
+url("./hds-iconlibrary-navigation-image-8px.woff?14604158346811d9723e74fe76fde54f") format("woff");
+}
+
+i[class^='hds-iconlibrary-navigation-image-8px']::before {
+  font-family: hds-iconlibrary-navigation-image-8px, serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal !important;
+  line-height: 1;
+  text-transform: none;
+}
+
+i[class^='hds-iconlibrary-navigation-image-8px'].hds-icon-navigation-image-pause_solid_8px::before {
+  content: '\f101';
+}
+i[class^='hds-iconlibrary-navigation-image-8px'].hds-icon-navigation-image-play_solid_8px::before {
+  content: '\f102';
+}
+i[class^='hds-iconlibrary-navigation-image-8px'].hds-icon-navigation-image-stop_solid_8px::before {
+  content: '\f103';
+}

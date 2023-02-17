@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>MapsJS Compiled Demo</title>
+  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+  <script src='./res/utils.js'></script>
+  <script src="./res/jquery-3.2.1.min.js"></script>
+  <script src='./res/topo_links.js'></script>
+  <script src='./res/demo_events.js'></script>
+  <script src='./res/demo_functions.js'></script>
+  <script src='./res/demo_core.js'></script>
+
+
+  <link rel="stylesheet" type="text/css" href="./res/demo.css" />
+  <!--<link rel="stylesheet" type="text/css" href="./res/hds.css" />-->
+  <link rel="stylesheet" type="text/css" href="./res/hds-iconlibrary-24px.css" />
+</head>
+
+<body>
+  <div id="leftTab">
+    <div slot="logo" class="s-M_ihiJ0V0yGx">
+      <hds-logo role="img" aria-label="HERE Technologies Logo">
+
+        <div id="logo" class="wrapper extra-small " style="--hds-logo-color:#000a19cc;--hds-logo-symbol-color:#12e4d6; width:2rem; height: 2rem; margin-left:auto;margin-right:auto;margin-top:1.5rem;">
+          <!--?lit$951793157$-->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+            <path fill="var(--hds-logo-color)"
+              d="M19.0262 20.43C17.8776 19.0817 17.9276 18.3326 18.6267 17.6335C19.4756 16.7845 20.3745 17.1341 21.3733 18.0829L19.0262 20.43ZM30.8115 5.44869C31.6604 4.59975 32.5593 4.94932 33.558 5.89813L31.211 8.2452C30.0125 6.89688 30.0624 6.19776 30.8115 5.44869ZM37.9026 7.8457C36.8539 9.4437 34.9563 12.0405 33.0087 10.0929L37.9526 5.14907C37.5031 4.69963 37.2035 4.30013 36.9039 4.05044C34.2572 1.40375 31.2609 1.35381 28.9138 3.70088C27.3658 5.24894 26.9163 7.04669 27.3658 8.74457L25.8177 6.99676C25.4182 7.19651 23.5206 8.89438 24.9188 11.3913L23.171 9.94308L20.824 12.2901L24.02 15.4861C21.573 13.5386 18.9263 13.7383 16.829 15.8357C14.5818 18.0829 14.7316 20.8295 16.4294 23.0767L16.0799 22.7271C13.8327 20.4799 11.3858 21.2789 10.1873 22.4774C9.23844 23.4262 8.68912 24.6747 8.93881 25.5735L4.09486 20.7296L1.49811 23.3264L11.0861 32.9144H16.2297L12.784 29.4687C10.9863 27.621 10.9363 26.6722 11.8352 25.7733C12.6841 24.9244 13.6829 25.4737 15.4307 27.1715L18.8265 30.5673L21.3733 28.0205L18.1273 24.7745C20.4744 26.5224 23.2709 26.6222 25.7678 24.1254L25.8177 24.0754C27.3658 22.6772 27.8152 21.2789 27.8152 21.2789L25.8677 19.9805C24.819 21.5785 22.9713 24.1753 21.0237 22.2277L25.9675 17.2839L29.0637 20.38L31.7603 17.6834L27.9151 13.8382C26.1173 12.0405 27.166 10.3426 27.9151 9.69339C28.2647 10.4425 28.764 11.1416 29.4132 11.7908C31.9101 14.2876 35.1061 14.787 37.9526 11.9905L38.0025 11.9406C39.5506 10.5423 40 9.14407 40 9.14407L37.9026 7.8457Z">
+            </path>
+            <path fill="var(--hds-logo-symbol-color)" d="M10.9863 32.9144L5.49314 38.4076L0 32.9144H10.9863Z"></path>
+          </svg>
+
+        </div>
+
+      </hds-logo>
+    </div>
+  </div>
+  <div id="leftContainer">
+    <div class="leftTitle">HERE Automotive Content</div>
+    <div class="leftData" id="leftData">
+      <!--
+      <span style="font-family:hds-iconlibrary-core-ui-24px">&#xF201</span>
+      <i class="hds-iconlibrary-24px hds-icon-misc-terrain_solid_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-attention_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-bumps_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-closure_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-disabled-vehicle_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-driving-off_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-lane-restriction_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-truck_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-weather-snowfall_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-speedalert_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-weather-fog_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-road-hazard_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-road-hazard_solid_24px"></i>
+
+      
+      -->
+    </div>
+    <div class="leftData" id="default_controllers">
+      <hr />
+      <!--
+      <div class="leftAction" onclick="reshade_route()">Reset view</div>
+      <div class="leftAction" onclick="reshade_link_accuracy()">Show link accuracy</div>
+      <div class="leftAction" onclick="reshade_roughness()">Show route roughness</div>
+      <div class="leftAction" onclick="reshade_speed()">Show route average speed</div>
+      <div class="leftAction" onclick="reshade_eta()">Show route calculated speed</div>
+      <div class="leftAction" onclick="add_all_telemetry()">Show telemetry data</div>
+
+
+      -->
+      <div class="leftAction" onclick="display('reset')">Reset view</div>
+      <div class="leftAction" onclick="show_routelines(true)">Calculate route</div>
+      <div class="leftAction" onclick="display('link_accuracy')">Show link accuracy</div>
+      <div class="leftAction" onclick="display('route_roughness')">Show route roughness</div>
+      <div class="leftAction" onclick="display('route_speed')">Show route average speed</div>
+      <div class="leftAction" onclick="display('eta')">Show route calculated speed</div>
+      <div class="leftAction" onclick="display('telemetry')">Show telemetry data</div>
+    </div>         
+  </div>
+  <div id="map_headers">
+    <span id="water_color_span">
+        Water color: <input type="text" id="water_color" value="#333333"/>
+    </span>
+    <span id="land_color_span">
+        Land color:
+        <input type="text" id="land_color" value="#8c8c8c"/>
+    </span>
+    <input type="submit" value="redraw" id="redraw_alaska" onclick="ak_redraw()">
+  </div>
+
+  <div id="mapContainer_AK"> </div>
+  <div id="log"> </div>
+
+  <script type="text/javascript">
+    function print_opts() {
+      var nogood_opts = [
+        "hds-icon-misc-terrain_solid_24px",
+        "hds-icon-travel-transport-tracking-bumps_outline_24px",
+        "hds-icon-travel-transport-tracking-driving-off_outline_24px","hds-icon-stats-activity_outline_24px","hds-icon-social-telephone_outline_24px","hds-icon-poi-police_outline_24px","hds-icon-poi-first-aid_outline_24px","hds-icon-poi-car-repair_outline_24px","hds-icon-misc-terrain_outline_24px","hds-icon-misc-service_outline_24px",
+        ]
+    var i_opts = [ "hds-icon-travel-transport-tracking-attention_outline_24px", "hds-icon-travel-transport-tracking-closure_outline_24px", "hds-icon-travel-transport-tracking-disabled-vehicle_outline_24px", "hds-icon-travel-transport-tracking-lane-restriction_outline_24px", "hds-icon-travel-transport-tracking-truck_outline_24px", "hds-icon-weather-snowfall_outline_24px", "hds-icon-travel-transport-tracking-speedalert_outline_24px", "hds-icon-weather-fog_outline_24px", "hds-icon-travel-transport-tracking-road-hazard_outline_24px", "hds-icon-travel-transport-tracking-road-hazard_solid_24px","hds-icon-travel-transport-tracking-accident-car_outline_24px","hds-icon-tools-map-planner_outline_24px","hds-icon-stats-dashboard_outline_24px","hds-icon-map-view-current-location_outline_24px","hds-icon-map-view-current-location-off_outline_24px","hds-icon-devices-sensors-sensor-shock_outline_24px","hds-icon-devices-sensors-sensor-airpressure_outline_24px","hds-icon-core-ui-invalid_outline_24px","hds-icon-core-ui-alert_outline_24px"]
+    for(var i=0;i<i_opts.length;i++) {
+      $("#leftData").append($("<i />",{"class":"hds-iconlibrary-24px "+i_opts[i]}));
+    }
+
+    }
+  </script>
+
+  <script type="text/javascript">
+    // Link UI's CSS stylesheet.
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.type = "text/css";
+    link.href = `${getCDNDistUrl() + "mapsjs-ui.css"}`;
+    document.head.appendChild(link);
+
+    // Exclude legacy modules, venues and HARP for China (HARP is in core module).
+    const optModules = region === 'row' ?
+      ["mapsjs-core-legacy.js", "mapsjs-service-legacy.js", "mapsjs-venues.js", "mapsjs-harp.js"] :
+      [];
+    const modules = [
+      "mapsjs-core.js",
+      "mapsjs-mapevents.js",
+      "mapsjs-service.js",
+      "mapsjs-ui.js",
+      "mapsjs-data.js",
+      "mapsjs-clustering.js",
+
+      ...optModules
+    ];
+    loadCDNScripts(modules).then(() => loadScript("./res/ak.js"));
+  </script>
+</body>
+
+</html>

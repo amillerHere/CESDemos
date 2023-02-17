@@ -1,0 +1,49 @@
+{
+  "name": "@here/hds-base",
+  "version": "2022.10.14",
+  "description": "Base package  HERE Design System webcomponents library",
+  "module": "build/index.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "type": "module",
+  "author": {
+    "name": "HERE Global B.V. and its affiliate(s)",
+    "url": "https://here.com"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "build": "tsc --build && cp src/*.css build && cp -R src/fonts build",
+    "test": "wtr --config \"../../web-test-runner.package.config.mjs\""
+  },
+  "publishConfig": {
+    "registry": "https://artifactory.in.here.com/artifactory/api/npm/hds/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds.git",
+    "directory": "packages/hds-base"
+  },
+  "bugs": {
+    "url": "https://main.gitlab.in.here.com/design/here-design-system/web/hds/-/issues"
+  },
+  "keywords": [
+    "HERE",
+    "HERE Technologies"
+  ],
+  "files": [
+    "build",
+    "LICENSE",
+    "README.md",
+    "../../HERE_NOTICE",
+    "CHANGELOG.md"
+  ],
+  "dependencies": {
+    "lit": "^2.0.2",
+    "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "@custom-elements-manifest/analyzer": "^0.5.7",
+    "@web/test-runner": "^0.14.0"
+  },
+  "gitHead": "4ac0b3c257a75bd616d6a1609b4643f70f22415b"
+}

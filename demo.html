@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>MapsJS Compiled Demo</title>
+  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+  <script src='./res/utils.js'></script>
+  <script src="./res/jquery-3.2.1.min.js"></script>
+  <script src='./res/topo_links.js'></script>
+  <script src='./res/demo_events.js'></script>
+  <script src='./res/demo_functions.js'></script>
+  <script src='./res/demo_core.js'></script>
+
+
+  <link rel="stylesheet" type="text/css" href="./res/demo.css" />
+  <!--<link rel="stylesheet" type="text/css" href="./res/hds.css" />-->
+  <link rel="stylesheet" type="text/css" href="./res/hds-iconlibrary-24px.css" />
+</head>
+
+<body>
+  <div id="leftTab">
+    <div slot="logo" class="s-M_ihiJ0V0yGx">
+      <hds-logo role="img" aria-label="HERE Technologies Logo">
+
+        <div id="logo" class="wrapper extra-small " style="--hds-logo-color:#000a19cc;--hds-logo-symbol-color:#12e4d6; width:2rem; height: 2rem; margin-left:auto;margin-right:auto;margin-top:1.5rem;">
+          <!--?lit$951793157$-->
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+            <path fill="var(--hds-logo-color)"
+              d="M19.0262 20.43C17.8776 19.0817 17.9276 18.3326 18.6267 17.6335C19.4756 16.7845 20.3745 17.1341 21.3733 18.0829L19.0262 20.43ZM30.8115 5.44869C31.6604 4.59975 32.5593 4.94932 33.558 5.89813L31.211 8.2452C30.0125 6.89688 30.0624 6.19776 30.8115 5.44869ZM37.9026 7.8457C36.8539 9.4437 34.9563 12.0405 33.0087 10.0929L37.9526 5.14907C37.5031 4.69963 37.2035 4.30013 36.9039 4.05044C34.2572 1.40375 31.2609 1.35381 28.9138 3.70088C27.3658 5.24894 26.9163 7.04669 27.3658 8.74457L25.8177 6.99676C25.4182 7.19651 23.5206 8.89438 24.9188 11.3913L23.171 9.94308L20.824 12.2901L24.02 15.4861C21.573 13.5386 18.9263 13.7383 16.829 15.8357C14.5818 18.0829 14.7316 20.8295 16.4294 23.0767L16.0799 22.7271C13.8327 20.4799 11.3858 21.2789 10.1873 22.4774C9.23844 23.4262 8.68912 24.6747 8.93881 25.5735L4.09486 20.7296L1.49811 23.3264L11.0861 32.9144H16.2297L12.784 29.4687C10.9863 27.621 10.9363 26.6722 11.8352 25.7733C12.6841 24.9244 13.6829 25.4737 15.4307 27.1715L18.8265 30.5673L21.3733 28.0205L18.1273 24.7745C20.4744 26.5224 23.2709 26.6222 25.7678 24.1254L25.8177 24.0754C27.3658 22.6772 27.8152 21.2789 27.8152 21.2789L25.8677 19.9805C24.819 21.5785 22.9713 24.1753 21.0237 22.2277L25.9675 17.2839L29.0637 20.38L31.7603 17.6834L27.9151 13.8382C26.1173 12.0405 27.166 10.3426 27.9151 9.69339C28.2647 10.4425 28.764 11.1416 29.4132 11.7908C31.9101 14.2876 35.1061 14.787 37.9526 11.9905L38.0025 11.9406C39.5506 10.5423 40 9.14407 40 9.14407L37.9026 7.8457Z">
+            </path>
+            <path fill="var(--hds-logo-symbol-color)" d="M10.9863 32.9144L5.49314 38.4076L0 32.9144H10.9863Z"></path>
+          </svg>
+
+        </div>
+
+      </hds-logo>
+    </div>
+  </div>
+  <div id="leftContainer">
+    <div class="leftTitle">HERE Automotive Content</div>
+    <div class="leftData" id="leftData">
+      <!--
+      <span style="font-family:hds-iconlibrary-core-ui-24px">&#xF201</span>
+      <i class="hds-iconlibrary-24px hds-icon-misc-terrain_solid_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-attention_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-bumps_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-closure_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-disabled-vehicle_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-driving-off_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-lane-restriction_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-truck_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-weather-snowfall_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-speedalert_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-weather-fog_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-road-hazard_outline_24px"></i>
+      <i class="hds-iconlibrary-24px hds-icon-travel-transport-tracking-road-hazard_solid_24px"></i>
+
+      
+      -->
+    </div>
+    <div class="leftData" id="default_controllers">
+      <hr />
+      <!--
+      <div class="leftAction" onclick="reshade_route()">Reset view</div>
+      <div class="leftAction" onclick="reshade_link_accuracy()">Show link accuracy</div>
+      <div class="leftAction" onclick="reshade_roughness()">Show route roughness</div>
+      <div class="leftAction" onclick="reshade_speed()">Show route average speed</div>
+      <div class="leftAction" onclick="reshade_eta()">Show route calculated speed</div>
+      <div class="leftAction" onclick="add_all_telemetry()">Show telemetry data</div>
+
+
+      -->
+      <div class="leftAction" onclick="display('reset')">Reset view</div>
+      <div class="leftAction" onclick="show_routelines(true)">Calculate route</div>
+      <div class="leftAction" onclick="display('link_accuracy')">Show link accuracy</div>
+      <div class="leftAction" onclick="display('route_roughness')">Show route roughness</div>
+      <div class="leftAction" onclick="display('route_speed')">Show route average speed</div>
+      <div class="leftAction" onclick="display('eta')">Show route calculated speed</div>
+      <div class="leftAction" onclick="display('telemetry')">Show telemetry data</div>
+    </div>
+    <div id="maneuver_pane">
+      <here-route-details data-route="currentRoute" data-is-visible="shouldDisplayRouteDetails"><div id="maneuversPlaceholder"><section data-ng-controller="ManeuversCtrl as maneuversCtrl" class="directions_container  car" data-here-expose-services="TransportModes,maneuverIcons,Features"><!----><!----><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 11;"><div class="maneuver_container depart simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><!----><div class="itinerary_point" data-ng-if="maneuver.action === 'depart' &amp;&amp; (isPedestrian || isCar || isBicycle)" data-ng-bind-html="maneuverIcons.getTrustedSVG('startingPoint')"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+        <g>
+          <path fill="#01B6B2" d="M21.3,43L9.2,30.8c-3.5-3.2-5.7-7.9-5.7-13C3.5,8,11.5,0,21.3,0s17.8,8,17.8,17.8c0,5.1-2.2,9.8-5.7,13
+            L21.3,43z"></path>
+        </g>
+      </g>
+      <g>
+        <polyline opacity="0.5" fill="#323232" points="13.4,34.8 28.9,34.8 21.3,42.4 13.4,34.8 	"></polyline>
+      </g>
+      <g>
+      </g>
+      <g>
+        <g>
+          <path fill="#416A86" d="M21.3,0.5c9.5,0,17.3,7.8,17.3,17.3c0,4.8-2,9.3-5.5,12.7L21.3,42.3L9.5,30.5C6,27.1,4,22.6,4,17.8
+            C4,8.3,11.8,0.5,21.3,0.5 M21.3,0C11.5,0,3.5,8,3.5,17.8c0,5.1,2.2,9.8,5.7,13L21.3,43l12.1-12.2c3.5-3.2,5.7-7.9,5.7-13
+            C39.1,8,31.1,0,21.3,0L21.3,0z"></path>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle fill="#FFFFFF" cx="21.1" cy="18.2" r="4.4"></circle>
+        </g>
+      </g>
+      </svg></div><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Depart from <span class="waypoint">13th St</span>. Head toward <span class="toward_street">Champa St</span> on <span class="street">13th St</span>. <span class="distance-description">Go for <span class="length">45 yd</span>.</span></span></p></div><!----><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">135 ft</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span>&lt;</span>&nbsp;<span class="value">1</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 10;"><div class="maneuver_container rightTurn simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><path fill="#2c48a1" d="M36.26,8.47L22.01,0.24C21.03-0.32,20.23,0.14,20.23,1.27V6H6.5C4.57,6,3,7.57,3,9.5v1.597V13v30h7V13h10.23v4.73
+       c0,1.13,0.8,1.59,1.779,1.03l14.25-8.229C37.25,9.96,37.25,9.04,36.26,8.47z"></path>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Turn <span class="direction">right</span> onto <span class="next-street">Champa St</span>. <span class="distance-description">Go for <span class="length">0.1 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">528 ft</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span>&lt;</span>&nbsp;<span class="value">1</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 9;"><div class="maneuver_container rightTurn simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><path fill="#2c48a1" d="M36.26,8.47L22.01,0.24C21.03-0.32,20.23,0.14,20.23,1.27V6H6.5C4.57,6,3,7.57,3,9.5v1.597V13v30h7V13h10.23v4.73
+       c0,1.13,0.8,1.59,1.779,1.03l14.25-8.229C37.25,9.96,37.25,9.04,36.26,8.47z"></path>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Turn <span class="direction">right</span> toward <span class="sign">Speer Blvd</span>. <span class="distance-description">Go for <span class="length">66 yd</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">197 ft</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span>&lt;</span>&nbsp;<span class="value">1</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 8;"><div class="maneuver_container continue simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><path fill="#2c48a1" d="M25,16.772h4.73c1.131,0,1.594-0.802,1.028-1.782L22.529,0.735c-0.566-0.98-1.491-0.98-2.057,0L12.241,14.99
+       c-0.565,0.981-0.103,1.782,1.03,1.782H18V43h7V16.772z"></path>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Continue on <span class="next-street">Speer Blvd</span>. <span class="distance-description">Go for <span class="length">1.0 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">1 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">3</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 7;"><div class="maneuver_container rightRamp simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" d="M18.975,8.577l-3.023,11.278c-0.204,0.78-0.843,0.95-1.41,0.383l-2.37-2.376l-5.206,5.206V38H2V22.04
+       c0-0.681,0.276-1.305,0.731-1.752l5.93-5.936l-2.375-2.369c-0.569-0.568-0.399-1.206,0.382-1.412l11.279-3.022
+       C18.719,7.343,19.181,7.804,18.975,8.577z M10.407,39h13.595l1-36l-4.85,0.006c-0.275,0-0.559,0.217-0.631,0.483l-0.567,2.096
+       c0.595,0.144,1.118,0.471,1.488,0.952c0.538,0.7,0.695,1.607,0.441,2.559l-3.02,11.266c-0.352,1.344-1.398,2.212-2.665,2.212
+       c-0.274,0-0.543-0.057-0.807-0.14l-4.354,16.084C9.965,38.783,10.131,39,10.407,39z"></path>
+      <path fill="#2c48a1" d="M41.983,38.513l-9.48-35.019c-0.072-0.266-0.356-0.482-0.631-0.483l-4.849-0.006l1,35.99h13.591
+       C41.889,38.995,42.055,38.778,41.983,38.513z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Take slip road onto <span class="number">I-25 N</span> <span class="next-street">(N Valley Hwy)</span> toward <span class="sign"><span lang="en">Ft Collins</span></span>. <span class="distance-description">Go for <span class="length">1.4 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">1.4 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">2</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 6;"><div class="maneuver_container rightExit simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" d="M33.6,38.99l-13.565-0.042L19.005,3l4.85,0.006c0.276,0,0.559,0.217,0.631,0.483l9.483,35.019
+       C34.041,38.773,33.875,38.99,33.6,38.99z M2.386,38.99H15.98l1-35.99l-4.85,0.006c-0.275,0-0.559,0.217-0.631,0.483L2.017,38.507
+       C1.945,38.773,2.111,38.99,2.386,38.99z"></path>
+      <path fill="#2c48a1" d="M40.922,5.095L29.64,8.117c-0.781,0.206-0.952,0.844-0.382,1.412l2.376,2.37L20.346,23.201
+       c-0.455,0.447-0.732,1.071-0.732,1.751l0.408,14.042l13.586,0c0.276,0,0.442-0.217,0.369-0.483l-4.67-17.276l5.839-5.826
+       l2.372,2.376c0.567,0.567,1.205,0.398,1.41-0.383l3.023-11.278C42.157,5.35,41.695,4.889,40.922,5.095z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Take exit <span class="exit">214A</span> toward <span class="sign"><span lang="en">Airport</span>/<span lang="en">Limon</span></span> onto <span class="number">I-70 E</span>. <span class="distance-description">Go for <span class="length">10.4 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">10 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">15</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 5;"><div class="maneuver_container rightExit simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" d="M33.6,38.99l-13.565-0.042L19.005,3l4.85,0.006c0.276,0,0.559,0.217,0.631,0.483l9.483,35.019
+       C34.041,38.773,33.875,38.99,33.6,38.99z M2.386,38.99H15.98l1-35.99l-4.85,0.006c-0.275,0-0.559,0.217-0.631,0.483L2.017,38.507
+       C1.945,38.773,2.111,38.99,2.386,38.99z"></path>
+      <path fill="#2c48a1" d="M40.922,5.095L29.64,8.117c-0.781,0.206-0.952,0.844-0.382,1.412l2.376,2.37L20.346,23.201
+       c-0.455,0.447-0.732,1.071-0.732,1.751l0.408,14.042l13.586,0c0.276,0,0.442-0.217,0.369-0.483l-4.67-17.276l5.839-5.826
+       l2.372,2.376c0.567,0.567,1.205,0.398,1.41-0.383l3.023-11.278C42.157,5.35,41.695,4.889,40.922,5.095z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Take exit <span class="exit">284</span> toward <span class="sign"><span lang="en">Denver International Airport</span>/<span lang="en">Pena Blvd</span></span> onto <span class="next-street">Pena Blvd</span>. <span class="distance-description">Go for <span class="length">11.6 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">12 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">12</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 4;"><div class="maneuver_container rightFork simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" style="opacity:0.4;" d="M26.805,8.96L22.09,1.421c-0.323-0.562-0.854-0.562-1.178,0L16.197,8.96
+       c-0.324,0.561-0.06,1.021,0.59,1.021H19V22.9l-8.767-10.116l1.607-1.608c0.459-0.458,0.321-0.969-0.304-1.139L2.872,8.04
+       c-0.625-0.169-1,0.206-0.832,0.833l1.996,8.665c0.168,0.626,0.68,0.764,1.139,0.304l1.564-1.565L19,30.426V40h4.941V9.981h2.273
+       C26.863,9.981,27.127,9.521,26.805,8.96z"></path>
+      <path fill="#2c48a1" d="M40.96,8.87l-2,8.67c-0.16,0.62-0.68,0.76-1.13,0.3l-1.57-1.559L25.94,28.68L24,31v9h-5V29.34c0-0.84,0.3-1.62,0.8-2.22
+       c0.07-0.09,0.15-0.17,0.23-0.25L32.77,12.78l-1.609-1.6c-0.46-0.46-0.32-0.97,0.3-1.14l8.67-2C40.75,7.87,41.13,8.25,40.96,8.87z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Keep <span class="direction">right</span> toward <span class="sign"><span lang="en">Terminal East</span></span>. <span class="distance-description">Go for <span class="length">0.6 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">0.6 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">1</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 3;"><div class="maneuver_container rightFork simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" style="opacity:0.4;" d="M26.805,8.96L22.09,1.421c-0.323-0.562-0.854-0.562-1.178,0L16.197,8.96
+       c-0.324,0.561-0.06,1.021,0.59,1.021H19V22.9l-8.767-10.116l1.607-1.608c0.459-0.458,0.321-0.969-0.304-1.139L2.872,8.04
+       c-0.625-0.169-1,0.206-0.832,0.833l1.996,8.665c0.168,0.626,0.68,0.764,1.139,0.304l1.564-1.565L19,30.426V40h4.941V9.981h2.273
+       C26.863,9.981,27.127,9.521,26.805,8.96z"></path>
+      <path fill="#2c48a1" d="M40.96,8.87l-2,8.67c-0.16,0.62-0.68,0.76-1.13,0.3l-1.57-1.559L25.94,28.68L24,31v9h-5V29.34c0-0.84,0.3-1.62,0.8-2.22
+       c0.07-0.09,0.15-0.17,0.23-0.25L32.77,12.78l-1.609-1.6c-0.46-0.46-0.32-0.97,0.3-1.14l8.67-2C40.75,7.87,41.13,8.25,40.96,8.87z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Keep <span class="direction">right</span> toward <span class="sign"><span lang="en">Departures</span>/<span lang="en">Arrivals</span></span>. <span class="distance-description">Go for <span class="length">0.4 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">0.4 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">1</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 2;"><div class="maneuver_container leftFork simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><div class="car" data-ng-if="maneuver.action !== 'arrive' &amp;&amp; maneuver.action !== 'depart' &amp;&amp; maneuver.action !== 'nameChange' &amp;&amp; maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'continue' &amp;&amp; isPublicTransport)" data-ng-bind-html="maneuverIcons.getTrustedSVG(maneuver.action, null, null, publicTransportWalkSegmentColor)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+      <path fill="#2c48a1" style="opacity:0.4;" d="M40.128,8.04l-8.665,1.997c-0.625,0.169-0.763,0.68-0.304,1.139l1.607,1.608L24,22.9V9.981h2.213
+       c0.649,0,0.914-0.459,0.59-1.021l-4.715-7.539c-0.324-0.562-0.854-0.562-1.178,0L16.195,8.96c-0.322,0.561-0.059,1.021,0.59,1.021
+       h2.273V40H24v-9.574l12.261-14.148l1.564,1.565c0.459,0.459,0.971,0.322,1.139-0.304l1.996-8.665
+       C41.128,8.247,40.753,7.872,40.128,8.04z"></path>
+      <path fill="#2c48a1" d="M2.04,8.87l2,8.67c0.16,0.62,0.68,0.76,1.13,0.3l1.57-1.559l10.319,12.4L19,31v9h5V29.34c0-0.84-0.3-1.62-0.8-2.22
+       c-0.07-0.09-0.15-0.17-0.23-0.25L10.231,12.78l1.609-1.6c0.46-0.46,0.32-0.97-0.3-1.14l-8.67-2C2.25,7.87,1.87,8.25,2.04,8.87z"></path>
+      </g>
+      </svg></div><!----><!----><!----><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Keep <span class="direction">left</span> toward <span class="sign"><span lang="en">Parking</span>/<span lang="en">Valet Parking</span>/<span lang="en">Short Term Parking</span>/<span lang="en">Arrivals</span></span>. <span class="distance-description">Go for <span class="length">0.7 mi</span>.</span></span></p></div><!----></header><!----><div class="maneuver_info light" data-ng-if="(maneuver.action !== 'enter' &amp;&amp; !(maneuver.action === 'arrive' &amp;&amp; $last)) &amp;&amp; (maneuver.length || maneuver.travelTime || maneuver.walkManeuvers)"><!----><p data-ng-if="isCar || isPedestrian || (isPublicTransport &amp;&amp; !(maneuver.action === 'depart' || maneuver.action === 'continue' || maneuver.action === 'arrive')) || isBicycle"><span class="distance">0.7 mi</span> <!----><span data-ng-if="maneuver.travelTime" class="separator"></span><!----><!----><time data-ng-if="maneuver.travelTime" data-ng-bind-html="maneuver.travelTime | readableTimeSpan"><span class="value">3</span> <span class="unit">min</span></time><!----><!----> <!----> <!----></p><!----><!----><!----></div><!----><!----></div></div><!----><div class="maneuver last" data-here-expose-services="hereBrowser" data-ng-repeat="maneuver in routeManeuvers track by $index" data-ng-style="{'z-index': (routeManeuvers.length - $index)}" data-ng-class="{last: $last}" style="z-index: 1;"><div class="maneuver_container arrive simpleManeuver" data-ng-class="{'simpleManeuver': !(maneuver.walkManeuvers || maneuver.middlePointsData.points)}"><!----><header data-ng-mouseenter="maneuversCtrl.showManeuverMarker(maneuver, true)" data-ng-mouseleave="maneuversCtrl.removeMarker()" data-ng-click="maneuversCtrl.showManeuverMarker(maneuver); maneuversCtrl.expandMarker(maneuver); $event.stopPropagation()"><div class="maneuver_icon"><!----><!----><!----><!----><!----><div class="itinerary_point" data-ng-if="maneuver.action === 'arrive' &amp;&amp; $last" data-ng-bind-html="maneuverIcons.getTrustedSVG('destination')"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 43" width="43" height="43"><g>
+        <g>
+          <path fill="#323232" d="M21.3,43L9.2,30.8c-3.5-3.2-5.7-7.9-5.7-13C3.5,8,11.5,0,21.3,0s17.8,8,17.8,17.8c0,5.1-2.2,9.8-5.7,13
+            L21.3,43z"></path>
+        </g>
+      </g>
+      <g>
+        <polyline fill="#7D7D7D" points="13.4,34.8 28.9,34.8 21.3,42.4 13.4,34.8 	"></polyline>
+      </g>
+      <g>
+        <polygon fill="#FFFFFF" points="21,6.1 21,12 15,12 15,7.7 	"></polygon>
+        <polygon fill="#FFFFFF" points="31.3,12 27.1,12 27.1,8 29.5,9.9 29.8,10.2 	"></polygon>
+        <polygon fill="#FFFFFF" points="15,18.1 9.1,18.1 9.6,15.1 10.8,12 15,12 	"></polygon>
+        <rect x="21" y="12" fill="#FFFFFF" width="6" height="6"></rect>
+        <rect x="15" y="18.1" fill="#FFFFFF" width="6" height="6"></rect>
+        <polygon fill="#FFFFFF" points="31.1,24.1 27.1,24.1 27.1,18.1 32.8,18.1 32.4,21.2 32,21.9 	"></polygon>
+        <polygon fill="#FFFFFF" points="10.8,24.1 15,24.1 15,28.4 	"></polygon>
+        <polygon fill="#FFFFFF" points="27.1,28.4 21,30 21,24.1 27.1,24.1 	"></polygon>
+        <g>
+          <path fill="#FFFFFF" d="M21,6.5c6.3,0,11.5,5.2,11.5,11.5S27.3,29.5,21,29.5S9.5,24.3,9.5,18S14.7,6.5,21,6.5 M21,6
+            C14.4,6,9,11.4,9,18s5.4,12,12,12c6.6,0,12-5.4,12-12S27.6,6,21,6L21,6z"></path>
+        </g>
+      </g>
+      <g>
+        <g>
+          <path fill="#7C7C7C" d="M21.3,0.5c9.5,0,17.3,7.8,17.3,17.3c0,4.8-2,9.3-5.5,12.7L21.3,42.3L9.5,30.5C6,27.1,4,22.6,4,17.8
+            C4,8.3,11.8,0.5,21.3,0.5 M21.3,0C11.5,0,3.5,8,3.5,17.8c0,5.1,2.2,9.8,5.7,13L21.3,43l12.1-12.2c3.5-3.2,5.7-7.9,5.7-13
+            C39.1,8,31.1,0,21.3,0L21.3,0z"></path>
+        </g>
+      </g>
+      
+      </svg></div><!----><!----></div><div class="maneuver_title" data-ng-class="{station: maneuver.action === 'enter'}"><p><span data-ng-bind="maneuver.instructionPrefix"></span><!----><span data-ng-bind-html="maneuver.instruction" data-ng-class="{platform: maneuver.action === 'enter', light: maneuver.instructionPrefix}">Arrive at <span class="waypoint">Level 5 Rd</span>.</span></p></div><!----><div class="times light" data-ng-if="isPublicTransport || $first || $last"><time>9:21</time><!----></div><!----></header><!----><!----></div></div><!----><!----></section></div></here-route-details>
+    </div>
+  </div>
+  <div id="mapContainer"> </div>
+  <div id="log"> </div>
+
+  <script type="text/javascript">
+    function print_opts() {
+      var nogood_opts = [
+        "hds-icon-misc-terrain_solid_24px",
+        "hds-icon-travel-transport-tracking-bumps_outline_24px",
+        "hds-icon-travel-transport-tracking-driving-off_outline_24px","hds-icon-stats-activity_outline_24px","hds-icon-social-telephone_outline_24px","hds-icon-poi-police_outline_24px","hds-icon-poi-first-aid_outline_24px","hds-icon-poi-car-repair_outline_24px","hds-icon-misc-terrain_outline_24px","hds-icon-misc-service_outline_24px",
+        ]
+    var i_opts = [ "hds-icon-travel-transport-tracking-attention_outline_24px", "hds-icon-travel-transport-tracking-closure_outline_24px", "hds-icon-travel-transport-tracking-disabled-vehicle_outline_24px", "hds-icon-travel-transport-tracking-lane-restriction_outline_24px", "hds-icon-travel-transport-tracking-truck_outline_24px", "hds-icon-weather-snowfall_outline_24px", "hds-icon-travel-transport-tracking-speedalert_outline_24px", "hds-icon-weather-fog_outline_24px", "hds-icon-travel-transport-tracking-road-hazard_outline_24px", "hds-icon-travel-transport-tracking-road-hazard_solid_24px","hds-icon-travel-transport-tracking-accident-car_outline_24px","hds-icon-tools-map-planner_outline_24px","hds-icon-stats-dashboard_outline_24px","hds-icon-map-view-current-location_outline_24px","hds-icon-map-view-current-location-off_outline_24px","hds-icon-devices-sensors-sensor-shock_outline_24px","hds-icon-devices-sensors-sensor-airpressure_outline_24px","hds-icon-core-ui-invalid_outline_24px","hds-icon-core-ui-alert_outline_24px"]
+    for(var i=0;i<i_opts.length;i++) {
+      $("#leftData").append($("<i />",{"class":"hds-iconlibrary-24px "+i_opts[i]}));
+    }
+
+    }
+  </script>
+
+  <script type="text/javascript">
+    // Link UI's CSS stylesheet.
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.type = "text/css";
+    link.href = `${getCDNDistUrl() + "mapsjs-ui.css"}`;
+    document.head.appendChild(link);
+
+    // Exclude legacy modules, venues and HARP for China (HARP is in core module).
+    const optModules = region === 'row' ?
+      ["mapsjs-core-legacy.js", "mapsjs-service-legacy.js", "mapsjs-venues.js", "mapsjs-harp.js"] :
+      [];
+    const modules = [
+      "mapsjs-core.js",
+      "mapsjs-mapevents.js",
+      "mapsjs-service.js",
+      "mapsjs-ui.js",
+      "mapsjs-data.js",
+      "mapsjs-clustering.js",
+
+      ...optModules
+    ];
+    loadCDNScripts(modules).then(() => loadScript("./res/demo.js"));
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+{
+    "pages": [
+        "CJK_Unified_Ideographs_Extension_A.png"
+    ],
+    "chars": [
+        {
+            "id": 19893,
+            "index": 540,
+            "char": "䶵",
+            "width": 38,
+            "height": 37,
+            "xoffset": -3,
+            "yoffset": 3,
+            "xadvance": 32,
+            "chnl": 15,
+            "x": 0,
+            "y": 0,
+            "page": 0
+        },
+        {
+            "id": 19712,
+            "index": 539,
+            "char": "䴀",
+            "width": 37,
+            "height": 37,
+            "xoffset": -2,
+            "yoffset": 3,
+            "xadvance": 32,
+            "chnl": 15,
+            "x": 0,
+            "y": 39,
+            "page": 0
+        }
+    ],
+    "info": {
+        "face": "DroidSansFallback",
+        "size": 32,
+        "bold": 0,
+        "italic": 0,
+        "charset": [
+            "䴀",
+            "䶵"
+        ],
+        "unicode": 1,
+        "stretchH": 100,
+        "smooth": 1,
+        "aa": 1,
+        "padding": [
+            4,
+            4,
+            4,
+            4
+        ],
+        "spacing": [
+            0,
+            0
+        ]
+    },
+    "common": {
+        "lineHeight": 34,
+        "base": 29,
+        "scaleW": 38,
+        "scaleH": 76,
+        "pages": 1,
+        "packed": 0,
+        "alphaChnl": 0,
+        "redChnl": 0,
+        "greenChnl": 0,
+        "blueChnl": 0
+    },
+    "distanceField": {
+        "fieldType": "msdf",
+        "distanceRange": 8
+    },
+    "kernings": []
+}
